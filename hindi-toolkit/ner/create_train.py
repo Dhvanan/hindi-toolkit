@@ -17,7 +17,7 @@ for line in input_file:
         row = line.split('\t')
         word = []
         for entry in row:
-            word.append(entry)
+            word.append(entry.strip())
         sentence.append(word)
 
 input_file.close()
