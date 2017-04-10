@@ -1,12 +1,12 @@
 # coding: utf-8
 
 from ner.crf_ner import tag_ner
-
+from pos.pos_tagger import pos_tag
 
 class Core():
 
     def __init__(self):
-
+        return
         # Load the models
 
     def load(self, doc, process=True):
@@ -24,18 +24,18 @@ class Core():
 	        self.predict_sentiment()
 
     def split_sentence(self):
-        print 'Split document into sentences'
+        print('Split document into sentences')
         # self.sentences = split_sentence(self.doc)
 
     def tokenize(self):
-        print 'Tokenize sentences'
+        print('Tokenize sentences')
         # self.sentences = tokenize(self.sentences)
         # Replace sentence string with list of tokens
         # Format -> [token, <POS_tag>, <NE_tag>]
         # Initialize the <POS_tag>, <NE_tag> to None
 
-    def tag_pos(self):
-        print 'POS Tagger'
+    def tag_pos(self, text):
+        return pos_tag(text)
         # self.sentences = tag_pos(self.sentences)
         # Replace <POS_tag> field with prediction
 
