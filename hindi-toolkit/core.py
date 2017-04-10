@@ -6,27 +6,22 @@ from ner.crf_ner import tag_ner
 class Core():
 
     def __init__(self):
-        self.doc = None
-        self.sentences = []
-        # contains list of sentences, where each sentence is a list of tokens
-        # and pos tags
-
-        self.coref_sentences = []
-        self.sentiment = []
-        # contains predicted sentiment score for each sentence
 
         # Load the models
 
-    def process(self, doc):
+    def load(self, doc, process=True):
         self.doc = doc
         self.sentences = []
         self.coref_sentences = []
         self.sentiment = []
+        
+        if process == True:
+	        self.split_sentence()
+	        self.tokenize()
+	        self.tag_pos()
+	        self.tag_ner()
 
-        self.split_sentence()
-        self.tokenize()
-        self.tag_pos()
-        self.tag_ner()
+	        self.predict_sentiment()
 
     def split_sentence(self):
         print 'Split document into sentences'
@@ -46,3 +41,6 @@ class Core():
 
     def tag_ner(self):
         self.sentences = tag_net(self.sentences)
+
+    def predict_sentiment(self):
+    	self.sentiment = predict_sentiment(self.sentences)
