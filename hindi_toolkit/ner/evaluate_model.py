@@ -77,7 +77,7 @@ if __name__ == '__main__':
     train, test = data['train'], data['test']
 
     # Analysis of the dataset
-    print 'Total # sentences : \t', len(sentences)
+    print '\n\nTotal # sentences : \t', len(sentences)
     print '# sentences in train: \t', len(train)
     print '# sentences in test: \t', len(test)
 

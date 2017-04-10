@@ -1,6383 +1,3684 @@
-रमजान	NN	O
-के	PSP	O
-पूरे	JJ	O
-तीस	QC	O
-रोजों	NN	O
-के	PSP	O
-बाद	NST	O
-ईद	NN	O
-आयी	VM	O
-है	VAUX	O
-Sentiment: 0
-
-कितना	QF	O
-मनोहर	JJ	O
-,	SYM	O
-कितना	QF	O
-सुहावना	NN	O
-प्रभाव	NN	O
-है	VM	O
-Sentiment: 0
-
-वृक्षों	NN	O
-पर	PSP	O
-अजीब	JJ	O
-हरियाली	NN	O
-है	VM	O
-,	SYM	O
-खेतों	NN	O
-में	PSP	O
-कुछ	QF	O
-अजीब	JJ	O
-रौनक	NN	O
-है	VM	O
-,	SYM	O
-आसमान	NN	ENAMEX_LOCATION_B
-पर	PSP	O
-कुछ	QF	O
-अजीब	JJ	O
-लालिमा	NN	O
-है	VM	O
-Sentiment: 0
-
-आज	NN	O
-का	PSP	O
-सूर्य	NN	O
-देखो	VM	O
-,	SYM	O
-कितना	QF	O
-प्यारा	XC	O
-,	SYM	O
-कितना	QF	O
-शीतल	NN	O
-है	VM	O
-,	SYM	O
-यानी	CC	O
-संसार	NN	O
+कल	NN	O
+शाम	NN	O
 को	PSP	O
-ईद	NN	O
-की	PSP	O
-बधाई	NN	O
-दे	VM	O
-रहा	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-गाँव	NN	O
-में	PSP	O
-कितनी	QF	O
-हलचल	JJ	O
-है	VM	O
-Sentiment: -1
-
-ईदगाह	NN	O
-जाने	VM	O
-की	PSP	O
-तैयारियाँ	NN	O
-हो	VM	O
-रही	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-किसी	PRP	O
-के	PSP	O
-कुरते	NN	O
-में	PSP	O
-बटन	NN	O
-नहीं	NEG	O
-है	VM	O
-,	SYM	O
-पड़ोस	NNP	ENAMEX_LOCATION_B
-के	PSP	O
-घर	NN	O
-में	PSP	O
-सुई	RDP	O
--	SYM	O
-धागा	PRP	O
-लेने	VM	O
-दौड़ा	VM	O
-जा	VAUX	O
-रहा	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-किसी	PRP	O
-के	PSP	O
-जूते	NN	O
-कड़े	JJ	O
-हो	VM	O
-गए	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-उनमें	PRP	O
-तेल	NN	O
-डालने	VM	O
-के	PSP	O
-लिए	PSP	O
-तेली	NN	O
-के	PSP	O
-घर	NN	O
-पर	PSP	O
-भागा	VM	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-जल्दी	RB	O
--	SYM	O
-जल्दी	RB	O
-बैलों	NN	O
-को	PSP	O
-सानी	NN	O
--	SYM	O
-पानी	NN	O
-दे	VM	O
-दें	VAUX	O
-Sentiment: -1
-
-ईदगाह	NN	O
-से	PSP	O
-लौटते	VM	O
--	SYM	O
-लौटते	VM	O
-दोपहर	NN	O
-हो	VM	O
-जायगी	VAUX	O
-Sentiment: 0
-
-तीन	QC	O
-कोस	NN	O
-का	PSP	O
-पैदल	JJ	O
-रास्ता	NN	O
-,	SYM	O
-फिर	RB	O
-सैकड़ों	XC	O
-आदमियों	NN	O
-से	PSP	O
-मिलना	VM	O
--	SYM	O
-भेंटना	PRP	O
-,	SYM	O
-दोपहर	NN	O
-के	PSP	O
-पहले	NST	O
-लौटना	VM	O
-असम्भव	JJ	O
-है	VM	O
-Sentiment: 0
-
-लड़के	NNP	O
-सबसे	INTF	O
-ज्यादा	QF	O
-प्रसन्न	JJ	O
-हैं	VM	O
-Sentiment: 0
-
-किसी	PRP	O
-ने	PSP	O
 एक	QC	O
-रोजा	NN	O
-रखा	VM	O
-है	VAUX	O
-,	SYM	O
-वह	PRP	O
-भी	RP	O
-दोपहर	NN	O
-तक	RP	O
-,	SYM	O
-किसी	PRP	O
-ने	PSP	O
-वह	PRP	O
-भी	RP	O
-नहीं	NEG	O
-,	SYM	O
-लेकिन	CC	O
-ईदगाह	NN	O
-जाने	VM	O
-की	PSP	O
-खुशी	NN	O
-उनके	PRP	O
-हिस्से	NN	O
-की	PSP	O
-चीज	NN	O
-है	VM	O
-Sentiment: 0
-
-रोजे	NN	O
-बड़े	NNP	O
--	SYM	O
-बूढ़ों	PRP	O
-के	PSP	O
-लिए	PSP	O
-होंगे	VM	O
-Sentiment: 0
-
-इनके	PRP	O
-लिए	PSP	O
-तो	RP	O
-ईद	NN	O
-है	VM	O
-Sentiment: 0
-
-रोज	NN	O
-ईद	NN	O
-का	PSP	O
-नाम	NN	O
-रटते	VM	O
-थे	VAUX	O
-,	SYM	O
-आज	NN	O
-वह	PRP	O
-आ	VM	O
-गयी	VAUX	O
-Sentiment: 0
-
-अब	PRP	O
-जल्दी	RB	O
-पड़ी	NN	O
-है	VM	O
-कि	CC	O
-लोग	NN	O
-ईदगाह	NN	O
-क्यों	WQ	O
-नहीं	NEG	O
-चलते	VM	O
-Sentiment: 0
-
-इन्हें	PRP	O
-गृहस्थी	NN	O
-की	PSP	O
-चिंताओं	NN	O
+जरूरत	NN	O
 से	PSP	O
-क्या	WQ	O
-प्रयोजन	NN	O
-!	SYM	O
-सेवैयों	NN	O
-के	PSP	O
-लिए	PSP	O
-दूध	NN	ENAMEX_MATERIALS_B
-ओर	PSP	O
-शक्कर	XC	O
-घर	NN	O
-में	PSP	O
-है	VM	O
-या	CC	O
-नहीं	NEG	O
-,	SYM	O
-इनकी	PRP	O
-बला	NN	O
-से	PSP	O
-,	SYM	O
-ये	PRP	O
-तो	CC	O
-सेवेयाँ	NN	O
-खायेंगे	VM	O
-Sentiment: 0
-
-वह	PRP	O
-क्या	WQ	O
-जानें	VM	O
-कि	CC	O
-अब्बाजान	NN	O
-क्यों	WQ	O
-बदहवास	NN	O
-चौधरी	JJ	O
-कायमअली	NN	O
-के	PSP	O
-घर	NN	O
-दौड़े	JJ	O
-जा	VM	O
-रहे	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-उन्हें	PRP	O
-क्या	WQ	O
-खबर	NN	O
-कि	CC	O
-चौधरी	JJ	O
-आँखें	NN	O
-बदल	VM	O
-लें	VAUX	O
-,	SYM	O
-तो	CC	O
-यह	PRP	O
-सारी	QF	O
-ईद	NN	O
-मुहर्रम	JJ	O
-हो	VM	O
-जाय	VAUX	O
-Sentiment: 0
-
-उनकी	PRP	O
-अपनी	PRP	O
-जेबों	NN	O
-में	PSP	O
-तो	RP	O
-कुबेर	NN	O
-का	PSP	O
-धन	NN	O
-भरा	VM	O
+तांगे	NN	O
+पर	PSP	O
+बैठा	VM	O
 हुआ	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-बार	RP	O
--	SYM	O
-बार	RP	O
-जेब	NN	O
-से	PSP	O
-अपना	PRP	O
-खजाना	NN	O
-निकालकर	VM	O
-गिनते	VAUX	O
-हैं	VAUX	O
-और	CC	O
-खुश	JJ	O
-होकर	VM	O
-फिर	RB	O
-रख	VM	O
-लेते	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-महमूद	NN	O
-गिनता	VM	O
-है	VAUX	O
-,	SYM	O
-एक	QC	O
--	SYM	O
-दो	QC	O
-,	SYM	O
-दस	QC	O
-,	SYM	O
--	SYM	O
-बारह	QC	O
-,	SYM	O
-उसके	PRP	O
-पास	NST	O
-बारह	QC	O
-पैसे	NN	O
-हैं	VM	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
-के	PSP	O
-पास	NST	O
-एक	QC	O
-,	SYM	O
-दो	QC	O
-,	SYM	O
-तीन	QC	O
-,	SYM	O
-आठ	QC	O
-,	SYM	O
-नौ	QC	O
-,	SYM	O
-पंद्रह	QC	O
-पैसे	NN	O
-हैं	VM	O
-Sentiment: 0
-
-इन्हीं	DEM	O
-अनगिनती	JJ	O
-पैसों	NN	O
-में	PSP	O
-अनगिनती	JJ	O
-चीजें	NN	O
-लायेंगें	PSP	O
--	SYM	O
-खिलौने	VM	O
-,	SYM	O
-मिठाइयाँ	PRP	O
-,	SYM	O
-बिगुल	NN	O
-,	SYM	O
-गेंद	NN	O
-और	CC	O
-जाने	VM	O
-क्या	WQ	O
--	SYM	O
-क्या	WQ	O
-Sentiment: 0
-
-और	CC	O
-सबसे	INTF	O
-ज्यादा	QF	O
-प्रसन्न	JJ	O
-है	VM	O
-हामिद	NN	O
-Sentiment: 0
-
-वह	PRP	O
-चार	QC	O
--	SYM	O
-पाँच	PRP	O
-साल	NN	O
-का	PSP	O
-गरीब	JJ	O
--	SYM	O
-सूरत	NN	O
-,	SYM	O
-दुबला	NN	O
--	SYM	O
-पतला	PRP	O
-लड़का	NNP	ENAMEX_LOCATION_B
-,	SYM	O
-जिसका	PRP	O
-बाप	NN	O
-गत	JJ	O
-वर्ष	NN	O
-हैजे	NN	O
-की	PSP	O
-भेंट	NN	O
-हो	VM	O
-गया	VAUX	O
-और	CC	O
-माँ	NN	O
-न	NEG	O
-जाने	VM	O
-क्यों	WQ	O
-पीली	JJ	O
-होती	VM	O
--	SYM	O
-होती	VM	O
-एक	QC	O
-दिन	NN	O
-मर	VM	O
-गयी	VAUX	O
-Sentiment: 0
-
-किसी	PRP	O
-को	PSP	O
-पता	JJ	O
-क्या	WQ	O
-बीमारी	NN	O
-है	VM	O
-Sentiment: 0
-
-कहती	VM	O
-तो	CC	O
-कौन	WQ	O
-सुनने	VM	O
-वाला	VAUX	O
-था	VAUX	O
-?	SYM	O
-दिल	NN	O
-पर	PSP	O
-जो	PRP	O
-कुछ	QF	O
-बीतती	VM	O
-थी	VAUX	O
-,	SYM	O
-वह	PRP	O
-दिल	NN	ENAMEX_LIVTHINGS_B
-में	PSP	O
-ही	RP	O
-सहती	VM	O
-थी	VAUX	O
-ओर	NST	O
-जब	PRP	O
-न	NEG	O
-सहा	VM	O
-गया	VAUX	O
-तो	CC	O
-संसार	NN	O
-से	PSP	O
-विदा	NN	O
-हो	VM	O
-गयी	VAUX	O
-Sentiment: 0
-
-अब	PRP	O
-हामिद	NN	O
-अपनी	PRP	O
-बूढ़ी	XC	O
-दादी	XC	O
-अमीना	NNP	ENAMEX_LOCATION_B
-की	PSP	O
-गोद	NN	O
-में	PSP	O
-सोता	VM	O
-है	VAUX	O
-और	CC	O
-उतना	QF	O
-ही	RP	O
-प्रसन्न	JJ	O
-है	VM	O
-Sentiment: 0
-
-उसके	PRP	O
-अब्बाजान	JJ	O
-रूपये	NN	O
-कमाने	VM	O
-गए	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-बहुत	QF	O
--	SYM	O
-सी	PRP	O
-थैलियाँ	NN	O
-लेकर	VM	O
-आयेंगे	VAUX	O
-Sentiment: 0
-
-अम्मीजान	NNP	ENAMEX_LOCATION_B
-अल्लाह	RDP	O
-मियाँ	NN	O
-के	PSP	O
-घर	NN	O
-से	PSP	O
-उसके	PRP	O
-लिए	PSP	O
-बड़ी	XC	O
-अच्छी	XC	O
--	SYM	O
-अच्छी	JJ	O
-चीजें	NN	O
-लाने	VM	O
-गयी	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-इसलिए	CC	O
-हामिद	NN	O
-प्रसन्न	JJ	O
-है	VM	O
-Sentiment: 0
-
-आशा	NN	O
-तो	RP	O
-बड़ी	JJ	O
-चीज	NN	O
-है	VM	O
-,	SYM	O
-और	CC	O
-फिर	RB	O
-बच्चों	NN	O
-की	PSP	O
-आशा	NN	O
-!	SYM	O
-उनकी	PRP	O
-कल्पना	NN	O
-तो	RP	O
-राई	NN	O
-का	PSP	O
-पर्वत	NN	O
-बना	VM	O
-लेती	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-हामिद	NN	O
-के	PSP	O
-पाँव	NN	O
-में	PSP	O
-जूते	NN	O
-नहीं	NEG	O
-हैं	VM	O
-,	SYM	O
-सिर	NN	ENAMEX_LIVTHINGS_B
-पर	PSP	O
-एक	QC	O
-पुरानी	JJ	O
--	SYM	O
-धुरानी	PRP	O
-टोपी	NN	O
-है	VM	O
-,	SYM	O
-जिसका	PRP	O
-गोटा	NN	O
-काला	JJ	O
-पड़	VM	O
-गया	VAUX	O
-है	VAUX	O
-,	SYM	O
-फिर	RB	O
-भी	RP	O
-वह	PRP	O
-प्रसन्न	JJ	O
-है	VM	O
-Sentiment: 0
-
-जब	PRP	O
-उसके	PRP	O
-अब्बाजान	JJ	O
-थैलियाँ	NN	O
-और	CC	O
-अम्मीजान	JJ	O
-नियामतें	NN	O
-लेकर	VM	O
-आयेंगी	VAUX	O
-,	SYM	O
-तो	CC	O
-वह	PRP	O
-दिल	NN	ENAMEX_LIVTHINGS_B
-से	PSP	O
-अरमान	NN	O
-निकाल	VM	O
-लेगा	VAUX	O
-Sentiment: 0
-
-तब	PRP	O
-देखेगा	VM	O
-,	SYM	O
-मोहसिन	NNP	ENAMEX_LOCATION_B
-,	SYM	O
-नूरे	NN	O
-और	CC	O
-सम्मी	NN	O
-कहाँ	PSP	O
-से	PSP	O
-उतने	QF	O
-पैसे	NN	O
-निकालेंगे	VM	O
-Sentiment: 0
-
-अभागिन	JJ	O
-अमीना	NN	O
-अपनी	PRP	O
-कोठरी	NN	O
-में	PSP	O
-बैठी	VM	O
-रो	VAUX	O
-रही	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-आज	NN	O
-ईद	NN	O
-का	PSP	O
-दिन	NN	O
-,	SYM	O
-उसके	PRP	O
-घर	NN	O
-में	PSP	O
-दाना	NN	O
-नहीं	NEG	O
-!	SYM	O
-आज	NN	O
-आबिद	NN	O
-होता	VM	O
-,	SYM	O
-तो	CC	O
-क्या	WQ	O
-इसी	DEM	O
-तरह	NN	O
-ईद	NN	O
-आती	VM	O
-ओर	NST	O
-चली	VM	O
-जाती	VAUX	O
-!	SYM	O
-इस	DEM	O
-अंधकार	NN	O
-और	CC	O
-निराशा	NN	O
-में	PSP	O
-वह	PRP	O
-डूबी	VM	O
 जा	VAUX	O
-रही	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-किसने	WQ	O
-बुलाया	VM	O
+रहा	VAUX	O
 था	VAUX	O
-इस	DEM	O
-निगोड़ी	XC	O
-ईद	NN	O
-को	PSP	O
-?	SYM	O
-इस	DEM	O
-घर	NN	O
+कि	CC	O
+रास्ते	NN	O
 में	PSP	O
-उसका	PRP	O
-काम	NN	O
-नहीं	NEG	O
-,	SYM	O
-लेकिन	CC	O
-हामिद	XC	O
-!	SYM	O
-उसे	PRP	O
-किसी	PRP	O
-के	PSP	O
-मरने	VM	O
--	SYM	O
-जीने	VM	O
-से	PSP	O
-क्या	WQ	O
-मतलब	NN	O
-?	SYM	O
-उसके	PRP	O
-अन्दर	NST	O
-प्रकाश	NN	O
-है	VM	O
-,	SYM	O
-बाहर	NST	O
-आशा	NN	O
-Sentiment: 0
+एक	QC	O
+और	CC	O
+महाशय	NN	O
+तांगे	NN	O
+पर	PSP	O
+आ	VM	O
+बैठे	VAUX	O
+Sentiment: -1
 
-विपत्ति	NN	O
-अपना	PRP	O
-सारा	QF	O
-दल	NN	O
--	SYM	O
-बल	NN	O
-लेकर	VM	O
-आये	VAUX	O
+तांगेवाला	NN	O
+उन्हें	PRP	O
+बैठाना	VM	O
+तो	RP	O
+न	NEG	O
+चाहता	VM	O
+था	VAUX	O
 ,	SYM	O
-हामिद	NN	O
-की	PSP	O
-आनंद	NN	O
--	SYM	O
-भरी	JJ	O
-चितवन	NN	O
-उसका	PRP	O
-विध्वंस	NN	O
+पर	PSP	O
+इनकार	NN	O
+भी	RP	O
+न	NEG	O
 कर	VM	O
-देगी	VAUX	O
+सकता	VAUX	O
+था	VAUX	O
+Sentiment: -1
+
+पुलिस	NN	O
+के	PSP	O
+आदमी	NN	O
+से	PSP	O
+झगड़ा	XC	O
+कौनमोल	NNP	ENAMEX_LOCATION_B
+ले	VM	O
 Sentiment: 0
 
-हामिद	NN	O
-भीतर	NST	O
-जाकर	VM	O
-दादी	NN	O
+यह	PRP	O
+साहब	RP	O
+किसी	PRP	O
+थाने	VM	O
+के	PSP	O
+दारोगा	NN	O
+थे	VM	O
+Sentiment: 0
+
+एक	QC	O
+मुकदमे	NN	O
+की	PSP	O
+पैरवी	NN	O
+करने	VM	O
+सदर	JJ	O
+आये	VM	O
+थे	VAUX	O
+!	SYM	O
+मेरी	PRP	O
+आदत	NN	O
+है	VM	O
+कि	CC	O
+पुलिसवालों	NN	O
+से	PSP	O
+बहुत	INTF	O
+कम	QF	O
+बोलता	VM	O
+हूँ	VAUX	O
+Sentiment: -1
+
+सच	NN	O
+पूछिए	VM	O
+,	SYM	O
+तो	CC	O
+मुझे	PRP	O
+उनकी	PRP	O
+सूरत	NN	O
+से	PSP	O
+नफरत	NN	O
+है	VM	O
+Sentiment: 0
+
+उनके	PRP	O
+हाथों	NN	O
+प्रजा	NN	O
+को	PSP	O
+कितने	WQ	O
+कष्ट	NN	O
+उठाने	VM	O
+पड़ते	VAUX	O
+हैं	VAUX	O
+,	SYM	O
+इसका	PRP	O
+अनुभव	NN	O
+इस	DEM	O
+जीवन	NN	O
+में	PSP	O
+कई	QF	O
+बार	RP	O
+कर	VM	O
+चुका	VAUX	O
+हूँ	SYM	O
+Sentiment: -1
+
+मैं	PRP	O
+जरा	QF	O
+एक	QC	O
+तरफ	NST	O
+खिसक	VM	O
+गया	VAUX	O
+और	CC	O
+मुँह	NN	O
+फेरकर	VM	O
+दूसरी	QO	O
+ओर	NST	O
+देखने	VM	O
+लगा	VAUX	O
+कि	CC	O
+दारोगाजी	NN	O
+बोले	VM	O
+,	SYM	O
+'	SYM	O
+ज़नाब	NN	O
+,	SYM	O
+यह	PRP	O
+आम	JJ	O
+शिकायत	NN	O
+है	VM	O
+कि	CC	O
+पुलिसवाले	NN	O
+बहुत	QF	O
+रिश्वत	NN	O
+लेते	VM	O
+हैं	VAUX	O
+;	SYM	O
+लेकिन	CC	O
+यह	PRP	O
+कोई	PRP	O
+नहीं	NEG	O
+देखता	VM	O
+कि	CC	O
+पुलिसवाले	NN	O
+रिश्वत	NN	O
+लेने	VM	O
+के	PSP	O
+लिए	PSP	O
+कितने	WQ	O
+मजबूर	JJ	O
+किये	VM	O
+जाते	VAUX	O
+हैं	VAUX	O
+Sentiment: 0
+
+अगर	CC	O
+पुलिसवाले	NN	O
+रिश्वत	NN	O
+लेना	VM	O
+बन्द	JJ	O
+कर	VM	O
+दें	VAUX	O
+तो	CC	O
+मैं	PRP	O
+हलफ	NN	O
 से	PSP	O
 कहता	VM	O
-है	VAUX	O
--	SYM	O
-तुम	PRP	O
-डरना	VM	O
-नहीं	NEG	O
-अम्माँ	VM	O
+हूँ	VAUX	O
 ,	SYM	O
-मैं	PRP	O
-सबसे	INTF	O
-पहले	NST	O
-आऊँगा	VM	O
-Sentiment: 0
-
-बिल्कुल	RB	O
-न	NEG	O
-डरना	VM	O
-Sentiment: 1
-
-अमीना	NN	O
-का	PSP	O
-दिल	NN	O
-कचोट	VM	O
-रहा	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-गाँव	NN	O
-के	PSP	O
-बच्चे	NN	O
-अपने	PRP	O
--	SYM	O
-अपने	PRP	O
-बाप	NN	O
-के	PSP	O
-साथ	NST	O
-जा	VM	O
-रहे	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-हामिद	NN	O
-का	PSP	O
-बाप	NN	O
-अमीना	NN	O
-के	PSP	O
-सिवा	PSP:?	O
-और	CC	O
-कौन	WQ	O
-है	VM	O
-!	SYM	O
-उसे	PRP	O
-कैसे	WQ	O
-अकेले	JJ	O
-मेले	NN	O
-जाने	VM	O
-दे	VAUX	O
-?	SYM	O
-उस	DEM	O
-भीड़	NN	O
--	SYM	O
-भाड़	NNP	ENAMEX_LOCATION_B
-से	PSP	O
-बच्चा	NN	O
-कहीं	PRP	O
-खो	VM	O
-जाय	VAUX	O
-तो	CC	O
-क्या	WQ	O
-हो	VM	O
-?	SYM	O
-नहीं	NEG	O
-,	SYM	O
-अमीना	CC	O
-उसे	PRP	O
-यों	RP	O
-न	NEG	O
-जाने	VM	O
-देगी	VAUX	O
-Sentiment: 0
-
-नन्ही	NN	O
--	SYM	O
-सी	PRP	O
-जान	VM	O
-!	SYM	O
-तीन	QC	O
-कोस	NN	O
-चलेगा	VM	O
-कैसे	WQ	O
-?	SYM	O
-पैर	NN	O
-में	PSP	O
-छाले	VM	O
-पड़	XC	O
-जायेंगे	NNP	ENAMEX_LOCATION_B
-Sentiment: 1
-
-जूते	NN	O
-भी	RP	O
-तो	RP	O
-नहीं	NEG	O
-हैं	VM	O
-Sentiment: 0
-
-वह	PRP	O
-थोड़ी	JJ	O
--	SYM	O
-थोड़ी	JJ	O
-दूर	NST	O
-पर	PSP	O
-उसे	PRP	O
-गोद	NN	O
-में	PSP	O
-ले	VM	O
-लेती	VAUX	O
-,	SYM	O
-लेकिन	CC	O
-यहाँ	NN	O
-सेवैयाँ	PSP	O
-कौन	WQ	O
-पकायेगा	VM	O
-?	SYM	O
-पैसे	NN	O
-होते	VM	O
-तो	RP	O
-लौटते	VM	O
--	SYM	O
-लौटते	VM	O
-सब	QF	O
-सामग्री	NN	O
-जमा	JJ	O
-करके	VM	O
-चटपट	NN	O
-बना	VM	O
-लेती	VAUX	O
-Sentiment: 1
-
-यहाँ	NN	O
-तो	RP	O
-घंटों	NN	O
-चीजें	NN	O
-जमा	JJ	O
-करते	VM	O
-लगेंगे	VAUX	O
-Sentiment: 1
-
-माँगे	NN	O
-का	PSP	O
-ही	RP	O
-तो	RP	O
-भरोसा	NN	O
-ठहरा	VM	O
-Sentiment: 0
-
-उस	DEM	O
-दिन	NN	O
-फहीमन	NN	O
-के	PSP	O
-कपड़े	NN	O
-सिले	VM	O
-थे	VAUX	O
-Sentiment: 1
-
-आठ	QC	O
-आने	XC	O
-पैसे	NN	O
-मिले	VM	O
-थे	VAUX	O
-Sentiment: 1
-
-उस	DEM	O
-अठन्नी	NN	O
-को	PSP	O
-ईमान	NN	O
-की	PSP	O
-तरह	NN	O
-बचाती	VM	O
-चली	VAUX	O
-आती	VAUX	O
-थी	VAUX	O
-इसी	DEM	O
-ईद	NN	O
-के	PSP	O
-लिए	PSP	O
-लेकिन	CC	O
-कल	NN	O
-ग्वालन	XC	O
-सिर	NN	ENAMEX_LIVTHINGS_B
-पर	PSP	O
-सवार	JJ	O
-हो	VM	O
-गयी	VAUX	O
-तो	CC	O
-क्या	WQ	O
-करती	VM	O
-?	SYM	O
-हामिद	NN	O
-के	PSP	O
-लिए	PSP	O
-कुछ	QF	O
-नहीं	NEG	O
-है	VM	O
-,	SYM	O
-तो	CC	O
-दो	QC	O
-पैसे	NN	O
-का	PSP	O
-दूध	NN	O
-तो	RP	O
-चाहिए	VM	O
-ही	RP	O
-Sentiment: 0
-
-अब	PRP	O
-तो	RP	O
-कुल	QF	O
-दो	QC	O
-आने	XC	O
-पैसे	NN	O
-बच	VM	O
-रहे	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-तीन	QC	O
-पैसे	NN	O
-हामिद	NN	O
-की	PSP	O
-जेब	NN	O
-में	PSP	O
-,	SYM	O
-पाँच	PRP	O
-अमीना	NN	O
-के	PSP	O
-बटवे	NN	O
-में	PSP	O
-Sentiment: 0
-
-यही	PRP	O
-तो	RP	O
-बिसात	NN	O
-है	VM	O
-और	CC	O
-ईद	NN	O
-का	PSP	O
-त्यौहार	NN	O
-,	SYM	O
-अल्लाह	RDP	O
-ही	RP	O
-बेड़ा	JJ	O
-पार	NN	O
-लगावे	VM	O
-Sentiment: 1
-
-धोबन	NN	O
-और	CC	O
-नाइन	NNP	ENAMEX_LOCATION_B
-ओर	PSP	O
-मेहतरानी	NN	O
-और	CC	O
-चुड़िहारिन	NN	O
-सभी	QF	O
-तो	RP	O
-आयेंगी	VM	O
-Sentiment: 1
-
-सभी	QF	O
-को	PSP	O
-सेवैयाँ	NN	O
-चाहिए	VM	O
-और	CC	O
-थोड़ा	NNP	ENAMEX_LOCATION_B
-किसी	PRP	O
-को	PSP	O
-आँखों	NN	O
-नहीं	NEG	O
-लगता	VM	O
-Sentiment: 1
-
-किस	WQ	O
--	SYM	O
-किस	WQ	O
-सें	PSP	O
-मुँह	NN	O
-चुरायेगी	VM	O
-?	SYM	O
-और	CC	O
-मुँह	NN	O
-क्यों	WQ	O
-चुराये	VM	O
-?	SYM	O
-साल	NN	O
-भर	VM	O
-का	PSP	O
-त्यौहार	NN	O
-है	VM	O
-Sentiment: 1
-
-ज़िंदगी	NN	O
-ख़ैरियत	NN	O
-से	PSP	O
-रहे	VM	O
-,	SYM	O
-उनकी	PRP	O
-तकदीर	NN	O
-भी	RP	O
-तो	RP	O
-उसी	DEM	O
-के	PSP	O
-साथ	NST	O
-है	VM	O
-Sentiment: -1
-
-बच्चे	NN	O
-को	PSP	O
-खुदा	NN	O
-सलामत	NN	O
-रखे	VM	O
-,	SYM	O
-यें	DEM	O
-दिन	NN	O
-भी	RP	O
-कट	VM	O
-जायँगे	VAUX	O
-Sentiment: 1
-
-गाँव	NN	O
-से	PSP	O
-मेला	NN	O
-चला	VM	O
-Sentiment: -1
-
-और	CC	O
-बच्चों	NN	O
-के	PSP	O
-साथ	NST	O
-हामिद	NN	O
-भी	RP	O
-जा	VM	O
-रहा	VAUX	O
-था	VAUX	O
-Sentiment: 0
-
-कभी	PRP	O
-सबके	PRP	O
-सब	QF	O
-दौड़कर	XC	O
-आगे	NST	O
-निकल	VM	O
-जाते	VAUX	O
-Sentiment: -1
-
-फिर	RB	O
-किसी	PRP	O
-पेड़	XC	O
-के	PSP	O
-नीचे	NST	O
-खड़े	JJ	O
-होकर	VM	O
-साथ	NST	O
-वालों	PSP	O
-का	PSP	O
-इंतज़ार	NN	O
-करते	VM	O
-Sentiment: -1
-
-यह	DEM	O
-लोग	NN	O
-क्यों	WQ	O
-इतना	QF	O
-धीरे	RB	O
--	SYM	O
-धीरे	RB	O
-चल	VM	O
-रहे	VAUX	O
-हैं	VAUX	O
-?	SYM	O
-हामिद	NN	O
-के	PSP	O
-पैरो	NN	O
-में	PSP	O
-तो	RP	O
-जैसे	RP	O
-पर	PSP	O
-लग	VM	O
-गए	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-वह	PRP	O
-कभी	PRP	O
-थक	VM	O
-सकता	VAUX	O
-है	VAUX	O
-?	SYM	O
-शहर	NN	O
-का	PSP	O
-दामन	NN	O
-आ	VM	O
-गया	VAUX	O
-Sentiment: -1
-
-सड़क	NNP	ENAMEX_LOCATION_B
-के	PSP	O
-दोनों	NN	O
-ओर	PSP	O
-अमीरों	NN	O
-के	PSP	O
-बगीचे	NN	O
-हैं	VM	O
-Sentiment: -1
-
-पक्की	JJ	O
-चारदीवारी	NN	O
-बनी	VM	O
-हुई	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-पेड़ो	NN	O
-में	PSP	O
-आम	JJ	O
-और	CC	O
-लीचियाँ	NN	O
-लगी	VM	O
-हुई	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-कभी	RDP	O
--	SYM	O
-कभी	PRP	O
-कोई	PRP	O
-लड़का	NNP	O
-कंकड़ी	NN	O
-उठाकर	VM	O
-आम	NN	O
-पर	PSP	O
-निशान	NN	O
-लगाता	VM	O
-है	VAUX	O
-Sentiment: -1
-
-माली	NN	O
-अंदर	NST	O
-से	PSP	O
-गाली	NN	O
-देता	VM	O
-हुआ	VAUX	O
-निकलता	VM	O
-है	VAUX	O
-Sentiment: -1
-
-लड़के	NNP	ENAMEX_LOCATION_B
-वहाँ	PSP	O
-से	PSP	O
-एक	QC	O
-फर्लांग	NN	O
-पर	PSP	O
-हैं	VM	O
-Sentiment: -1
-
-खूब	QF	O
-हँस	NN	O
-रहे	VM	O
-हैं	VAUX	O
-Sentiment: -1
-
-माली	NN	O
-को	PSP	O
-कैसा	WQ	O
-उल्लू	NN	O
-बनाया	VM	O
-है	VAUX	O
-Sentiment: -1
-
-बड़ी	XC	O
--	SYM	O
-बड़ी	XC	O
-इमारतें	NN	O
-आने	VM	O
-लगीं	VAUX	O
-Sentiment: -1
-
-यह	DEM	O
-अदालत	NN	O
-है	VM	O
-,	SYM	O
-यह	DEM	O
-कालेज	NN	O
-है	VM	O
-,	SYM	O
-यह	PRP	O
-क्लब	NN	O
--	SYM	O
-घर	NN	O
-है	VM	O
-Sentiment: 0
-
-इतने	QF	O
-बड़े	JJ	O
-कालेज	NN	O
-में	PSP	O
-कितने	WQ	O
-लड़के	NNP	O
-पढ़ते	VM	O
-होंगे	VAUX	O
-?	SYM	O
-सब	XC	O
-लड़के	NNP	O
-नहीं	NEG	O
-हैं	VM	O
-जी	VAUX	O
-!	SYM	O
+ये	PRP	O
+जो	PRP	O
 बड़े	NNP	ENAMEX_LOCATION_B
 -	SYM	ENAMEX_LOCATION_I
 बड़े	NNP	ENAMEX_LOCATION_I
-आदमी	NN	O
-हैं	VM	O
+ऊँची	PSP	O
+पगड़ियोंवाले	NN	O
+रईस	XC	O
+नजर	NN	O
+आते	VM	O
+हैं	VAUX	O
 ,	SYM	O
-सच	NN	O
-!	SYM	O
-उनकी	PRP	O
-बड़ी	XC	O
+सब	QF	O
 -	SYM	O
-बड़ी	XC	O
-मूँछे	NNP	O
+के	PSP	O
+-	SYM	O
+सब	QF	O
+जेलखाने	NN	O
+के	PSP	O
+अन्दर	NST	O
+बैठे	VM	O
+दिखाई	VM	O
+दें	VAUX	O
+Sentiment: -1
+
+अगर	CC	O
+हर	QF	O
+एक	QC	O
+मामले	NN	O
+का	PSP	O
+चालान	NN	O
+करने	VM	O
+लगें	VAUX	O
+,	SYM	O
+तो	CC	O
+दुनिया	NN	O
+पुलिसवालों	NN	O
+को	PSP	O
+और	CC	O
+भी	RP	O
+बदनाम	NN	O
+करे	VM	O
+Sentiment: -1
+
+आपको	PRP	O
+यकीन	NN	O
+न	NEG	O
+आयेगा	VM	O
+जनाब	NN	O
+,	SYM	O
+रुपये	NN	O
+की	PSP	O
+थैलियाँ	NN	O
+गले	NN	O
+लगाई	VM	O
+जाती	VAUX	O
 हैं	VAUX	O
 Sentiment: 0
 
-इतने	QF	O
-बड़े	JJ	O
-हो	VM	O
-गए	VAUX	O
+हम	PRP	O
+हजार	QC	O
+इनकार	NN	O
+करें	VM	O
 ,	SYM	O
+पर	PSP	O
+चारों	QC	O
+तरफ	NST	O
+से	PSP	O
+ऐसे	DEM	O
+दबाव	NN	O
+पड़ते	VM	O
+हैं	VAUX	O
+कि	CC	O
+लाचार	NN	O
+होकर	VM	O
+लेना	VAUX	O
+ही	RP	O
+पड़ता	XC	O
+है	NNP	O
+Sentiment: 0
+
+मैंने	PRP	O
+उपहास	NN	O
+के	PSP	O
+भाव	NN	O
+से	PSP	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+ज़ो	RDP	O
+काम	NN	O
+रुपये	NN	O
+लेकर	VM	O
+किया	VM	O
+जाता	VAUX	O
+है	VAUX	O
+,	SYM	O
+वही	DEM	O
+काम	NN	O
+बिना	NEG	O
+रुपये	NN	O
+लिये	VM	O
+भी	RP	O
+तो	RP	O
+किया	VM	O
+जा	VAUX	O
+सकता	VAUX	O
+है	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+दारोगाजी	PRP	O
+हँसकर	NN	O
+बोले	VM	O
+,	SYM	O
+'	SYM	O
+वह	PRP	O
+तो	RP	O
+गुनाह	NN	O
+बेलज्जत	JJ	O
+होगा	VM	O
+,	SYM	O
+बंदापरवर	NN	O
+Sentiment: -1
+
+पुलिस	NN	O
+का	PSP	O
+आदमी	NN	O
+इतना	QF	O
+कट्टर	NN	O
+देवता	NN	O
+नहीं	NEG	O
+होता	VM	O
+,	SYM	O
+और	CC	O
+मेरा	PRP	O
+खयाल	NN	O
+है	VM	O
+कि	CC	O
+शायद	RB	O
+कोई	PRP	O
+इंसान	NN	O
+भी	RP	O
+इतना	QF	O
+बेलौस	NN	O
+नहीं	NEG	O
+हो	VM	O
+सकता	VAUX	O
+Sentiment: -1
+
+और	CC	O
+सींगों	NN	O
+के	PSP	O
+लोगों	NN	O
+को	PSP	O
+भी	RP	O
+देखता	VM	O
+हूँ	VAUX	O
+,	SYM	O
+मुझे	PRP	O
+तो	RP	O
+कोई	PRP	O
+देवता	NN	O
+न	NEG	O
+मिला	VM	O
+.	SYM	O
+.	SYM	O
+.	SYM	O
+'	SYM	O
+
+मैं	PRP	O
+अभी	PRP	O
+इसका	PRP	O
+कुछ	QF	O
+जवाब	NN	O
+दे	VM	O
+ही	RP	O
+रहा	VM	O
+था	VAUX	O
+कि	CC	O
+एक	QC	O
+मियाँ	NN	O
+साहब	RP	O
+लम्बी	JJ	O
+अचकन	NN	O
+पहने	VM	O
+,	SYM	O
+तुर्की	PRP	O
+टोपी	NN	O
+लगाये	VM	O
+,	SYM	O
+तांगे	NN	O
+के	PSP	O
+सामने	NST	O
+से	PSP	O
+निकले	VM	O
+Sentiment: -1
+
+दारोगाजी	NN	O
+ने	PSP	O
+उन्हें	PRP	O
+देखते	VM	O
+ही	RP	O
+झुककर	VM	O
+सलाम	NN	O
+किया	VM	O
+और	CC	O
+शायद	RB	O
+मिजाज	NN	O
+शरीफ	NN	O
+पूछना	VM	O
+चाहते	VAUX	O
+थे	VAUX	O
+कि	CC	O
+उस	DEM	O
+भले	JJ	O
+आदमी	NN	O
+ने	PSP	O
+सलाम	NN	O
+का	PSP	O
+जवाब	NN	O
+गालियों	NN	O
+से	PSP	O
+देना	VM	O
+शुरू	NN	O
+किया	VM	O
+Sentiment: 0
+
+जब	PRP	O
+तांगा	NN	O
+कई	QF	O
+कदम	NN	O
+आगे	NST	O
+निकल	VM	O
+आया	VAUX	O
+,	SYM	O
+तो	CC	O
+वह	PRP	O
+एक	QC	O
+पत्थर	NN	O
+लेकर	VM	O
+तांगे	NN	O
+के	PSP	O
+पीछे	NST	O
+दौड़ा	VM	O
+Sentiment: -1
+
+तांगेवाले	NN	O
+ने	PSP	O
+घोड़े	NN	O
+को	PSP	O
+तेज	JJ	O
+किया	VM	O
+Sentiment: 0
+
+उस	DEM	O
+भलेमानुस	NN	O
+ने	PSP	O
+भी	RP	O
+कदम	NN	O
+तेज	JJ	O
+किये	VM	O
+और	CC	O
+पत्थर	NN	O
+फेंका	VM	O
+Sentiment: -1
+
+मेरा	PRP	O
+सिर	NN	ENAMEX_LIVTHINGS_B
+बाल	XC	O
+-	SYM	O
+बाल	NN	O
+बच	VM	O
+गया	VAUX	O
+Sentiment: -1
+
+उसने	PRP	O
+दूसरा	QO	O
+पत्थर	NN	O
+उठाया	VM	O
+,	SYM	O
+वह	PRP	O
+हमारे	PRP	O
+सामने	NST	O
+आकर	VM	O
+गिरा	VAUX	O
+Sentiment: 0
+
+तीसरा	QO	O
+पत्थर	NN	O
+इतनी	QF	O
+जोर	NN	O
+से	PSP	O
+आया	VM	O
+कि	CC	O
+दारोगाजी	NN	O
+के	PSP	O
+घुटने	NN	O
+में	PSP	O
+बड़ी	JJ	O
+चोट	NN	O
+आयी	VM	O
+;	SYM	O
+पर	PSP	O
+इतनी	QF	O
+देर	NN	O
+में	PSP	O
+तांगा	NN	O
+इतनी	QF	O
+दूर	NST	O
+निकल	VM	O
+आया	VAUX	O
+था	VAUX	O
+कि	CC	O
+हम	PRP	O
+पत्थरों	NN	O
+की	PSP	O
+मार	NN	O
+से	PSP	O
+दूर	NST	O
+हो	VM	O
+गये	VAUX	O
+थे	VAUX	O
+Sentiment: 0
+
+हाँ	NN	O
+,	SYM	O
+गालियों	NN	O
+की	PSP	O
+मार	NN	O
 अभी	PRP	O
 तक	RP	O
-पढ़ने	NNP	O
-जाते	VAUX	O
+जारी	JJ	O
+थी	VM	O
+Sentiment: 0
+
+जब	PRP	O
+तक	RP	O
+वह	PRP	O
+आदमी	NN	O
+आँखों	PSP	O
+से	PSP	O
+ओझल	JJ	O
+न	NEG	O
+हो	VM	O
+गया	VAUX	O
+,	SYM	O
+हम	PRP	O
+उसे	PRP	O
+एक	QC	O
+हाथ	NN	ENAMEX_LIVTHINGS_B
+में	PSP	O
+पत्थर	NN	O
+उठाये	VM	O
+,	SYM	O
+गालियाँ	PRP	O
+बकते	VM	O
+हुए	VAUX	O
+देखते	VM	O
+रहे	VAUX	O
+Sentiment: -1
+
+जब	PRP	O
+जरा	QF	O
+चित्त	NN	O
+शान्त	JJ	O
+हुआ	VM	O
+,	SYM	O
+मैंने	PRP	O
+दारोगाजी	NN	O
+से	PSP	O
+पूछा	VM	O
+,	SYM	O
+'	SYM	O
+यह	PRP	O
+कौन	WQ	O
+आदमी	NN	O
+है	VM	O
+,	SYM	O
+साहब	NN	O
+?	SYM	O
+कोई	PRP	O
+पागल	NN	O
+तो	RP	O
+नहीं	NEG	O
+है	VM	O
+?	SYM	O
+'	SYM	O
+
+दारोगाजी	PRP	O
+ने	PSP	O
+घुटने	NN	O
+को	PSP	O
+सहलाते	VM	O
+हुए	VAUX	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+पागल	JJ	O
+नहीं	NEG	O
+है	VM	O
+साहब	RP	O
+,	SYM	O
+मेरा	PRP	O
+पुराना	JJ	O
+दुश्मन	NN	O
+है	VM	O
+Sentiment: 0
+
+मैंने	PRP	O
+समझा	VM	O
+था	VAUX	O
+,	SYM	O
+जालिम	NN	O
+पिछली	JJ	O
+बातें	NN	O
+भूल	VM	O
+गया	VAUX	O
+होगा	VAUX	O
+Sentiment: -1
+
+वरना	CC	O
+मुझे	PRP	O
+क्या	WQ	O
+पड़ी	NN	O
+थी	VM	O
+कि	CC	O
+सलाम	NN	O
+करने	VM	O
+जाता	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+मैंने	PRP	O
+पूछा	VM	O
+,	SYM	O
+'	SYM	O
+आपने	PRP	O
+इसे	PRP	O
+किसी	PRP	O
+मुकदमे	NN	O
+में	PSP	O
+सजा	NN	O
+दिलाई	VM	O
+होगी	VAUX	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+बड़ी	XC	O
+लम्बी	XC	O
+दास्तान	NN	O
+है	VM	O
+जनाब	NN	O
+!	SYM	O
+बस	RP	O
+इतना	QF	O
+ही	RP	O
+समझ	VM	O
+लीजिए	VAUX	O
+कि	CC	O
+इसका	PRP	O
+बस	RP	O
+चले	VM	O
+,	SYM	O
+तो	CC	O
+मुझे	PRP	O
+जिन्दा	PRP	O
+ही	RP	O
+निगल	VM	O
+जाय	VAUX	O
+Sentiment: 0
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+आप	PRP	O
+तो	RP	O
+शोक	NN	O
+की	PSP	O
+आग	NN	O
+को	PSP	O
+और	CC	O
+भड़का	XC	O
+रहे	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
+अब	PRP	O
+तो	RP	O
+वह	PRP	O
+दास्तान	NN	O
+सुने	VM	O
+बगैर	NEG	O
+तस्कीन	NN	O
+न	NEG	O
+होगी	VM	O
+Sentiment: -1
+
+'	SYM	O
+
+दारोगाजी	PRP	O
+ने	PSP	O
+पहलू	NN	O
+बदलकर	VM	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+अच्छी	JJ	O
+बात	NN	O
+है	VM	O
+,	SYM	O
+सुनिए	VM	O
+Sentiment: -1
+
+कई	QF	O
+साल	NN	O
+हुए	VM	O
+,	SYM	O
+मैं	PRP	O
+सदर	NN	O
+में	PSP	O
+ही	RP	O
+तैनात	JJ	O
+था	VM	O
+Sentiment: -1
+
+बेफिक्री	NN	O
+के	PSP	O
+दिन	NN	O
+थे	VM	O
+,	SYM	O
+ताजा	JJ	O
+खून	NN	ENAMEX_LIVTHINGS_B
+,	SYM	O
+एक	QC	O
+माशूक	NN	O
+से	PSP	O
+आँख	NN	O
+लड़	NN	O
+गई	VAUX	O
+Sentiment: -1
+
+आमदरफ्त	JJ	O
+शुरू	NN	O
+हुई	VM	O
+Sentiment: -1
+
+अब	PRP	O
+भी	RP	O
+जब	PRP	O
+उस	DEM	O
+हसीना	NN	O
+की	PSP	O
+याद	NN	O
+आती	VM	O
+है	VAUX	O
+,	SYM	O
+तो	RP	O
+आँखों	NN	O
+से	PSP	O
+आँसू	NN	O
+निकल	VM	O
+आते	VAUX	O
+हैं	VAUX	O
+Sentiment: -1
+
+बाजारू	NN	O
+औरतों	NN	O
+में	PSP	O
+इतनी	QF	O
+हया	NN	O
+,	SYM	O
+इतनी	QF	O
+वफा	NN	O
+,	SYM	O
+इतनी	QF	O
+मुरव्वत	NN	O
+मैंने	PRP	O
+नहीं	NEG	O
+देखी	VM	O
+Sentiment: 0
+
+दो	QC	O
+साल	NN	O
+उसके	PRP	O
+साथ	NST	O
+इतने	QF	O
+लुत्फ	NN	O
+से	PSP	O
+गुजरे	VM	O
+कि	CC	O
+आज	NN	O
+भी	RP	O
+उसकी	PRP	O
+याद	NN	O
+करके	VM	O
+रोता	VAUX	O
+हूँ	SYM	O
+Sentiment: 0
+
+मगर	CC	O
+किस्से	NN	O
+को	PSP	O
+बढ़ाऊँगा	NN	O
+नहीं	NEG	O
+,	SYM	O
+वरना	CC	O
+अधूरा	JJ	O
+ही	RP	O
+रह	VM	O
+जायगा	VAUX	O
+Sentiment: 0
+
+मुख्तसर	NN	O
+यह	PRP	O
+कि	CC	O
+दो	QC	O
+साल	NN	O
+के	PSP	O
+बाद	NST	O
+मेरे	PRP	O
+तबादले	NN	O
+का	PSP	O
+हुक्म	NN	O
+आ	VM	O
+गया	VAUX	O
+Sentiment: 0
+
+उस	DEM	O
+वक्त	NN	O
+दिल	NN	ENAMEX_LIVTHINGS_B
+को	PSP	O
+जितना	QF	O
+सदमा	NN	O
+पहुँचा	PSP	O
+,	SYM	O
+उसका	PRP	O
+ftक्र	NN	O
+करने	VM	O
+के	PSP	O
+लिए	PSP	O
+दफ्तर	NN	O
+चाहिए	VM	O
+Sentiment: -1
+
+बस	XC	O
+,	SYM	O
+यही	DEM	O
+जी	NN	O
+चाहता	VM	O
+था	VAUX	O
+कि	CC	O
+इस्तीफा	NN	O
+दे	VM	O
+दूँ	VAUX	O
+Sentiment: -1
+
+उस	DEM	O
+हसीना	NN	O
+ने	PSP	O
+यह	DEM	O
+खबर	NN	O
+सुनी	VM	O
+,	SYM	O
+तो	CC	O
+उसकी	PRP	O
+जान	VM	O
+-	SYM	O
+सी	PRP	O
+निकल	VM	O
+गई	VAUX	O
+Sentiment: -1
+
+सफर	NN	O
+की	PSP	O
+तैयारी	NN	O
+के	PSP	O
+लिए	PSP	O
+मुझे	PRP	O
+तीन	QC	O
+दिन	NN	O
+मिले	VM	O
+थे	VAUX	O
+Sentiment: 0
+
+ये	DEM	O
+तीन	QC	O
+दिन	NN	O
+हमने	PRP	O
+मंसूबे	NN	O
+बाँधने	PSP	O
+में	PSP	O
+काटे	VM	O
+Sentiment: 0
+
+उस	DEM	O
+वक्त	NN	O
+मुझे	PRP	O
+अनुभव	NN	O
+हुआ	VM	O
+कि	CC	O
+औरतों	NN	O
+को	PSP	O
+अक्ल	NN	O
+से	PSP	O
+खाली	JJ	O
+समझने	VM	O
+में	PSP	O
+हमने	PRP	O
+कितनी	QF	O
+बड़ी	JJ	O
+गलती	NN	O
+की	PSP	O
+है	VM	O
+Sentiment: -1
+
+मेरे	PRP	O
+मंसूबे	NN	O
+शेखचिल्ली	JJ	O
+के	PSP	O
+-	SYM	O
+से	PSP	O
+होते	VM	O
+थे	VAUX	O
+Sentiment: 0
+
+कलकत्ते	NN	O
+भाग	NN	O
+चलें	VM	O
+,	SYM	O
+वहाँ	PRP	O
+कोई	PRP	O
+दूकान	NN	O
+खोल	VM	O
+दें	VAUX	O
+,	SYM	O
+या	CC	O
+इसी	DEM	O
+तरह	NN	O
+कोई	PRP	O
+दूसरी	QO	O
+तजवीज	NN	O
+करता	VM	O
+Sentiment: -1
+
+लेकिन	CC	O
+वह	PRP	O
+यही	DEM	O
+जवाब	NN	O
+देती	VM	O
+कि	CC	O
+अभी	PRP	O
+वहाँ	NN	O
+जाकर	VM	O
+अपना	PRP	O
+काम	NN	O
+करो	VM	O
+Sentiment: -1
+
+जब	PRP	O
+मकान	NN	O
+का	PSP	O
+बन्दोबस्त	JJ	O
+हो	VM	O
+जाय	VAUX	O
+,	SYM	O
+तो	CC	O
+मुझे	PRP	O
+बुला	VM	O
+लेना	VAUX	O
+Sentiment: 0
+
+मैं	PRP	O
+दौड़ी	NN	O
+चली	VM	O
+आऊँगी	VAUX	O
+Sentiment: -1
+
+आखिर	RB	O
+जुदाई	NN	O
+की	PSP	O
+घड़ी	XC	O
+आई	NNP	O
+Sentiment: -1
+
+मुझे	PRP	O
+मालूम	JJ	O
+होता	VM	O
+था	VAUX	O
+कि	CC	O
+अब	PRP	O
+जान	NN	O
+न	NEG	O
+बचेगी	VM	O
+Sentiment: -1
+
+गाड़ी	NN	O
+का	PSP	O
+वक्त	NN	O
+निकला	VM	O
+जाता	VAUX	O
+था	VAUX	O
+और	CC	O
+मैं	PRP	O
+उसके	PRP	O
+पास	NST	O
+से	PSP	O
+उठने	VM	O
+का	PSP	O
+नाम	NN	O
+न	NEG	O
+लेता	VM	O
+था	VAUX	O
+Sentiment: -1
+
+मगर	CC	O
+मैं	PRP	O
+फिर	RB	O
+किस्से	NN	O
+को	PSP	O
+तूल	NN	O
+देने	VM	O
+लगा	VAUX	O
+Sentiment: -1
+
+खुलासा	NN	O
+यह	PRP	O
+कि	CC	O
+मैं	PRP	O
+उसे	PRP	O
+दो	QC	O
+-	SYM	O
+तीन	QC	O
+दिन	NN	O
+में	PSP	O
+बुलाने	VM	O
+का	PSP	O
+वादा	NN	O
+करके	VM	O
+रुखसत	NN	O
+हुआ	VM	O
+Sentiment: 0
+
+पर	PSP	O
+अफसोस	NN	O
+!	SYM	O
+वे	PRP	O
+दो	QC	O
+-	SYM	O
+तीन	QC	O
+दिन	NN	O
+कभी	PRP	O
+न	NEG	O
+आये	VM	O
+Sentiment: -1
+
+पहले	NST	O
+दस	QC	O
+-	SYM	O
+पाँच	PRP	O
+दिन	NN	O
+तो	RP	O
+अफसरों	NN	O
+से	PSP	O
+मिलने	VM	O
+और	CC	O
+इलाके	NN	O
+की	PSP	O
+देखभाल	NN	O
+में	PSP	O
+गुजरे	VM	O
+Sentiment: 0
+
+इसके	PRP	O
+बाद	NST	O
+घर	NN	O
+से	PSP	O
+खत	NN	O
+आ	VM	O
+गया	VAUX	O
+कि	CC	O
+तुम्हारी	PRP	O
+शादी	NN	O
+तय	JJ	O
+हो	VM	O
+गई	VAUX	O
+;	SYM	O
+रुखसत	NN	O
+लेकर	VM	O
+चले	VAUX	O
+आओ	VAUX	O
+Sentiment: -1
+
+शादी	NN	O
+की	PSP	O
+खुशी	NN	O
+में	PSP	O
+उस	DEM	O
+वफा	NN	O
+की	PSP	O
+देवी	NN	O
+की	PSP	O
+मुझे	PRP	O
+फिक्र	NN	O
+न	NEG	O
+रही	VAUX	O
+Sentiment: -1
+
+शादी	NN	O
+करके	VM	O
+महीने	NN	O
+-	SYM	O
+भर	RP	O
+बाद	NST	O
+लौटा	VM	O
+,	SYM	O
+तो	CC	O
+बीवी	NN	O
+साथ	NST	O
+थी	VM	O
+Sentiment: -1
+
+रही	VAUX	O
+-	SYM	O
+सही	JJ	O
+याद	NN	O
+भी	RP	O
+जाती	VM	O
+रही	VAUX	O
+Sentiment: -1
+
+उसने	PRP	O
+एक	QC	O
+महीने	NN	O
+के	PSP	O
+बाद	NST	O
+एक	QC	O
+खत	NN	O
+भेजा	VM	O
+;	SYM	O
+पर	PSP	O
+मैंने	PRP	O
+उसका	PRP	O
+जवाब	NN	O
+न	NEG	O
+दिया	VM	O
+Sentiment: -1
+
+डरता	VM	O
+रहता	VAUX	O
+था	VAUX	O
+कि	CC	O
+कहीं	PRP	O
+एक	QC	O
+दिन	NN	O
+वह	PRP	O
+आकर	VM	O
+सिर	NN	O
+पर	PSP	O
+सवार	JJ	O
+न	NEG	O
+हो	VM	O
+जाय	VAUX	O
+;	SYM	O
+फिर	RB	O
+बीवी	NN	O
+को	PSP	O
+मुँह	NN	O
+दिखाने	VM	O
+लायक	JJ	O
+भी	RP	O
+न	NEG	O
+रह	VM	O
+जाऊँ	VAUX	O
+Sentiment: -1
+
+साल	NN	O
+भर	VM	O
+के	PSP	O
+बाद	NST	O
+मुझे	PRP	O
+एक	QC	O
+काम	NN	O
+से	PSP	O
+सदर	JJ	O
+आना	VM	O
+पड़ा	XC	O
+Sentiment: -1
+
+उस	DEM	O
+वक्त	NN	O
+मुझे	PRP	O
+उस	DEM	O
+औरत	NN	O
+की	PSP	O
+याद	NN	O
+आई	VM	O
+;	SYM	O
+सोचा	VM	O
+,	SYM	O
+जरा	QF	O
+चलकर	VM	O
+देखना	VM	O
+चाहिए	VAUX	O
+,	SYM	O
+किस	WQ	O
+हालत	NN	O
+में	PSP	O
+है	VM	O
+Sentiment: -1
+
+फौरन	NNP	ENAMEX_LOCATION_B
+अपने	PRP	O
+खत	NN	O
+न	NEG	O
+भेजने	VM	O
+और	CC	O
+इतने	QF	O
+दिनों	NN	O
+तक	RP	O
+न	NEG	O
+आने	VM	O
+का	PSP	O
+जवाब	NN	O
+सोच	VM	O
+लिया	VAUX	O
+और	CC	O
+उसके	PRP	O
+द्वार	NN	O
+पर	PSP	O
+जा	VM	O
+पहुँचा	VAUX	O
+Sentiment: -1
+
+दरवाजा	NN	O
+साफ	JJ	O
+-	SYM	O
+सुथरा	PRP	O
+था	VM	O
+,	SYM	O
+मकान	NN	ENAMEX_LIVTHINGS_B
+की	PSP	O
+हालत	NN	O
+भी	RP	O
+पहले	NST	O
+से	PSP	O
+अच्छी	JJ	O
+थी	VM	O
+Sentiment: 0
+
+दिल	NN	ENAMEX_LIVTHINGS_B
+की	PSP	O
+खुशी	NN	O
+हुई	VM	O
+कि	CC	O
+इसकी	PRP	O
+हालत	NN	O
+उतनी	QF	O
+खराब	JJ	O
+नहीं	NEG	O
+है	VM	O
+,	SYM	O
+जितनी	QF	O
+मैंने	PRP	O
+समझी	VM	O
+थी	VAUX	O
+Sentiment: 0
+
+और	CC	O
+,	SYM	O
+क्यों	WQ	O
+खराब	JJ	O
+होने	VM	O
+लगी	VAUX	O
+Sentiment: 0
+
+मुझ	NN	O
+जैसे	PSP	O
+दुनिया	NN	O
+में	PSP	O
+क्या	WQ	O
+और	CC	O
+आदमी	NN	O
+ही	RP	O
+नहीं	NEG	O
+हैं	VM	O
+Sentiment: 0
+
+मैंने	PRP	O
+दरवाजा	NN	O
+खटखटाया	VM	O
+Sentiment: 0
+
+अंदर	NST	O
+से	PSP	O
+वह	PRP	O
+बंद	JJ	O
+था	VM	O
+Sentiment: -1
+
+आवाज	NN	O
+आई	VM	O
+,	SYM	O
+'	SYM	O
+क़ौन	NN	O
+है	VM	O
+?	SYM	O
+'	SYM	O
+
+मैंने	PRP	O
+कहा	VM	O
+,	SYM	O
+;	SYM	O
+वाह	INJ	O
+!	SYM	O
+इतनी	QF	O
+जल्द	NN	O
+भूल	VM	O
+गईं	VAUX	O
+,	SYM	O
+मैं	PRP	O
+हूँ	NN	O
+,	SYM	O
+बशीर	JJ	ENAMEX_PERSON_B
+.	SYM	ENAMEX_PERSON_I
+.	SYM	ENAMEX_PERSON_I
+.	SYM	ENAMEX_PERSON_I
+'	SYM	O
+
+कोई	PRP	O
+जवाब	NN	O
+न	NEG	O
+मिला	VM	O
+,	SYM	O
+आवाज	NN	O
+उसी	DEM	O
+की	PSP	O
+थी	VM	O
+,	SYM	O
+इसमें	PRP	O
+शक	NN	O
+नहीं	NEG	O
+,	SYM	O
+फिर	RB	O
+दरवाजा	NN	O
+क्यों	WQ	O
+नहीं	NEG	O
+खोलती	VM	O
+?	SYM	O
+जरूर	RB	O
+मुझसे	PRP	O
+नाराज	JJ	O
+है	VM	O
+Sentiment: -1
+
+मैंने	PRP	O
+फिर	RB	O
+किवाड़	XC	O
+खटखटाये	VM	O
+और	CC	O
+लगा	VM	O
+अपनी	PRP	O
+मुसीबतों	NN	O
+का	PSP	O
+किस्सा	NN	O
+सुनाने	VM	O
+Sentiment: -1
+
+कोई	PRP	O
+पन्द्रह	QC	O
+मिनट	NN	O
+के	PSP	O
+बाद	NST	O
+दरवाजा	NN	O
+खुला	VM	O
+Sentiment: -1
+
+हसीना	NNP	ENAMEX_PERSON_B
+ने	PSP	O
+मुझे	PRP	O
+इशारे	NN	O
+से	PSP	O
+अन्दर	NST	O
+बुलाया	VM	O
+और	CC	O
+चट	XC	O
+किवाड़	NNP	ENAMEX_LOCATION_B
+बन्द	JJ	O
+कर	VM	O
+लिये	VAUX	O
+Sentiment: -1
+
+मैंने	PRP	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+मैं	PRP	O
+तुमसे	PRP	O
+मुआफी	NN	O
+माँगने	PSP	O
+आया	VM	O
+हूँ	VAUX	O
+Sentiment: -1
+
+यहाँ	NN	O
+से	PSP	O
+जाकर	VM	O
+मैं	PRP	O
+बड़ी	JJ	O
+मुश्किल	NN	O
+में	PSP	O
+फॅस	VM	O
+गया	VAUX	O
+Sentiment: -1
+
+इलाका	NN	O
+इतना	QF	O
+खराब	JJ	O
+है	VM	O
+कि	CC	O
+दम	NN	O
+मारने	VM	O
+की	PSP	O
+मुहलत	NN	O
+नहीं	NEG	O
+मिलती	VM	O
+Sentiment: -1
+
+'	SYM	O
+
+हसीना	PRP	O
+ने	PSP	O
+मेरी	PRP	O
+तरफ	NST	O
+न	NEG	O
+देखकर	VM	O
+जमीन	NN	O
+की	PSP	O
+तरफ	NST	O
+ताकते	VM	O
+हुए	VAUX	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+मुआफी	NN	O
+किस	WQ	O
+बात	NN	O
+की	PSP	O
+?	SYM	O
+तुमसे	PRP	O
+मेरा	PRP	O
+निकाह	NN	O
+तो	RP	O
+हुआ	VM	O
+न	NEG	O
+था	VM	O
+Sentiment: -1
+
+दिल	NN	ENAMEX_LIVTHINGS_B
+कहीं	PRP	O
+और	CC	O
+लग	VM	O
+गया	VAUX	O
+,	SYM	O
+तो	CC	O
+मेरी	PRP	O
+याद	NN	O
+क्यों	WQ	O
+आती	VM	O
+Sentiment: 0
+
+मुझे	PRP	O
+तुमसे	PRP	O
+कोई	PRP	O
+शिकायत	NN	O
+नहीं	NEG	O
+Sentiment: -1
+
+जैसा	CC	O
+और	CC	O
+लोग	NN	O
+करते	VM	O
+हैं	VAUX	O
+,	SYM	O
+वैसा	PRP	O
+ही	RP	O
+तुमने	PRP	O
+किया	VM	O
+Sentiment: -1
+
+यही	PRP	O
+क्या	WQ	O
+कम	QF	O
+है	VM	O
+कि	CC	O
+इतने	QF	O
+दिनों	NN	O
+के	PSP	O
+बाद	NST	O
+इधर	NST	O
+आ	VM	O
+तो	RP	O
+गये	VM	O
+Sentiment: -1
+
+रहे	VAUX	O
+तो	CC	O
+खैरियत	NN	O
+से	PSP	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+किसी	PRP	O
+तरह	NN	O
+जिंदा	JJ	O
+हूँ	NN	O
+Sentiment: -1
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+शायद	RB	O
+जुदाई	NN	O
+में	PSP	O
+घुलते	NN	O
+-	SYM	O
+घुलते	PRP	O
+यह	DEM	O
+तोंद	NN	O
+निकल	VM	O
+आई	VAUX	O
+है	VAUX	O
+Sentiment: -1
+
+खुदा	NN	O
+झूठ	NN	O
+न	NEG	O
+बुलवाये	VM	O
+,	SYM	O
+तब	PRP	O
+से	PSP	O
+दूने	VM	O
+हो	VAUX	O
+गये	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+मैंने	PRP	O
+झेंपते	VM	O
+हुए	VAUX	O
+कहा	VM	O
+,	SYM	O
+यह	PRP	O
+सारा	QF	O
+बलगम	NN	O
+का	PSP	O
+फिसाद	NN	O
+है	VM	O
+Sentiment: -1
+
+भला	XC	O
+मोटा	XC	O
+मैं	PRP	O
+क्या	WQ	O
+होता	VM	O
+Sentiment: 0
+
+उधर	PRP	O
+का	PSP	O
+पानी	NN	O
+निहायत	JJ	O
+बलगमी	NN	O
+है	VM	O
+Sentiment: 0
+
+तुमने	PRP	O
+तो	RP	O
+मेरी	PRP	O
+याद	NN	O
+ही	RP	O
+भुला	VM	O
+दी	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+उसने	PRP	O
+अबकी	PRP	O
+मेरी	PRP	O
+ओर	NST	O
+तेज	JJ	O
+निगाहों	NN	O
+से	PSP	O
+देखा	VM	O
+और	CC	O
+बोली	VM	O
+,	SYM	O
+'	SYM	O
+ख़त	NNP	O
+का	PSP	O
+जवाब	NN	O
+तक	RP	O
+न	NEG	O
+दिया	VM	O
+,	SYM	O
+उलटे	JJ	O
+मुझी	NN	O
+को	PSP	O
+इलजाम	NN	O
+देते	VM	O
+हो	VAUX	O
+Sentiment: -1
+
+मैं	PRP	O
+तुम्हें	PRP	O
+शुरू	NN	O
+से	PSP	O
+बेवफा	NN	O
+समझती	VM	O
+थी	VAUX	O
+और	CC	O
+तुम	PRP	O
+वैसे	PRP	O
+ही	RP	O
+निकले	VM	O
+Sentiment: 0
+
+बीवी	NN	O
+लाये	VM	O
+और	CC	O
+मुझे	PRP	O
+खत	NN	O
+तक	RP	O
+न	NEG	O
+लिखा	VM	O
+?	SYM	O
+'	SYM	O
+
+मैंने	PRP	O
+ताज्जुब	NN	O
+से	PSP	O
+पूछा	VM	O
+,	SYM	O
+'	SYM	O
+तुम्हें	PRP	O
+कैसे	WQ	O
+मालूम	JJ	O
+हुआ	VM	O
+कि	CC	O
+मेरी	PRP	O
+शादी	NN	O
+हो	VM	O
+गई	VAUX	O
+?	SYM	O
+'	SYM	O
+
+उसने	PRP	O
+रुखाई	NN	O
+से	PSP	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+यह	PRP	O
+पूछकर	VM	O
+क्या	WQ	O
+करोगे	VM	O
+?	SYM	O
+झूठ	NN	O
+तो	RP	O
+नहीं	NEG	O
+कहती	VM	O
+Sentiment: 0
+
+बेवफा	NN	O
+बहुत	QF	O
+देखे	VM	O
+,	SYM	O
+लेकिन	CC	O
+तुम	PRP	O
+सबसे	INTF	O
+बढ़कर	NNP	O
+निकले	VM	O
+Sentiment: 0
+
+तुम्हारी	PRP	O
+आवाज	NN	O
+सुनकर	VM	O
+जी	NN	O
+में	PSP	O
+तो	RP	O
+आया	VM	O
+कि	CC	O
+दुत्कार	NN	O
+दूँ	PSP	O
+;	SYM	O
+लेकिन	CC	O
+यह	PRP	O
+सोचकर	VM	O
+दरवाजा	NN	O
+खोल	VM	O
+दिया	VAUX	O
+कि	CC	O
+अपने	PRP	O
+दरवाजे	NN	O
+पर	PSP	O
+किसी	PRP	O
+को	PSP	O
+क्या	WQ	O
+जलील	JJ	O
+करूँ	NN	O
+Sentiment: -1
+
+'	SYM	O
+
+मैंने	PRP	O
+कोट	NN	O
+उतारकर	VM	O
+खूँटी	VAUX	O
+पर	PSP	O
+लटका	VM	O
+दिया	VAUX	O
+,	SYM	O
+जूते	NN	O
+भी	RP	O
+उतार	VM	O
+डाले	VAUX	O
+और	CC	O
+चारपाई	NN	O
+पर	PSP	O
+लेटकर	VM	O
+बोला	XC	O
+,	SYM	O
+'	SYM	O
+लैली	RDP	O
+,	SYM	O
+देखो	VM	O
+,	SYM	O
+इतनी	QF	O
+बेरहमी	NN	O
+से	PSP	O
+न	NEG	O
+पेश	JJ	O
+आओ	VM	O
+Sentiment: 0
+
+मैं	PRP	O
+तो	RP	O
+अपनी	PRP	O
+खताओं	NN	O
+को	PSP	O
+खुद	PRP	O
+तस्लीम	NN	O
+करता	VM	O
+हूँ	VAUX	O
+और	CC	O
+इसीलिए	CC	O
+अब	PRP	O
+तुमसे	PRP	O
+मुआफी	NN	O
+माँगने	PSP	O
+आया	VM	O
+हूँ	VAUX	O
+Sentiment: -1
+
+जरा	QF	O
+अपने	PRP	O
+नाजुक	JJ	O
+हाथों	NN	O
+से	PSP	O
+एक	QC	O
+पान	NN	O
+तो	RP	O
+खिला	VM	O
+दो	VAUX	O
+Sentiment: -1
+
+सच	NN	O
+कहना	VM	O
+,	SYM	O
+तुम्हें	PRP	O
+मेरी	PRP	O
+याद	NN	O
+काहे	NN	O
+को	PSP	O
+आती	VM	O
+होगी	VAUX	O
+Sentiment: 0
+
+कोई	PRP	O
+और	CC	O
+यार	NN	O
+मिल	VM	O
+गया	VAUX	O
+होगा	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+लैली	RDP	O
+पानदान	NN	O
+खोलकर	VM	O
+पान	NN	O
+बनाने	VM	O
+लगी	VAUX	O
+कि	CC	O
+एकाएक	RB	O
+किसी	PRP	O
+ने	PSP	O
+किवाड़	XC	O
+खटखटाये	VM	O
+Sentiment: -1
+
+मैंने	PRP	O
+घबराकर	VM	O
+पूछा	VM	O
+,	SYM	O
+'	SYM	O
+यह	PRP	O
+कौन	WQ	O
+शैतान	NN	O
+आ	VM	O
+पहुँचा	VAUX	O
+?	SYM	O
+'	SYM	O
+
+हसीना	PRP	O
+ने	PSP	O
+होंठों	NN	O
+पर	PSP	O
+उँगली	NN	O
+रखते	VM	O
+हुए	VAUX	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+यह	PRP	O
+मेरे	PRP	O
+शौहर	NN	O
+हैं	VM	O
+Sentiment: 0
+
+तुम्हारी	PRP	O
+तरफ	NST	O
+से	PSP	O
+जब	PRP	O
+निराश	NN	O
+हो	VM	O
+गई	VAUX	O
+,	SYM	O
+तो	CC	O
+मैंने	PRP	O
+इनके	PRP	O
+साथ	NST	O
+निकाह	NN	O
+कर	VM	O
+लिया	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+मैंने	PRP	O
+त्योरियाँ	NN	O
+चढ़ाकर	NN	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+तो	CC	O
+तुमने	PRP	O
+मुझसे	PRP	O
+पहले	NST	O
+ही	RP	O
+क्यों	WQ	O
+न	NEG	O
+बता	VM	O
+दिया	VAUX	O
+,	SYM	O
+मैं	PRP	O
+उलटे	JJ	O
+पाँव	NN	O
+लौट	VM	O
+न	NEG	O
+जाता	VAUX	O
+,	SYM	O
+यह	DEM	O
+नौबत	NN	O
+क्यों	WQ	O
+आती	VM	O
 Sentiment: 0
 
 न	NEG	O
 जाने	VM	O
 कब	WQ	O
-तक	RP	O
-पढ़ेंगे	VM	O
-और	CC	O
-क्या	WQ	O
-करेंगे	VM	O
-इतना	QF	O
-पढ़कर	XC	O
-!	SYM	O
-हामिद	NN	O
-के	PSP	O
-मदरसे	NN	O
-में	PSP	O
-दो	QC	O
--	SYM	O
-तीन	QC	O
-बड़े	NNP	O
--	SYM	O
-बड़े	NNP	O
-लड़के	NNP	O
-हैं	VAUX	O
-,	SYM	O
-बिल्कुल	RB	O
-तीन	QC	O
-कौड़ी	NN	O
-के	PSP	O
-Sentiment: 0
-
-रोज	NN	O
-मार	VM	O
-खाते	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-काम	NN	O
-से	PSP	O
-जी	NN	O
-चुराने	VM	O
-वाले	VAUX	O
-Sentiment: 0
-
-इस	DEM	O
-जगह	NN	O
-भी	RP	O
-उसी	DEM	O
-तरह	NN	O
-के	PSP	O
-लोग	NN	O
-होंगे	VM	O
-ओर	PSP	O
-क्या	WQ	O
-Sentiment: -1
-
-क्लब	NN	O
--	SYM	O
-घर	NN	O
-में	PSP	O
-जादू	NN	O
-होता	VM	O
-है	VAUX	O
-Sentiment: 0
-
-सुना	VM	O
-है	VAUX	O
-,	SYM	O
-यहाँ	PRP	O
-मुर्दो	NN	O
 की	PSP	O
-खोपड़ियाँ	NN	O
-दौड़ती	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-और	CC	O
-बड़े	NNP	ENAMEX_LOCATION_B
--	SYM	ENAMEX_LOCATION_I
-बड़े	NNP	ENAMEX_LOCATION_I
-तमाशे	NN	O
-होते	VM	O
-हैं	VAUX	O
-,	SYM	O
-पर	PSP	O
-किसी	PRP	O
-को	PSP	O
-अंदर	NST	O
-नहीं	NEG	O
-जाने	VM	O
-देते	VAUX	O
-Sentiment: 0
-
-और	CC	O
-वहाँ	NN	O
-शाम	NN	O
-को	PSP	O
-साहब	RP	O
-लोग	NN	O
-खेलते	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-बड़े	NNP	ENAMEX_LOCATION_B
--	SYM	ENAMEX_LOCATION_I
-बड़े	NNP	ENAMEX_LOCATION_I
-आदमी	NN	O
-खेलते	VM	O
-हैं	VAUX	O
-,	SYM	O
-मूँछो	PRP	O
-दाढ़ी	NNP	ENAMEX_LOCATION_B
-वाले	PSP	O
-Sentiment: 0
-
-और	CC	O
-मेमें	NN	O
-भी	RP	O
-खेलती	VM	O
-हैं	VAUX	O
-,	SYM	O
-सच	NN	O
-!	SYM	O
-हमारी	PRP	O
-अम्माँ	NN	O
-को	PSP	O
-यह	PRP	O
-दे	VM	O
-दो	VAUX	O
-,	SYM	O
-क्या	WQ	O
-नाम	NN	O
-है	VM	O
-,	SYM	O
-बैट	NN	O
-,	SYM	O
-तो	CC	O
-उसे	PRP	O
-पकड़	NN	O
-ही	RP	O
-न	NEG	O
-सकें	VAUX	O
-Sentiment: 0
-
-घुमाते	VM	O
-ही	RP	O
-लुढ़क	VM	O
-जायँ	VAUX	O
-Sentiment: 0
-
-महमूद	NN	O
-ने	PSP	O
-कहा	VM	O
--	SYM	O
-हमारी	PRP	O
-अम्मीजान	NN	O
-का	PSP	O
-तो	RP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-काँपने	PSP	O
-लगे	VM	O
-,	SYM	O
-अल्ला	XC	O
-कसम	NNP	ENAMEX_LOCATION_B
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
-बोला	VM	O
--	SYM	O
-चलो	VM	O
-,	SYM	O
-मनों	NN	O
-आटा	NN	O
-पीस	VM	O
-डालती	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-ज़रा	NN	O
--	SYM	O
-सा	RP	O
-बैट	NN	O
-पकड़	NN	O
-लेंगी	VM	O
-,	SYM	O
-तो	CC	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-काँपने	PSP	O
-लगेंगे	VM	O
-!	SYM	O
-सैकड़ों	XC	O
-घड़े	NNP	ENAMEX_LOCATION_B
-पानी	NN	O
-रोज	NN	O
-निकालती	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-पाँच	NN	O
-घड़े	NNP	O
-तो	RP	O
-तेरी	PRP	O
-भैंस	NN	O
-पी	VM	O
-जाती	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-किसी	PRP	O
-मेम	NN	O
-को	PSP	O
-एक	QC	O
-घड़ा	NNP	ENAMEX_LOCATION_B
-पानी	NN	O
-भरना	VM	O
-पड़े	NN	O
-,	SYM	O
-तो	CC	O
-आँखों	NN	O
-तले	JJ	O
-अँधेरा	NN	O
-आ	VM	O
-जाय	VAUX	O
-Sentiment: 0
-
-महमूद	NNP	ENAMEX_LOCATION_B
--	SYM	O
-लेकिन	CC	O
-दौड़ती	NN	O
-तो	RP	O
-नहीं	NEG	O
-,	SYM	O
-उछल	PRP	O
--	SYM	O
-कूद	XC	O
-तो	RP	O
-नहीं	NEG	O
-सकतीं	VAUX	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
--	SYM	O
-हाँ	PRP	O
-,	SYM	O
-उछल	PRP	O
--	SYM	O
-कूद	XC	O
-तो	RP	O
-नहीं	NEG	O
-सकतीं	VAUX	O
-;	SYM	O
-लेकिन	CC	O
-उस	DEM	O
-दिन	NN	O
-मेरी	PRP	O
-गाय	NN	O
-खुल	VM	O
-गयी	VAUX	O
-थी	VAUX	O
-और	CC	O
-चौधरी	NNP	ENAMEX_LOCATION_B
-के	PSP	O
-खेत	NN	O
-में	PSP	O
-जा	VM	O
-पड़ी	XC	O
-थी	VAUX	O
-,	SYM	O
-अम्माँ	PRP	O
-इतना	QF	O
-तेज	JJ	O
-दौड़ीं	VM	O
-कि	CC	O
-मैं	PRP	O
-उन्हें	PRP	O
-न	NEG	O
-पा	VM	O
-सका	VAUX	O
-,	SYM	O
-सच	NN	O
-Sentiment: 0
-
-आगे	NST	O
-चले	VM	O
-Sentiment: -1
-
-हलवाइयों	NN	O
-की	PSP	O
-दुकानें	NN	O
-शुरू	NN	O
-हुईं	VM	O
-Sentiment: 0
-
-आज	NN	O
-खूब	JJ	O
-सजी	VM	O
-हुई	VAUX	O
-थीं	VAUX	O
-Sentiment: 0
-
-इतनी	QF	O
-मिठाइयाँ	NN	O
-कौन	WQ	O
-खाता	VM	O
-है	VAUX	O
-?	SYM	O
-देखो	RDP	O
-न	NEG	O
-,	SYM	O
-एक	QC	O
--	SYM	O
-एक	QC	O
-दूकान	NN	O
-पर	PSP	O
-मनों	NN	O
-होंगी	VM	O
-Sentiment: 0
-
-सुना	VM	O
-है	VAUX	O
-,	SYM	O
-रात	NN	O
-को	PSP	O
-जिन्नात	NN	O
-आकर	VM	O
-खरीद	NN	O
-ले	VM	O
-जाते	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-अब्बा	NN	O
-कहते	VM	O
-थे	VAUX	O
-कि	CC	O
-आधी	JJ	O
-रात	NN	O
-को	PSP	O
-एक	QC	O
-आदमी	NN	O
-हर	QF	O
-दुकान	NN	O
-पर	PSP	O
-जाता	VM	O
-है	VAUX	O
-और	CC	O
-जितना	QF	O
-माल	NN	O
-बचा	VM	O
-होता	VAUX	O
-है	VAUX	O
-,	SYM	O
-वह	PRP	O
-तुलवा	NN	O
-लेता	VM	O
-है	VAUX	O
-और	CC	O
-सचमुच	NN	O
-के	PSP	O
-रूपये	NN	O
-देता	VM	O
-है	VAUX	O
-,	SYM	O
-बिल्कुल	RB	O
-ऐसे	PRP	O
-ही	RP	O
-रूपये	NN	O
-Sentiment: 0
-
-हामिद	NN	O
-को	PSP	O
-यकीन	NN	O
-न	NEG	O
-आया	VM	O
--	SYM	O
-ऐसे	DEM	O
-रूपये	NN	O
-जिन्नात	NN	O
-को	PSP	O
-कहाँ	NN	O
-से	PSP	O
-मिल	VM	O
-जायेंगे	VAUX	O
-?	SYM	O
-
-मोहसिन	PRP	O
-ने	PSP	O
-कहा	VM	O
--	SYM	O
-जिन्नात	NN	O
-को	PSP	O
-रूपये	NN	O
-की	PSP	O
-क्या	WQ	O
-कमी	NN	O
-?	SYM	O
-जिस	DEM	O
-खजाने	NN	O
-में	PSP	O
-चाहैं	NN	O
-चले	VM	O
-जायँ	VAUX	O
-Sentiment: -1
-
-लोहे	NN	O
-के	PSP	O
-दरवाजे	NN	O
-तक	RP	O
-उन्हें	PRP	O
-नहीं	NEG	O
-रोक	VM	O
-सकते	VAUX	O
-जनाब	NN	O
-,	SYM	O
-आप	PRP	O
-हैं	VM	O
-किस	WQ	O
-फेर	NN	O
-में	PSP	O
-!	SYM	O
-हीरे	PRP	O
--	SYM	O
-जवाहरात	NN	O
-तक	RP	O
-उनके	PRP	O
-पास	NST	O
-रहते	VM	O
-हैं	VAUX	O
-Sentiment: 1
-
-जिससे	PRP	O
-खुश	JJ	O
-हो	VM	O
-गये	VAUX	O
-,	SYM	O
-उसे	PRP	O
-टोकरों	NN	O
-जवाहरात	NN	O
-दे	VM	O
-दिये	VAUX	O
-Sentiment: 1
-
-अभी	PRP	O
-यहीं	PRP	O
-बैठे	VM	O
-हैं	VAUX	O
-,	SYM	O
-पाँच	PRP	O
-मिनट	NN	O
-में	PSP	O
-कलकत्ता	NN	O
-पहुँच	PSP	O
-जायँ	NN	O
-Sentiment: 1
-
-हामिद	NN	O
-ने	PSP	O
-फिर	RB	O
-पूछा	VM	O
--	SYM	O
-जिन्नात	NN	O
-बहुत	INTF	O
-बड़े	NNP	O
--	SYM	O
-बड़े	NNP	O
-होते	VM	O
-हैं	VAUX	O
-?	SYM	O
-
-मोहसिन	PRP	O
--	SYM	O
-एक	QC	O
--	SYM	O
-एक	QC	O
-सिर	NN	O
-आसमान	NN	ENAMEX_LOCATION_B
-के	PSP	O
-बराबर	JJ	O
-होता	VM	O
-है	VAUX	O
-जी	VAUX	O
-!	SYM	O
-जमीन	NN	O
-पर	PSP	O
-खड़ा	VM	O
-हो	VAUX	O
-जाय	VAUX	O
-तो	CC	O
-उसका	PRP	O
-सिर	NN	O
-आसमान	NN	ENAMEX_LOCATION_B
-से	PSP	O
-जा	VM	O
-लगे	VAUX	O
-,	SYM	O
-मगर	CC	O
-चाहे	CC:?	O
-तो	RP	O
-एक	QC	O
-लोटे	NN	O
-में	PSP	O
-घुस	VM	O
-जाय	VAUX	O
-Sentiment: 0
-
-हामिद	XC	O
--	SYM	O
-लोग	NN	O
-उन्हें	PRP	O
-कैसे	WQ	O
-खुश	JJ	O
-करते	VM	O
-होंगे	VAUX	O
-?	SYM	O
-कोई	PRP	O
-मुझे	PRP	O
 यह	DEM	O
-मंतर	NN	O
-बता	VM	O
-दे	VAUX	O
-तो	CC	O
-एक	QC	O
-जिन्न	NN	O
-को	PSP	O
-खुश	JJ	O
-कर	VM	O
-लूँ	VAUX	O
+कसर	NN	O
+निकाली	VM	O
 Sentiment: 0
 
-मोहसिन	NNP	ENAMEX_LOCATION_B
--	SYM	O
-अब	PRP	O
-यह	PRP	O
-तो	RP	O
-मै	PRP	O
-नहीं	NEG	O
-जानता	VM	O
-,	SYM	O
-लेकिन	CC	O
-चौधरी	JJ	O
-साहब	NN	O
-के	PSP	O
-काबू	NN	O
-में	PSP	O
-बहुत	INTF	O
--	SYM	O
-से	PSP	O
-जिन्नात	NN	O
-हैं	VM	O
-Sentiment: 0
-
-कोई	PRP	O
-चीज	NN	O
-चोरी	NN	O
-जाय	XC	O
-चौधरी	NNP	ENAMEX_LOCATION_B
-साहब	RP	O
-उसका	PRP	O
-पता	JJ	O
-लगा	VM	O
-देंगे	VAUX	O
-ओर	NST	O
-चोर	NN	O
-का	PSP	O
-नाम	NN	O
-बता	VM	O
-देंगे	VAUX	O
-Sentiment: 0
-
-जुमराती	NN	O
-का	PSP	O
-बछवा	NN	O
-उस	DEM	O
-दिन	NN	O
-खो	VM	O
-गया	VAUX	O
-था	VAUX	O
-Sentiment: 0
-
-तीन	QC	O
-दिन	NN	O
-हैरान	VM	O
-हुए	VAUX	O
-,	SYM	O
-कहीं	PRP	O
-न	NEG	O
-मिला	VM	O
-तब	PRP	O
-झख	NN	O
-मारकर	VM	O
-चौधरी	NNP	ENAMEX_LOCATION_B
-के	PSP	O
-पास	NST	O
-गये	VM	O
-Sentiment: 0
-
-चौधरी	NNP	ENAMEX_PERSON_B
-ने	PSP	O
-तुरन्त	RB	O
-बता	VM	O
-दिया	VAUX	O
-,	SYM	O
-मवेशीखाने	NN	O
-में	PSP	O
-है	VM	O
-और	CC	O
-वहीं	PRP	O
-मिला	VM	O
-Sentiment: 0
-
-जिन्नात	NN	O
-आकर	VM	O
-उन्हें	PRP	O
-सारे	QF	O
-जहान	NN	O
-की	PSP	O
-खबर	NN	O
-दे	VM	O
-जाते	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-अब	PRP	O
-उसकी	PRP	O
-समझ	NN	O
-में	PSP	O
-आ	VM	O
-गया	VAUX	O
-कि	CC	O
-चौधरी	NNP	ENAMEX_LOCATION_B
-के	PSP	O
-पास	NST	O
-क्यों	WQ	O
-इतना	QF	O
-धन	NN	O
-है	VM	O
-और	CC	O
-क्यों	WQ	O
-उनका	PRP	O
-इतना	QF	O
-सम्मान	NN	O
-है	VM	O
-Sentiment: 0
-
-आगे	NST	O
-चले	VM	O
-Sentiment: -1
-
-यह	DEM	O
-पुलिस	NN	O
-लाइन	NN	O
-है	VM	O
-Sentiment: 0
-
-यहीं	PRP	O
-सब	QF	O
-कानिसटिबिल	JJ	O
-कवायद	NN	O
-करते	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-रैटन	NN	O
-!	SYM	O
-फाय	NN	O
-फो	VM	O
-!	SYM	O
-रात	NN	O
-को	PSP	O
-बेचारे	JJ	O
-घूम	VM	O
--	SYM	O
-घूमकर	PRP	O
-पहरा	VM	O
-देते	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-नहीं	NEG	O
-चोरियाँ	VM	O
-हो	VAUX	O
-जायँ	SYM	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_PERSON_B
-ने	PSP	O
-प्रतिवाद	NN	O
-किया	VM	O
--	SYM	O
-यह	PRP	O
-कानिसटिबिल	JJ	O
-पहरा	VM	O
-देते	VAUX	O
-हैं	VAUX	O
-?	SYM	O
-तभी	PRP	O
-तुम	PRP	O
-बहुत	QF	O
-जानते	VM	O
-हो	VAUX	O
-अजी	JJ	O
-हजरत	XC	O
-,	SYM	O
-यह	DEM	O
-चोरी	NN	O
-करते	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-शहर	NN	O
-के	PSP	O
-जितने	QF	O
-चोर	NN	O
--	SYM	O
-डाकू	PRP	O
-हैं	VM	O
-,	SYM	O
-सब	QF	O
-इनसे	PRP	O
-मिले	VM	O
-रहते	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-रात	NN	O
-को	PSP	O
-ये	DEM	O
-लोग	NN	O
-चोरों	NN	O
-से	PSP	O
-तो	RP	O
-कहते	VM	O
-हैं	VAUX	O
-,	SYM	O
-चोरी	NN	O
-करो	VM	O
-और	CC	O
-आप	PRP	O
-दूसरे	QO	O
-मुहल्ले	NN	O
-में	PSP	O
-जाकर	VM	O
 '	SYM	O
-जागते	VM	O
-रहो	VAUX	O
-!	SYM	O
-जागते	VM	O
-रहो	VAUX	O
-!	SYM	O
-'	SYM	O
-पुकारते	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-तभी	PRP	O
-इन	DEM	O
-लोगों	NN	O
-के	PSP	O
-पास	NST	O
-इतने	QF	O
-रूपये	NN	O
-आते	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-मेरे	PRP	O
-मामू	NN	O
-एक	QC	O
-थाने	VM	O
-में	PSP	O
-कानिसटिबिल	JJ	O
-हैं	VM	O
-Sentiment: 0
-
-बीस	QC	O
-रूपया	NN	O
-महीना	VM	O
-पाते	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-लेकिन	CC	O
-पचास	QC	O
-रूपये	NN	O
-घर	NN	O
-भेजते	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-अल्ला	XC	O
-कसम	NNP	ENAMEX_LOCATION_B
-!	SYM	O
-मैंने	PRP	O
-एक	QC	O
-बार	RP	O
-पूछा	VM	O
-था	VAUX	O
-कि	CC	O
-मामू	NN	O
-,	SYM	O
-आप	PRP	O
-इतने	QF	O
-रूपये	NN	O
-कहाँ	PSP	O
-से	PSP	O
-पाते	VM	O
-हैं	VAUX	O
-?	SYM	O
-हँसकर	PRP	O
-कहने	VM	O
-लगे	VAUX	O
--	SYM	O
-बेटा	NN	O
-,	SYM	O
-अल्लाह	NN	O
-देता	VM	O
-है	VAUX	O
-Sentiment: 0
-
-फिर	RB	O
-आप	PRP	O
-ही	RP	O
-बोले	VM	O
--	SYM	O
-हम	PRP	O
-लोग	NN	O
-चाहें	NN	O
-तो	RP	O
-एक	QC	O
-दिन	NN	O
-में	PSP	O
-लाखों	QC	O
-मार	NN	O
-लायें	VM	O
-Sentiment: 0
-
-हम	PRP	O
-तो	RP	O
-इतना	QF	O
-ही	RP	O
-लेते	VM	O
-हैं	VAUX	O
-,	SYM	O
-जिसमें	PRP	O
-अपनी	PRP	O
-बदनामी	NN	O
-न	NEG	O
-हो	VM	O
-और	CC	O
-नौकरी	NN	O
-न	NEG	O
-चली	VM	O
-जाय	VAUX	O
-Sentiment: -1
-
-हामिद	NN	O
-ने	PSP	O
-पूछा	VM	O
--	SYM	O
-यह	DEM	O
-लोग	NN	O
-चोरी	NN	O
-करवाते	VM	O
-हैं	VAUX	O
-,	SYM	O
-तो	CC	O
-कोई	PRP	O
-इन्हें	PRP	O
-पकड़ता	XC	O
-नहीं	NEG	O
-?	SYM	O
-
-मोहसिन	PRP	O
-उसकी	PRP	O
-नादानी	NN	O
-पर	PSP	O
-दया	NN	O
-दिखाकर	VM	O
-बोला	XC	O
--	SYM	O
-अरे	XC	O
-,	SYM	O
-पागल	NNP	ENAMEX_LOCATION_B
-!	SYM	O
-इन्हें	PRP	O
-कौन	WQ	O
-पकड़ेगा	VM	O
-!	SYM	O
-पकड़ने	NNP	ENAMEX_LOCATION_B
-वाले	PSP	O
-तो	RP	O
-यह	DEM	O
-लोग	NN	O
-खुद	PRP	O
-हैं	VM	O
-,	SYM	O
-लेकिन	CC	O
-अल्लाह	NN	O
-,	SYM	O
-इन्हें	PRP	O
-सजा	NN	O
-भी	RP	O
-खूब	JJ	O
-देता	VM	O
-है	VAUX	O
-Sentiment: 0
-
-हराम	NN	O
-का	PSP	O
-माल	NN	O
-हराम	NN	O
-में	PSP	O
-जाता	VM	O
-है	VAUX	O
-Sentiment: 0
-
-थोड़े	NN	O
-ही	RP	O
-दिन	NN	O
-हुए	VM	O
-,	SYM	O
-मामू	NN	O
-के	PSP	O
-घर	NN	O
-में	PSP	O
-आग	NN	O
-लग	VM	O
-गयी	VAUX	O
-Sentiment: 0
-
-सारी	QF	O
-लेई	NN	O
--	SYM	O
-पूँजी	PRP	O
-जल	VM	O
-गयी	VAUX	O
-Sentiment: 0
-
-एक	QC	O
-बरतन	NN	O
-तक	RP	O
-न	NEG	O
-बचा	VM	O
-Sentiment: 0
-
-कई	QF	O
-दिन	NN	O
-पेड़	XC	O
-के	PSP	O
-नीचे	NST	O
-सोये	VM	O
-,	SYM	O
-अल्ला	XC	O
-कसम	NNP	ENAMEX_LOCATION_B
-,	SYM	O
-पेड़	XC	O
-के	PSP	O
-नीचे	NST	O
-!	SYM	O
-फिर	RB	O
-न	NEG	O
-जाने	VM	O
-कहाँ	VAUX	O
-से	PSP	O
-एक	QC	O
-सौ	QC	O
-कर्ज	NN	O
-लाये	VM	O
-तो	CC	O
-बरतन	NN	O
--	SYM	O
-भांडे	PRP	O
-आये	VM	O
-Sentiment: 0
-
-हामिद	XC	O
--	SYM	O
-एक	QC	O
-सौ	QC	O
-तो	RP	O
-पचास	NN	O
-से	PSP	O
-ज्यादा	QF	O
-होते	VM	O
-हैं	VAUX	O
-?	SYM	O
 
 	PRP	O
 '	SYM	O
-कहाँ	PRP	O
-पचास	QC	O
-,	SYM	O
-कहाँ	PRP	O
-एक	QC	O
-सौ	QC	O
-Sentiment: 0
-
-पचास	QC	O
-एक	QC	O
-थैली	NN	O
--	SYM	O
-भर	RP	O
-होता	VM	O
-है	VAUX	O
-Sentiment: 0
-
-सौ	QC	O
-तो	RP	O
-दो	QC	O
-थैलियों	NN	O
-में	PSP	O
-भी	RP	O
-न	NEG	O
-आऍं	VM	O
-?	SYM	O
-
-अब	PRP	O
-बस्ती	NN	O
-घनी	JJ	O
-होने	VM	O
-लगी	VAUX	O
-Sentiment: 0
-
-ईदगाह	NN	O
-जानेवालों	NN	O
-की	PSP	O
-टोलियाँ	NN	O
-नजर	NN	O
-आने	VM	O
-लगी	VAUX	O
-Sentiment: -1
-
-एक	QC	O
-से	PSP	O
-एक	QC	O
-भड़कीले	JJ	O
-वस्त्र	NN	O
-पहने	VM	O
-हुए	VAUX	O
-Sentiment: -1
-
-कोई	PRP	O
-इक्के	NN	O
--	SYM	O
-ताँगे	PRP	O
-पर	PSP	O
-सवार	JJ	O
-,	SYM	O
-कोई	PRP	O
-मोटर	NN	O
-पर	PSP	O
-,	SYM	O
-सभी	QF	O
-इत्र	NN	O
-में	PSP	O
-बसे	VM	O
-,	SYM	O
-सभी	QF	O
-के	PSP	O
-दिलों	NN	O
-में	PSP	O
-उमंग	NN	O
-Sentiment: -1
-
-ग्रामीणों	NN	O
-का	PSP	O
-यह	DEM	O
-छोटा	JJ	O
--	SYM	O
-सा	RP	O
-दल	NN	O
-अपनी	PRP	O
-विपन्नता	NN	O
-से	PSP	O
-बेखबर	JJ	O
-,	SYM	O
-सन्तोष	NN	O
-ओर	PSP	O
-धैर्य	NN	O
-में	PSP	O
-मगन	NN	O
-चला	VM	O
-जा	VAUX	O
-रहा	VAUX	O
-था	VAUX	O
-Sentiment: -1
-
-बच्चों	NN	O
-के	PSP	O
-लिए	PSP	O
-नगर	NN	O
-की	PSP	O
-सभी	QF	O
-चीजें	NN	O
-अनोखी	JJ	O
-थीं	VM	O
-Sentiment: -1
-
-जिस	DEM	O
-चीज	NN	O
-की	PSP	O
-ओर	NST	O
-ताकते	VM	O
-,	SYM	O
-ताकते	RDP	O
-ही	RP	O
-रह	VM	O
-जाते	VAUX	O
-और	CC	O
-पीछे	NST	O
-से	PSP	O
-बार	RP	O
--	SYM	O
-बार	RP	O
-हार्न	NN	O
-की	PSP	O
-आवाज	NN	O
-होने	VM	O
-पर	PSP	O
-भी	RP	O
-न	NEG	O
-चेतते	VM	O
-Sentiment: -1
-
-हामिद	NN	O
-तो	RP	O
-मोटर	NN	O
-के	PSP	O
-नीचे	NST	O
-जाते	VM	O
--	SYM	O
-जाते	RDP	O
-बचा	VM	O
-Sentiment: -1
-
-सहसा	RB	O
-ईदगाह	NN	O
-नजर	NN	O
-आयी	VM	O
-Sentiment: -1
-
-ऊपर	NST	O
-इमली	NN	O
-के	PSP	O
-घने	JJ	O
-वृक्षों	NN	O
-की	PSP	O
-छाया	VM	O
-है	VAUX	O
-Sentiment: -1
-
-नीचे	NST	O
-पक्का	NN	O
-फर्श	NN	O
-है	VM	O
-,	SYM	O
-जिस	DEM	O
-पर	PSP	O
-जाजम	NN	O
-बिछा	VM	O
-हुआ	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-और	CC	O
-रोजेदारों	NN	O
-की	PSP	O
-पंक्तियाँ	NN	O
-एक	QC	O
-के	PSP	O
-पीछे	NST	O
-एक	QC	O
-न	NEG	O
-जाने	VM	O
-कहाँ	VAUX	O
-तक	RP	O
-चली	VM	O
-गयी	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-पक्की	JJ	O
-जगत	NN	O
-के	PSP	O
-नीचे	NST	O
-तक	RP	O
-,	SYM	O
-जहाँ	PRP	O
-जाजम	NN	O
-भी	RP	O
-नहीं	NEG	O
-है	VM	O
-Sentiment: -1
-
-नये	JJ	O
-आने	VM	O
-वाले	PSP	O
-आकर	VM	O
-पीछे	NST	O
-की	PSP	O
-कतार	NN	O
-में	PSP	O
-खड़े	JJ	O
-हो	VM	O
-जाते	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-आगे	NST	O
-जगह	NN	O
-नहीं	NEG	O
-है	VM	O
-Sentiment: -1
-
-यहाँ	NN	O
-कोई	PRP	O
-धन	NN	O
-और	CC	O
-पद	NN	O
-नहीं	NEG	O
-देखता	VM	O
-Sentiment: -1
-
-इस्लाम	NN	O
-की	PSP	O
-निगाह	NN	O
-में	PSP	O
-सब	QF	O
-बराबर	JJ	O
-हैं	VM	O
-Sentiment: -1
-
-इन	DEM	O
-ग्रामीणों	NN	O
-ने	PSP	O
-भी	RP	O
-वजू	NN	O
-किया	VM	O
-ओर	PSP	O
-पिछली	JJ	O
-पंक्ति	NN	O
-में	PSP	O
-खड़े	JJ	O
-हो	VM	O
-गये	VAUX	O
-Sentiment: -1
-
-कितना	QF	O
-सुन्दर	JJ	O
-संचालन	NN	O
-है	VM	O
-,	SYM	O
-कितनी	QF	O
-सुन्दर	JJ	O
-व्यवस्था	NN	O
-!	SYM	O
-लाखों	QC	O
-सिर	NN	O
-एक	QC	O
-साथ	NST	O
-सिजदे	NN	O
-में	PSP	O
-झुक	VM	O
-जाते	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-फिर	RB	O
-सबके	PRP	O
-सब	QF	O
-एक	QC	O
-साथ	NST	O
-खड़े	JJ	O
-हो	VM	O
-जाते	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-एक	QC	O
-साथ	NST	O
-झुकते	VM	O
-हैं	VAUX	O
-,	SYM	O
-और	CC	O
-एक	QC	O
-साथ	NST	O
-घुटनों	NN	O
-के	PSP	O
-बल	NN	O
-बैठ	VM	O
-जाते	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-कई	QF	O
-बार	RP	O
-यही	DEM	O
-क्रिया	NN	O
-होती	VM	O
-है	VAUX	O
-,	SYM	O
-जैसे	RDP	O
-बिजली	NN	O
-की	PSP	O
-लाखों	QC	O
-बत्तियाँ	NN	O
-एक	QC	O
-साथ	NST	O
-प्रदीप्त	JJ	O
-हों	VM	O
-और	CC	O
-एक	QC	O
-साथ	NST	O
-बुझ	VM	O
-जायँ	VAUX	O
-,	SYM	O
-और	CC	O
-यही	DEM	O
-क्रम	NN	O
-चलता	VM	O
-रहा	VAUX	O
-Sentiment: -1
-
-कितना	QF	O
-अपूर्व	JJ	O
-दृश्य	NN	O
-था	VM	O
-,	SYM	O
-जिसकी	PRP	O
-सामूहिक	JJ	O
-क्रियाएँ	NN	O
-,	SYM	O
-विस्तार	NN	O
-और	CC	O
-अनंतता	NN	O
-हृदय	NN	ENAMEX_LIVTHINGS_B
-को	PSP	O
-श्रद्धा	NN	O
-,	SYM	O
-गर्व	NN	O
-और	CC	O
-आत्मानंद	NNP	ENAMEX_LOCATION_B
-से	PSP	O
-भर	VM	O
-देती	VAUX	O
-थीं	VAUX	O
-,	SYM	O
-मानों	RP:?	O
-भ्रातृत्व	NN	O
-का	PSP	O
-एक	QC	O
-सूत्र	NN	O
-इन	DEM	O
-समस्त	JJ	O
-आत्माओं	NN	O
-को	PSP	O
-एक	QC	O
-लड़ी	NN	O
-में	PSP	O
-पिरोये	VM	O
-हुए	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-2
-नमाज	NN	O
-खत्म	JJ	O
-हो	VM	O
-गयी	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-लोग	NN	O
-आपस	PRP	O
-में	PSP	O
-गले	NN	O
-मिल	VM	O
-रहे	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-तब	PRP	O
-मिठाई	NN	O
-और	CC	O
-खिलौने	NN	O
-की	PSP	O
-दूकान	NN	O
-पर	PSP	O
-धावा	NN	O
-होता	VM	O
-है	VAUX	O
-Sentiment: -1
-
-ग्रामीणों	NN	O
-का	PSP	O
-यह	DEM	O
-दल	NN	O
-इस	DEM	O
-विषय	NN	O
-में	PSP	O
-बालकों	NN	O
-से	PSP	O
-कम	QF	O
-उत्साही	JJ	O
-नहीं	NEG	O
-है	VM	O
-Sentiment: -1
-
+मुझे	PRP	O
+क्या	WQ	O
+मालूम	JJ	O
+कि	CC	O
 यह	PRP	O
-देखो	VM	O
-,	SYM	O
-हिंडोला	NN	O
-है	VM	O
-एक	QC	O
-पैसा	NN	O
-देकर	VM	O
-चढ़	NN	O
-जाओ	VM	O
-Sentiment: -1
-
-कभी	PRP	O
-आसमान	NN	ENAMEX_LOCATION_B
-पर	PSP	O
-जाते	VM	O
-हुए	VAUX	O
-मालूम	JJ	O
-होगें	VM	O
-,	SYM	O
-कभी	RDP	O
-जमीन	NN	O
-पर	PSP	O
-गिरते	VM	O
-हुए	VAUX	O
-Sentiment: -1
-
-यह	DEM	O
-चर्खी	NN	O
-है	VM	O
-,	SYM	O
-लकड़ी	NN	O
-के	PSP	O
-हाथी	NN	ENAMEX_LIVTHINGS_B
-,	SYM	O
-घोड़े	NN	ENAMEX_LIVTHINGS_B
-,	SYM	O
-ऊँट	PRP	O
-,	SYM	O
-छड़ों	NN	O
-में	PSP	O
-लटके	VM	O
-हुए	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-एक	QC	O
-पैसा	NN	O
-देकर	VM	O
-बैठ	VM	O
-जाओ	VAUX	O
-और	CC	O
-पच्चीस	QC	O
-चक्करों	NN	O
-का	PSP	O
-मजा	NN	O
-लो	VM	O
-Sentiment: -1
-
-महमूद	NN	O
-और	CC	O
-मोहसिन	NNP	ENAMEX_LOCATION_B
-ओर	PSP	O
-नूरे	NN	O
-ओर	PSP	O
-सम्मी	NN	O
-इन	DEM	O
-घोड़ों	NN	O
-ओर	PSP	O
-ऊँटों	NN	O
-पर	PSP	O
-बैठते	VM	O
-हैं	VAUX	O
-Sentiment: -1
-
-हामिद	NN	O
-दूर	NST	O
-खड़ा	VM	O
-है	VAUX	O
-Sentiment: -1
-
-तीन	QC	O
-ही	RP	O
-पैसे	NN	O
-तो	RP	O
-उसके	PRP	O
-पास	NST	O
-हैं	VM	O
+इतने	QF	O
+जल्द	NN	O
+आ	VM	O
+पहुँचेंगे	VAUX	O
 Sentiment: 0
 
-अपने	PRP	O
-कोष	NN	O
-का	PSP	O
-एक	QC	O
-तिहाई	QC	O
-जरा	QF	O
--	SYM	O
-सा	RP	O
-चक्कर	NN	O
-खाने	VM	O
-के	PSP	O
-लिए	PSP	O
-नहीं	NEG	O
-दे	VM	O
-सकता	VAUX	O
-Sentiment: -1
+रोज	NN	O
+तो	RP	O
+पहर	NN	O
+रात	NN	O
+गये	VM	O
+आते	VAUX	O
+थे	VAUX	O
+Sentiment: 0
 
-सब	QF	O
-चर्खियों	NN	O
+फिर	RB	O
+तुम	PRP	O
+इतनी	QF	O
+दूर	NST	O
 से	PSP	O
-उतरते	VM	O
-हैं	VAUX	O
+आये	VM	O
+थे	VAUX	O
+,	SYM	O
+तुम्हारी	PRP	O
+कुछ	QF	O
+खातिर	NN	O
+भी	RP	O
+तो	RP	O
+करनी	VM	O
+थी	VAUX	O
 Sentiment: -1
 
-अब	PRP	O
-खिलौने	VM	O
-लेंगे	VAUX	O
-Sentiment: -1
+'	SYM	O
 
-इधर	XC	O
-दूकानों	NN	O
+	PRP	O
+'	SYM	O
+यह	PRP	O
+अच्छी	JJ	O
+खातिर	NN	O
 की	PSP	O
-कतार	NN	O
-लगी	VM	O
-हुई	VAUX	O
-है	VAUX	O
 Sentiment: -1
 
-तरह	NN	O
--	SYM	O
-तरह	NN	O
-के	PSP	O
-खिलौने	VM	O
-हैं	VAUX	O
--	SYM	O
-सिपाही	NN	O
-और	CC	O
-गुजरिया	NN	O
-,	SYM	O
-राजा	NN	O
-और	CC	O
-वकील	NN	O
-,	SYM	O
-भिश्ती	NN	O
-और	CC	O
-धोबिन	NN	O
-और	CC	O
-साधु	NN	O
-Sentiment: -1
-
-वाह	INJ	O
-!	SYM	O
-कितने	WQ	O
-सुन्दर	JJ	O
-खिलौने	VM	O
-हैं	VAUX	O
-Sentiment: -1
-
+बताओ	VM	O
+;	SYM	O
 अब	PRP	O
-बोला	VM	O
-ही	RP	O
-चाहते	VM	O
-हैं	VAUX	O
-Sentiment: -1
+मैं	PRP	O
+जाऊँ	NN	O
+कहाँ	PSP	O
+?	SYM	O
+'	SYM	O
 
-महमूद	JJ	O
-सिपाही	NN	O
-लेता	VM	O
-है	VAUX	O
-,	SYM	O
-खाकी	JJ	O
-वर्दी	NN	O
-और	CC	O
-लाल	JJ	O
-पगड़ीवाला	NN	O
-,	SYM	O
-कंधे	NN	O
-पर	PSP	O
-बंदूक	NN	O
-रखे	VM	O
-हुए	VAUX	O
-,	SYM	O
-मालूम	JJ	O
-होता	VM	O
-है	VAUX	O
-,	SYM	O
-अभी	PRP	O
-कवायद	NN	O
-किये	VM	O
-चला	VAUX	O
+	PRP	O
+'	SYM	O
+मेरी	PRP	O
+समझ	NN	O
+में	PSP	O
+खुद	PRP	O
+कुछ	QF	O
+नहीं	NEG	O
 आ	VM	O
 रहा	VAUX	O
 है	VAUX	O
-Sentiment: -1
+Sentiment: 0
 
-मोहसिन	NNP	ENAMEX_LOCATION_B
-को	PSP	O
-भिश्ती	JJ	O
-पसंद	NN	O
-आया	VM	O
-Sentiment: -1
-
-कमर	NN	O
-झुकी	VM	O
-हुई	VAUX	O
-है	VAUX	O
-,	SYM	O
-ऊपर	NST	O
-मशक	NN	O
-रखे	VM	O
-हुए	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-मशक	NN	O
-का	PSP	O
-मुँह	NN	O
-एक	QC	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-से	PSP	O
-पकड़े	NNP	ENAMEX_LOCATION_B
-हुए	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-कितना	QF	O
-प्रसन्न	JJ	O
-है	VM	O
+या	CC	O
+अल्लाह	NN	O
 !	SYM	O
-शायद	RB	O
-कोई	PRP	O
-गीत	NN	O
-गा	VM	O
-रहा	VAUX	O
-है	VAUX	O
+किस	WQ	O
+अजाब	NN	O
+में	PSP	O
+फॅसी	VM	O
+Sentiment: -1
+
+'	SYM	O
+
+इतने	PRP	O
+में	PSP	O
+उन	DEM	O
+साहब	NN	O
+ने	PSP	O
+दरवाजा	NN	O
+खटखटाया	VM	O
+Sentiment: -1
+
+ऐसा	PRP	O
+मालूम	JJ	O
+होता	VM	O
+था	VAUX	O
+कि	CC	O
+किवाड़	XC	O
+तोड़	NNP	ENAMEX_LOCATION_B
+डालेगा	VM	O
+Sentiment: -1
+
+हसीना	NNP	ENAMEX_LOCATION_B
+के	PSP	O
+चेहरे	NN	O
+पर	PSP	O
+एक	QC	O
+रंग	NN	O
+आता	VM	O
+था	VAUX	O
+,	SYM	O
+एक	QC	O
+रंग	NN	O
+जाता	VM	O
+था	VAUX	O
+Sentiment: -1
+
+बेचारी	NN	O
+खड़ी	NNP	ENAMEX_LOCATION_B
+काँप	PSP	O
+रही	VM	O
+थी	VAUX	O
 Sentiment: -1
 
 बस	XC	O
 ,	SYM	O
-मशक	NN	O
+जबान	NN	O
 से	PSP	O
-पानी	NN	O
-उड़ेलना	VM	O
-ही	RP	O
-चाहता	VM	O
-है	VAUX	O
-Sentiment: -1
-
-नूरे	NN	O
-को	PSP	O
-वकील	NN	O
-से	PSP	O
-प्रेम	NN	O
-है	VM	O
-Sentiment: -1
-
-कैसी	WQ	O
-विद्वमता	NN	O
-है	VM	O
-उसके	PRP	O
-मुख	NN	O
-पर	PSP	O
-!	SYM	O
-काला	JJ	O
-चोगा	NN	O
+यही	PRP	O
+निकलता	VM	O
+था	VAUX	O
 ,	SYM	O
-नीचे	NST	O
-सफेद	JJ	O
-अचकन	NN	O
-,	SYM	O
-अचकन	NN	O
-के	PSP	O
-सामने	NST	O
-की	PSP	O
-जेब	NN	O
-में	PSP	O
-घड़ी	XC	O
-,	SYM	O
-सुनहरी	JJ	O
-जंजीर	NN	O
-,	SYM	O
-एक	QC	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-में	PSP	O
-कानून	NN	O
-का	PSP	O
-पोथा	NN	O
-लिये	VM	O
-हुए	VAUX	O
-Sentiment: -1
-
-मालूम	JJ	O
-होता	VM	O
-है	VAUX	O
-,	SYM	O
-अभी	PRP	O
-किसी	PRP	O
-अदालत	NN	O
-से	PSP	O
-जिरह	NN	O
+'	SYM	O
 या	CC	O
-बहस	NN	O
-किये	VM	O
-चले	VM	O
-आ	VM	O
-रहे	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-यह	PRP	O
-सब	QF	O
-दो	QC	O
--	SYM	O
-दो	QC	O
-पैसे	NN	O
-के	PSP	O
-खिलौने	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-हामिद	NN	O
-के	PSP	O
-पास	NST	O
-कुल	QF	O
-तीन	QC	O
-पैसे	NN	O
-हैं	VM	O
+अल्लाह	NN	O
 ,	SYM	O
-इतने	QF	O
-महँगे	NN	O
-खिलौने	VM	O
-वह	PRP	O
-कैसे	WQ	O
-ले	VM	O
-?	SYM	O
-खिलौना	NN	O
-कहीं	PRP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-से	PSP	O
-छूट	VM	O
-पड़े	NN	O
-तो	CC	O
-चूर	NN	O
--	SYM	O
-चूर	PRP	O
-हो	VM	O
-जाय	VAUX	O
-Sentiment: -1
-
-जरा	QF	O
-पानी	NN	O
-पड़े	NN	O
-तो	RP	O
-सारा	QF	O
-रंग	NN	O
-घुल	VM	O
-जाय	VAUX	O
-Sentiment: 0
-
-ऐसे	DEM	O
-खिलौने	NN	O
-लेकर	VM	O
-वह	PRP	O
-क्या	WQ	O
-करेगा	VM	O
-;	SYM	O
-किस	WQ	O
-काम	NN	O
-के	PSP	O
-!	SYM	O
-
-मोहसिन	PRP	O
-कहता	VM	O
-है	VAUX	O
--	SYM	O
-मेरा	PRP	O
-भिश्ती	JJ	O
-रोज	NN	O
-पानी	NN	O
-दे	VM	O
-जायगा	VAUX	O
-साँझ	SYM	O
--	SYM	O
-सबेरे	JJ	O
-Sentiment: 0
-
-महमूद	NNP	ENAMEX_LOCATION_B
--	SYM	O
-और	CC	O
-मेरा	PRP	O
-सिपाही	NN	O
-घर	NN	O
-का	PSP	O
-पहरा	NN	O
-देगा	VM	O
-कोई	PRP	O
-चोर	NN	O
-आयेगा	VM	O
-,	SYM	O
-तो	CC	O
-फौरन	NNP	ENAMEX_LOCATION_B
-बंदूक	NN	O
-से	PSP	O
-फैर	VM	O
+रहम	VM	O
 कर	VAUX	O
-देगा	VAUX	O
 Sentiment: -1
 
-नूरे	NN	O
--	SYM	O
-और	CC	O
-मेरा	PRP	O
-वकील	NN	O
-खूब	JJ	O
-मुकदमा	NN	O
-लड़ेगा	VM	O
-Sentiment: -1
+'	SYM	O
 
-सम्मी	NN	O
+बाहर	PRP	O
+से	PSP	O
+आवाज	NN	O
+आई	VM	O
 -	SYM	O
-और	CC	O
-मेरी	PRP	O
-धोबिन	NN	O
-रोज	NN	O
-कपड़े	JJ	O
-धोयेगी	VM	O
+-	SYM	O
+'	SYM	O
+अरे	XC	O
+,	SYM	O
+तुम	PRP	O
+क्या	WQ	O
+सरेशाम	NN	O
+से	PSP	O
+सो	VM	O
+गईं	VAUX	O
+?	SYM	O
+अभी	PRP	O
+तो	RP	O
+आठ	QC	O
+भी	RP	O
+नहीं	NEG	O
+बजे	VM	O
 Sentiment: 0
 
-हामिद	XC	O
-खिलौनों	NN	O
-की	PSP	O
-निंदा	NN	O
-करता	VM	O
-है	VAUX	O
--	SYM	O
-मिट्टी	NN	O
-ही	RP	O
-के	PSP	O
+कहीं	JJ	O
+साँप	NN	O
 तो	RP	O
-हैं	VM	O
-,	SYM	O
-गिरें	VM	O
-तो	CC	O
-चकनाचूर	JJ	O
-हो	VM	O
-जायँ	VAUX	O
-,	SYM	O
-लेकिन	CC	O
-ललचाई	NN	O
-हुई	VM	O
-आँखों	VAUX	O
-से	PSP	O
-खिलौनों	NN	O
-को	PSP	O
-देख	VM	O
-रहा	VAUX	O
+नहीं	NEG	O
+सूँघ	VM	O
+गया	VAUX	O
+Sentiment: -1
+
+अल्लाह	NN	O
+जानता	VM	O
 है	VAUX	O
+,	SYM	O
+अब	PRP	O
 और	CC	O
-चाहता	VM	O
-है	VAUX	O
-कि	CC	O
-जरा	QF	O
 देर	NN	O
+की	PSP	O
+,	SYM	O
+तो	CC	O
+किवाड़	XC	O
+चिड़वा	NN	O
+डालूँगा	PSP	O
+Sentiment: 0
+
+'	SYM	O
+
+मैंने	PRP	O
+गिड़गिड़ाकर	VM	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+ख़ुदा	VM	O
 के	PSP	O
 लिए	PSP	O
-उन्हें	PRP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-में	PSP	O
-ले	VM	O
-सकता	VAUX	O
-Sentiment: 0
-
-उसके	PRP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-अनायास	NN	ENAMEX_LIVTHINGS_I
-ही	RP	O
-लपकते	VM	O
-हैं	VAUX	O
-,	SYM	O
-लेकिन	CC	O
-लड़के	NNP	O
-इतने	QF	O
-त्यागी	NN	O
-नहीं	NEG	O
-होते	VM	O
-हैं	VAUX	O
-,	SYM	O
-विशेषकर	RB	O
-जब	PRP	O
-अभी	PRP	O
-नया	JJ	O
-शौक	NN	O
-है	VM	O
-Sentiment: 0
-
-हामिद	NN	O
-ललचाता	VM	O
-रह	VAUX	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-खिलौने	NN	O
-के	PSP	O
-बाद	NST	O
-मिठाइयाँ	VM	O
-आती	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-किसी	PRP	O
-ने	PSP	O
-रेवड़ियाँ	NN	O
-ली	VM	O
-हैं	VAUX	O
-,	SYM	O
-किसी	PRP	O
-ने	PSP	O
-गुलाबजामुन	NN	O
-किसी	PRP	O
-ने	PSP	O
-सोहन	XC	O
-हलवा	NN	O
-Sentiment: -1
-
-मजे	NN	O
-से	PSP	O
-खा	VM	O
-रहे	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-हामिद	XC	O
-बिरादरी	NNP	ENAMEX_LOCATION_B
-से	PSP	O
-पृथक	JJ	O
-है	VM	O
-Sentiment: 0
-
-अभागे	JJ	O
-के	PSP	O
-पास	NST	O
-तीन	QC	O
-पैसे	NN	O
-हैं	VM	O
-Sentiment: 0
-
-क्यों	WQ	O
-नहीं	NEG	O
-कुछ	QF	O
-लेकर	VM	O
-खाता	VM	O
-?	SYM	O
-ललचायी	JJ	O
-आँखों	NN	O
-से	PSP	O
-सबकी	QF	O
-ओर	NST	O
-देखता	VM	O
-है	VAUX	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
-कहता	VM	O
-है	VAUX	O
--	SYM	O
-हामिद	XC	O
-रेवड़ी	NNP	ENAMEX_LOCATION_B
-ले	VM	O
-जा	VAUX	O
-,	SYM	O
-कितनी	QF	O
-खुशबूदार	JJ	O
-है	VM	O
-!	SYM	O
-
-हामिद	PRP	O
-को	PSP	O
-संदेह	NN	O
-हुआ	VM	O
-,	SYM	O
-ये	PRP	O
-केवल	RP	O
-क्रूर	JJ	O
-विनोद	NN	O
-है	VM	O
-,	SYM	O
-मोहसिन	NNP	ENAMEX_LOCATION_B
-इतना	QF	O
-उदार	JJ	O
-नहीं	NEG	O
-है	VM	O
-,	SYM	O
-लेकिन	CC	O
-यह	PRP	O
-जानकर	VM	O
-भी	RP	O
-वह	PRP	O
-उसके	PRP	O
-पास	NST	O
-जाता	VM	O
-है	VAUX	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
-दोने	NN	O
-से	PSP	O
-एक	QC	O
-रेवड़ी	NN	O
-निकालकर	VM	O
-हामिद	NN	O
+मेरे	PRP	O
+छिपने	VM	O
 की	PSP	O
-ओर	NST	O
-बढ़ाता	NNP	ENAMEX_LOCATION_B
-है	VM	O
+कोई	PRP	O
+जगह	NN	O
+बताओ	VM	O
 Sentiment: -1
 
-हामिद	XC	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-फैलाता	VM	O
-है	VAUX	O
+पिछवाड़े	NNP	ENAMEX_LOCATION_B
+कोई	PRP	O
+दरवाजा	NN	O
+नहीं	NEG	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+ना	VM	O
+!	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+संडास	NN	O
+तो	RP	O
+है	VM	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+सबसे	INTF	O
+पहले	NST	O
+वह	PRP	O
+वहीं	PRP	O
+जायेंगे	NNP	O
 Sentiment: 0
 
-मोहसिन	XC	O
-रेवड़ी	NNP	ENAMEX_LOCATION_B
-अपने	PRP	O
-मुँह	NN	O
-में	PSP	O
-रख	VM	O
-लेता	VAUX	O
-है	VAUX	O
-Sentiment: 0
+'	SYM	O
 
-महमूद	NNP	ENAMEX_LOCATION_B
-,	SYM	O
-नूरे	NN	O
-और	CC	O
-सम्मी	NN	O
-खूब	INTF	O
-तालियाँ	JJ	O
-बजा	VM	O
--	SYM	O
-बजाकर	PRP	O
-हँसते	NN	O
-हैं	VM	O
-Sentiment: 0
-
-हामिद	NN	O
-खिसिया	VM	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
--	SYM	O
+	PRP	O
+'	SYM	O
 अच्छा	INJ	O
 ,	SYM	O
-अबकी	PRP	O
-जरूर	RB	O
-देंगे	VM	O
-हामिद	XC	O
-,	SYM	O
-अल्लाह	RDP	O
-कसम	NN	O
-,	SYM	O
-ले	VM	O
-जाव	VAUX	O
-Sentiment: 0
-
-हामिद	XC	O
--	SYM	O
-रखे	VM	O
-रहो	VAUX	O
-Sentiment: -1
-
-क्या	WQ	O
-मेरे	PRP	O
-पास	NST	O
-पैसे	NN	O
-नहीं	NEG	O
-हैं	VM	O
+वह	PRP	O
+सामने	NST	O
+कोठरी	NN	O
+कैसी	WQ	O
+है	VM	O
 ?	SYM	O
+'	SYM	O
 
-सम्मी	PRP	O
--	SYM	O
-तीन	QC	O
-ही	RP	O
-पैसे	NN	O
+	PRP	O
+'	SYM	O
+हाँ	PRP	O
+,	SYM	O
+है	VM	O
 तो	RP	O
-हैं	VM	O
-Sentiment: 0
-
-तीन	QC	O
-पैसे	NN	O
-में	PSP	O
-क्या	WQ	O
--	SYM	O
-क्या	WQ	O
-लोगे	VM	O
-?	SYM	O
-
-महमूद	PRP	O
--	SYM	O
-हमसे	PRP	O
-गुलाबजामुन	NN	O
-ले	VM	O
-जाव	VAUX	O
-हामिद	NN	O
-Sentiment: 0
-
-मोहमिन	JJ	O
-बदमाश	NN	O
-है	VM	O
-Sentiment: -1
-
-हामिद	XC	O
--	SYM	O
-मिठाई	NN	O
-कौन	WQ	O
-बड़ी	JJ	O
-नेमत	NN	O
-है	VM	O
-Sentiment: 0
-
-किताब	NN	O
-में	PSP	O
-इसकी	PRP	O
-कितनी	INTF	O
-बुराइयाँ	JJ	O
-लिखी	VM	O
-हैं	VAUX	O
-Sentiment: 1
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
--	SYM	O
+,	SYM	O
 लेकिन	CC	O
-दिल	NN	ENAMEX_LIVTHINGS_B
-में	PSP	O
-कह	VM	O
-रहे	VAUX	O
-होंगे	VAUX	O
-कि	CC	O
-मिले	VM	O
-तो	RP	O
-खा	VM	O
-लें	VAUX	O
-Sentiment: 0
-
-अपने	PRP	O
-पैसे	NN	O
-क्यों	WQ	O
-नहीं	NEG	O
-निकालते	VM	O
-?	SYM	O
-
-महमूद	PRP	O
--	SYM	O
-हम	PRP	O
-समझते	VM	O
-हैं	VAUX	O
-,	SYM	O
-इसकी	PRP	O
-चालाकी	NN	O
-Sentiment: 0
-
-जब	PRP	O
-हमारे	PRP	O
-सारे	QF	O
-पैसे	NN	O
-खर्च	NN	O
-हो	VM	O
-जायेंगे	VAUX	O
-,	SYM	O
-तो	CC	O
-हमें	PRP	O
-ललचा	NN	O
--	SYM	O
-ललचाकर	PRP	O
-खायगा	NN	O
-Sentiment: 0
-
-मिठाइयों	NN	O
-के	PSP	O
-बाद	NST	O
-कुछ	QF	O
-दूकानें	NN	O
-लोहे	NN	O
-की	PSP	O
-चीजों	NN	O
-की	PSP	O
-,	SYM	O
-कुछ	QF	O
-गिलट	NN	O
-और	CC	O
-कुछ	QF	O
-नकली	JJ	O
-गहनों	NN	O
-की	PSP	O
-Sentiment: -1
-
-लड़कों	NN	O
-के	PSP	O
-लिए	PSP	O
-यहाँ	NN	O
-कोई	PRP	O
-आकर्षण	NN	O
-न	NEG	O
-था	VM	O
-Sentiment: -1
-
-वे	PRP	O
-सब	QF	O
-आगे	NST	O
-बढ़	NNP	ENAMEX_LOCATION_B
-जाते	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-हामिद	XC	O
-लोहे	NN	O
-की	PSP	O
-दुकान	NN	O
-पर	PSP	O
-रूक	VM	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-कई	QF	O
-चिमटे	NN	O
-रखे	VM	O
-हुए	VAUX	O
-थे	VAUX	O
-Sentiment: -1
-
-उसे	PRP	O
-खयाल	NN	O
-आया	VM	O
-,	SYM	O
-दादी	NN	O
-के	PSP	O
-पास	NST	O
-चिमटा	NN	O
-नहीं	NEG	O
-है	VM	O
-Sentiment: -1
-
-तवे	NN	O
-से	PSP	O
-रोटियाँ	NN	O
-उतारती	VM	O
-हैं	VAUX	O
-,	SYM	O
-तो	CC	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-जल	VM	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-अगर	CC	O
-वह	PRP	O
-चिमटा	NN	O
-ले	VM	O
-जाकर	VAUX	O
-दादी	NN	O
-को	PSP	O
-दे	VM	O
-दे	VAUX	O
-तो	CC	O
-वह	PRP	O
-कितना	QF	O
-प्रसन्न	JJ	O
-होंगी	VM	O
-!	SYM	O
-फिर	RB	O
-उनकी	PRP	O
-उंगलियाँ	NN	O
-कभी	PRP	O
-न	NEG	O
-जलेंगी	VM	O
-Sentiment: -1
-
-घर	NN	O
-में	PSP	O
-एक	QC	O
-काम	NN	O
-की	PSP	O
-चीज	NN	O
-हो	VM	O
-जायगी	VAUX	O
-Sentiment: -1
-
-खिलौने	NN	O
-से	PSP	O
-क्या	WQ	O
-फायदा	NN	O
-?	SYM	O
-व्यर्थ	NN	O
-में	PSP	O
-पैसे	NN	O
-खराब	JJ	O
-होते	VM	O
-हैं	VAUX	O
-Sentiment: -1
-
-जरा	QF	O
-देर	NN	O
-ही	RP	O
-तो	RP	O
-खुशी	NN	O
-होती	VM	O
-है	VAUX	O
-Sentiment: 0
-
-फिर	RB	O
-तो	RP	O
-खिलौने	NN	O
-को	PSP	O
-कोई	PRP	O
-आँख	NN	O
-उठाकर	VM	O
-नहीं	NEG	O
-देखता	VM	O
-Sentiment: -1
-
-यह	PRP	O
-तो	RP	O
-घर	NN	O
-पहुँचते	PSP	O
--	SYM	O
-पहुँचते	PRP	O
-टूट	VM	O
--	SYM	O
-फूट	VM	O
-बराबर	JJ	O
-हो	VM	O
-जायेंगे	VAUX	O
-या	CC	O
-छोटे	JJ	O
-बच्चे	NN	O
-जो	PRP	O
-मेले	NN	O
-में	PSP	O
-नहीं	NEG	O
-आये	VM	O
-हैं	VAUX	O
-जिद	NN	O
-कर	VM	O
-के	PSP	O
-ले	VM	O
-लेंगे	VAUX	O
-और	CC	O
-तोड़	NNP	ENAMEX_LOCATION_B
-डालेंगे	VM	O
-Sentiment: -1
-
-चिमटा	NN	O
-कितने	WQ	O
-काम	NN	O
-की	PSP	O
-चीज	NN	O
-है	VM	O
-Sentiment: 0
-
-रोटियाँ	NN	O
-तवे	NN	O
-से	PSP	O
-उतार	VM	O
-लो	VAUX	O
-,	SYM	O
-चूल्हें	NN	O
-में	PSP	O
-सेंक	VM	O
-लो	VAUX	O
-Sentiment: -1
-
-कोई	PRP	O
-आग	NN	O
-माँगने	PSP	O
-आये	VM	O
-तो	CC	O
-चटपट	JJ	O
-चूल्हे	NN	O
-से	PSP	O
-आग	NN	O
-निकालकर	VM	O
-उसे	PRP	O
-दे	VM	O
-दो	VAUX	O
-Sentiment: -1
-
-अम्माँ	NN	O
-बेचारी	NN	O
-को	PSP	O
-कहाँ	NN	O
-फुरसत	NN	O
-है	VM	O
-कि	CC	O
-बाजार	NN	O
-आयें	VM	O
-और	CC	O
-इतने	QF	O
-पैसे	NN	O
-ही	RP	O
-कहाँ	NN	O
-मिलते	VM	O
-हैं	VAUX	O
-?	SYM	O
-रोज	NN	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-जला	VM	O
-लेती	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-हामिद	NN	O
-के	PSP	O
-साथी	NN	O
-आगे	NST	O
-बढ़	NNP	ENAMEX_LOCATION_B
-गये	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-सबील	NN	O
-पर	PSP	O
-सब	QF	O
--	SYM	O
-के	PSP	O
--	SYM	O
-सब	QF	O
-शर्बत	NN	O
-पी	VM	O
-रहे	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-देखो	VM	O
-,	SYM	O
-सब	PRP	O
-कितने	WQ	O
-लालची	JJ	O
-हैं	VM	O
-Sentiment: 0
-
-इतनी	QF	O
-मिठाइयाँ	NN	O
-लीं	VM	O
-,	SYM	O
-मुझे	PRP	O
-किसी	PRP	O
-ने	PSP	O
-एक	QC	O
-भी	RP	O
-न	NEG	O
-दी	VM	O
-Sentiment: 0
-
-उस	DEM	O
-पर	PSP	O
-कहते	VM	O
-है	VAUX	O
-,	SYM	O
-मेरे	PRP	O
-साथ	NST	O
-खेलो	VM	O
-Sentiment: 0
-
-मेरा	PRP	O
-यह	DEM	O
-काम	NN	O
-करो	VM	O
-Sentiment: 0
-
-अब	PRP	O
-अगर	CC	O
-किसी	PRP	O
-ने	PSP	O
-कोई	PRP	O
-काम	NN	O
-करने	VM	O
-को	PSP	O
-कहा	VM	O
-,	SYM	O
-तो	CC	O
-पूछूँगा	NN	O
-Sentiment: -1
-
-खायें	NN	O
-मिठाइयाँ	PSP	O
-,	SYM	O
-आप	PRP	O
-मुँह	NN	O
-सड़ेगा	VM	O
-,	SYM	O
-फोड़े	NNP	ENAMEX_LOCATION_B
--	SYM	O
-फुन्सियाँ	PRP	O
-निकलेंगी	VM	O
-,	SYM	O
-आप	PRP	O
-ही	RP	O
-जबान	NN	O
-चटोरी	JJ	O
-हो	VM	O
-जायगी	VAUX	O
-Sentiment: 0
-
-तब	PRP	O
-घर	NN	O
-से	PSP	O
-पैसे	NN	O
-चुरायेंगे	VM	O
-और	CC	O
-मार	NN	O
-खायेंगे	VM	O
-Sentiment: 0
-
-किताब	NN	O
-में	PSP	O
-झूठी	JJ	O
-बातें	NN	O
-थोड़े	NN	O
-ही	RP	O
-लिखी	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-मेरी	PRP	O
-जबान	NN	O
-क्यों	WQ	O
-खराब	JJ	O
-होगी	VM	O
-?	SYM	O
-अम्माँ	PRP	O
-चिमटा	NN	O
-देखते	VM	O
-ही	RP	O
-दौड़कर	NNP	ENAMEX_LOCATION_B
-मेरे	PRP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-से	PSP	O
-ले	VM	O
-लेंगी	VAUX	O
-और	CC	O
-कहेंगी	VM	O
--	SYM	O
-मेरा	PRP	O
-बच्चा	NN	O
-अम्माँ	PSP	O
-के	PSP	O
-लिए	PSP	O
-चिमटा	NN	O
-लाया	VM	O
-है	VAUX	O
-Sentiment: 0
-
-कितना	QF	O
-अच्छा	XC	O
-लड़का	NNP	ENAMEX_LOCATION_B
-है	VM	O
-Sentiment: 0
-
-इन	DEM	O
-लोगों	NN	O
-के	PSP	O
-खिलौने	NN	O
-पर	PSP	O
-कौन	WQ	O
-इन्हें	PRP	O
-दुआयें	NN	O
-देगा	VM	O
-?	SYM	O
-बड़ों	NN	O
-की	PSP	O
-दुआयें	NN	O
-सीधे	JJ	O
-अल्लाह	NN	O
-के	PSP	O
-दरबार	NN	O
-में	PSP	O
-पहुँचती	NN	O
-हैं	VM	O
-,	SYM	O
-और	CC	O
-तुरंत	RB	O
-सुनी	VM	O
-जाती	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-मेरे	PRP	O
-पास	NST	O
-पैसे	NN	O
-नहीं	NEG	O
-हैं	VM	O
-Sentiment: 0
-
-तभी	PRP	O
-तो	RP	O
-मोहसिन	NNP	ENAMEX_LOCATION_B
-और	CC	O
-महमूद	NN	O
-यों	RP	O
-मिजाज	NN	O
-दिखाते	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-मैं	PRP	O
-भी	RP	O
-इनसे	PRP	O
-मिजाज	NN	O
-दिखाऊँगा	PSP	O
-Sentiment: 0
-
-खेलें	NN	O
-खिलौने	VM	O
-और	CC	O
-खायें	NN	O
-मिठाइयाँ	PSP	O
-Sentiment: 0
-
-मै	PRP	O
-नहीं	NEG	O
-खेलता	VM	O
-खिलौने	VM	O
-,	SYM	O
-किसी	PRP	O
-का	PSP	O
-मिजाज	NN	O
-क्यों	WQ	O
-सहूँ	VM	O
-?	SYM	O
-मैं	PRP	O
-गरीब	NN	O
-सही	JJ	O
-,	SYM	O
-किसी	PRP	O
-से	PSP	O
-कुछ	PRP	O
-माँगने	NN	O
-तो	RP	O
-नहीं	NEG	O
-जाता	VAUX	O
-Sentiment: 0
-
-आखिर	RB	O
-अब्बाजान	JJ	O
-कभीं	NN	O
-न	NEG	O
-कभी	PRP	O
-आयेंगे	VM	O
-Sentiment: 0
-
-अम्मा	NNP	ENAMEX_LOCATION_B
-भी	RP	O
-आयेंगी	VM	O
-ही	RP	O
-Sentiment: 0
-
-फिर	RB	O
-इन	DEM	O
-लोगों	NN	O
-से	PSP	O
-पूछूँगा	NN	O
-,	SYM	O
-कितने	WQ	O
-खिलौने	VM	O
-लोगे	VAUX	O
-?	SYM	O
-एक	QC	O
--	SYM	O
-एक	QC	O
-को	PSP	O
-टोकरियों	NN	O
-खिलौने	VM	O
-दूँ	VAUX	O
-और	CC	O
-दिखा	VM	O
-दूँ	VAUX	O
-कि	CC	O
-दोस्तों	NN	O
-के	PSP	O
-साथ	NST	O
-इस	DEM	O
-तरह	NN	O
-का	PSP	O
-सलूक	NN	O
-किया	VM	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-यह	PRP	O
-नहीं	NEG	O
-कि	CC	O
-एक	QC	O
-पैसे	NN	O
-की	PSP	O
-रेवड़ियाँ	NN	O
-लीं	VM	O
-,	SYM	O
-तो	CC	O
-चिढ़ा	XC	O
--	SYM	O
-चिढ़ाकर	VM	O
-खाने	VM	O
-लगे	VAUX	O
-Sentiment: 0
-
-सबके	PRP	O
-सब	QF	O
-खूब	INTF	O
-हँसेंगे	JJ	O
-कि	CC	O
-हामिद	NN	O
-ने	PSP	O
-चिमटा	NN	O
-लिया	VM	O
-है	VAUX	O
-Sentiment: 0
-
-हँसें	NN	O
-!	SYM	O
-मेरी	PRP	O
-बला	NN	O
-से	PSP	O
-Sentiment: 0
-
-उसने	PRP	O
-दुकानदार	NN	O
-से	PSP	O
-पूछा	VM	O
--	SYM	O
-यह	DEM	O
-चिमटा	NN	O
-कितने	WQ	O
-का	PSP	O
-है	VM	O
-?	SYM	O
-
-दुकानदार	PRP	O
-ने	PSP	O
-उसकी	PRP	O
-ओर	NST	O
+कहीं	PRP	O
+कोठरी	NN	O
+खोलकर	VM	O
 देखा	VM	O
-और	CC	O
-कोई	PRP	O
-आदमी	NN	O
-साथ	NST	O
-न	NEG	O
-देखकर	VM	O
-कहा	VM	O
--	SYM	O
-तुम्हारे	PRP	O
-काम	NN	O
-का	PSP	O
-नहीं	NEG	O
-है	VM	O
-जी	VAUX	O
-!	SYM	O
-
-	PRP	O
-'	SYM	O
-बिकाऊ	JJ	O
-है	VM	O
-कि	CC	O
-नहीं	NEG	O
-?	SYM	O
-'	SYM	O
-
-	PRP	O
-'	SYM	O
-बिकाऊ	NN	O
-क्यों	WQ	O
-नहीं	NEG	O
-है	VM	O
-?	SYM	O
-और	CC	O
-यहाँ	NN	O
-क्यों	WQ	O
-लाद	VM	O
-लाये	VAUX	O
-हैं	VAUX	O
-?	SYM	O
-'	SYM	O
-
-तो	PRP	O
-बताते	VM	O
-क्यों	WQ	O
-नहीं	NEG	O
-,	SYM	O
-कै	QC	O
-पैसे	NN	O
-का	PSP	O
-है	VM	O
-?	SYM	O
-'	SYM	O
-
-	PRP	O
-'	SYM	O
-छ	QC	O
-:	SYM	O
-पैसे	NN	O
-लगेंगे	VM	O
-Sentiment: 0
-
-'	SYM	O
-
-हामिद	PRP	O
-का	PSP	O
-दिल	NN	O
-बैठ	VM	O
-गया	VAUX	O
-Sentiment: -1
-
-'	SYM	O
-ठीक	JJ	O
--	SYM	O
-ठीक	JJ	O
-पाँच	NN	O
-पैसे	NN	O
-लगेंगे	VM	O
-,	SYM	O
-लेना	VM	O
-हो	VAUX	O
-लो	VAUX	O
-,	SYM	O
-नहीं	NEG	O
-चलते	VM	O
-बनो	VAUX	O
-Sentiment: 0
-
-'	SYM	O
-
-हामिद	PRP	O
-ने	PSP	O
-कलेजा	NN	O
-मजबूत	JJ	O
-करके	VM	O
-कहा	VM	O
--	SYM	O
-तीन	QC	O
-पैसे	NN	O
-लोगे	VM	O
-?	SYM	O
-
-यह	PRP	O
-कहता	VM	O
-हुआ	VAUX	O
-वह	PRP	O
-आगे	NST	O
-बढ़	NNP	ENAMEX_LOCATION_B
-गया	VAUX	O
-कि	CC	O
-दुकानदार	NN	O
-की	PSP	O
-घुड़कियाँ	NN	O
-न	NEG	O
-सुने	VM	O
-Sentiment: 0
-
-लेकिन	CC	O
-दुकानदार	NN	O
-ने	PSP	O
-घुड़कियाँ	NN	O
-नहीं	NEG	O
-दी	VM	O
-Sentiment: 0
-
-बुलाकर	VM	O
-चिमटा	NN	O
-दे	VM	O
-दिया	VAUX	O
-Sentiment: 0
-
-हामिद	NN	O
-ने	PSP	O
-उसे	PRP	O
-इस	DEM	O
-तरह	NN	O
-कंधे	NN	O
-पर	PSP	O
-रखा	VM	O
-,	SYM	O
-मानो	RP:?	O
-बंदूक	NN	O
-है	VM	O
-और	CC	O
-शान	NN	O
-से	PSP	O
-अकड़ता	NNP	O
-हुआ	VM	O
-संगियों	NN	O
-के	PSP	O
-पास	NST	O
-आया	VM	O
-Sentiment: -1
-
-जरा	QF	O
-सुनें	VM	O
-,	SYM	O
-सबके	PRP	O
-सब	QF	O
-क्या	WQ	O
--	SYM	O
-क्या	WQ	O
-आलोचनाएँ	VM	O
-करते	VAUX	O
-हैं	VAUX	O
-!	SYM	O
-
-मोहसिन	PRP	O
-ने	PSP	O
-हँसकर	NN	O
-कहा	VM	O
--	SYM	O
-यह	DEM	O
-चिमटा	NN	O
-क्यों	WQ	O
-लाया	VM	O
-पगले	NN	O
-,	SYM	O
-इसे	PRP	O
-क्या	WQ	O
-करेगा	VM	O
-?	SYM	O
-
-हामिद	PRP	O
-ने	PSP	O
-चिमटे	NN	O
-को	PSP	O
-जमीन	NN	O
-पर	PSP	O
-पटककर	VM	O
-कहा	VM	O
--	SYM	O
-जरा	QF	O
-अपना	PRP	O
-भिश्ती	JJ	O
-जमीन	NN	O
-पर	PSP	O
-गिरा	VM	O
-दो	VAUX	O
-Sentiment: 0
-
-सारी	QF	O
-पसलियाँ	NN	O
-चूर	PSP	O
--	SYM	O
-चूर	PRP	O
-हो	VM	O
-जायँ	VAUX	O
-बच्चू	NN	O
-की	PSP	O
-Sentiment: 0
-
-महमूद	NN	O
-बोला	VM	O
--	SYM	O
-तो	CC	O
-यह	DEM	O
-चिमटा	NN	O
-कोई	PRP	O
-खिलौना	VM	O
-है	VAUX	O
-?	SYM	O
-
-हामिद	PRP	O
--	SYM	O
-खिलौना	NN	O
-क्यों	WQ	O
-नही	NEG	O
-है	VM	O
-!	SYM	O
-अभी	PRP	O
-कंधे	NN	O
-पर	PSP	O
-रखा	VM	O
-,	SYM	O
-बंदूक	NN	O
-हो	VM	O
-गयी	VAUX	O
-Sentiment: -1
-
-हाथ	NN	ENAMEX_LIVTHINGS_B
-में	PSP	O
-ले	VM	O
-लिया	VAUX	O
-,	SYM	O
-फकीरों	NN	O
-का	PSP	O
-चिमटा	NN	O
-हो	VM	O
-गया	VAUX	O
-Sentiment: -1
-
-चाहूँ	NN	O
 तो	RP	O
-इससे	PRP	O
-मजीरे	NN	O
-का	PSP	O
-काम	NN	O
-ले	VM	O
-सकता	VAUX	O
+?	SYM	O
+
+	PRP	O
+'	SYM	O
+क्या	WQ	O
+बहुत	INTF	O
+डबल	JJ	O
+आदमी	NN	O
+है	VM	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+तुम	PRP	O
+जैसे	RP	O
+दो	QC	O
+को	PSP	O
+बगल	NN	O
+में	PSP	O
+दबा	VM	O
+ले	VAUX	O
+Sentiment: 0
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+तो	RP	O
+खोल	VM	O
+दो	QC	O
+कोठरी	NN	O
+Sentiment: 0
+
+वह	PRP	O
+ज्यों	NN	O
+ही	RP	O
+अन्दर	NST	O
+आयेगा	VM	O
+,	SYM	O
+मैं	PRP	O
+दरवाजा	NN	O
+खोलकर	VM	O
+निकल	VM	O
+भागूँगा	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+हसीना	PRP	O
+ने	PSP	O
+कोठरी	NN	O
+खोल	VM	O
+दी	VAUX	O
+Sentiment: -1
+
+मैं	PRP	O
+अन्दर	NST	O
+जा	VM	O
+घुसा	XC	O
+Sentiment: -1
+
+दरवाजा	NN	O
+फिर	RB	O
+बन्द	JJ	O
+हो	VM	O
+गया	VAUX	O
+Sentiment: -1
+
+मुझे	PRP	O
+कोठरी	NN	O
+में	PSP	O
+बन्द	JJ	O
+करके	VM	O
+हसीना	NNP	ENAMEX_PERSON_B
+ने	PSP	O
+जाकर	VM	O
+सदर	JJ	O
+दरवाजा	NN	O
+खोला	VM	O
+और	CC	O
+बोली	VM	O
+,	SYM	O
+क्यों	WQ	O
+किवाड़	XC	O
+तोड़े	NNP	ENAMEX_LOCATION_B
+डालते	VM	O
+हो	VAUX	O
+?	SYM	O
+आ	VM	O
+तो	RP	O
+रही	VAUX	O
 हूँ	SYM	O
 Sentiment: -1
 
-एक	QC	O
-चिमटा	NN	O
-जमा	VM	O
-दूँ	VAUX	O
-,	SYM	O
-तो	CC	O
-तुम	PRP	O
-लोगों	NN	O
+'	SYM	O
+
+मैंने	PRP	O
+कोठरी	NN	O
 के	PSP	O
-सारे	QF	O
-खिलौनों	NN	O
-की	PSP	O
-जान	NN	O
-निकल	VM	O
-जाय	VAUX	O
-Sentiment: -1
-
-तुम्हारे	PRP	O
-खिलौने	PSP:?	O
-कितना	QF	O
-ही	RP	O
-जोर	NN	O
-लगायें	VM	O
-,	SYM	O
-मेरे	PRP	O
-चिमटे	NN	O
-का	PSP	O
-बाल	NN	O
-भी	RP	O
-बाँका	NN	O
-नही	NEG	O
-कर	VM	O
-सकते	VAUX	O
-Sentiment: -1
-
-मेरा	PRP	O
-बहादुर	JJ	O
-शेर	NN	O
-है	VM	O
-चिमटा	NN	O
+किवाड़ों	NN	O
+के	PSP	O
+दराजों	NN	O
+से	PSP	O
+देखा	VM	O
 Sentiment: 0
 
-सम्मी	NN	O
-ने	PSP	O
-खँजरी	NN	O
-ली	VM	O
+आदमी	NN	O
+क्या	WQ	O
+पूरा	JJ	O
+देव	NN	O
+था	VM	O
+Sentiment: 0
+
+अन्दर	NST	O
+आते	VM	O
+ही	RP	O
+बोला	VM	O
+,	SYM	O
+'	SYM	O
+तुम	PRP	O
+सरेशाम	NN	O
+से	PSP	O
+सो	VM	O
+गई	VAUX	O
+थीं	VAUX	O
+!	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+हाँ	PRP	O
+,	SYM	O
+जरा	RB	O
+आँख	NN	O
+लग	VM	O
+गई	VAUX	O
 थी	VAUX	O
 Sentiment: -1
 
-प्रभावित	JJ	O
-होकर	VM	O
-बोला	XC	O
--	SYM	O
-मेरी	PRP	O
-खँजरी	NN	O
-से	PSP	O
-बदलोगे	VM	O
-?	SYM	O
-दो	QC	O
-आने	VM	O
-की	PSP	O
-है	VM	O
-Sentiment: -1
+'	SYM	O
 
-हामिद	NN	O
-ने	PSP	O
-खँजरी	NN	O
-की	PSP	O
-ओर	NST	O
-उपेक्षा	NN	O
-से	PSP	O
-देखा	VM	O
--	SYM	O
-मेरा	PRP	O
-चिमटा	NN	O
-चाहे	CC:?	O
+	PRP	O
+'	SYM	O
+मुझे	PRP	O
 तो	RP	O
-तुम्हारी	PRP	O
-खँजरी	NN	O
-का	PSP	O
-पेट	NN	O
-फाड़	NNP	ENAMEX_LOCATION_B
-डाले	VM	O
-Sentiment: -1
-
-बस	XC	O
-,	SYM	O
-एक	XC	O
-चमड़े	NNP	ENAMEX_LOCATION_B
-की	PSP	O
-झिल्ली	NN	O
-लगा	VM	O
-दी	VAUX	O
-,	SYM	O
-ढब	PRP	O
--	SYM	O
-ढब	PRP	O
-बोलने	VM	O
-लगी	VAUX	O
-Sentiment: -1
-
-जरा	QF	O
--	SYM	O
-सा	RP	O
-पानी	NN	O
-लग	VM	O
-जाय	VAUX	O
-तो	CC	O
-खत्म	JJ	O
-हो	VM	O
-जाय	VAUX	O
-Sentiment: -1
-
-मेरा	PRP	O
-बहादुर	JJ	O
-चिमटा	NN	O
-आग	NN	O
-में	PSP	O
-,	SYM	O
-पानी	NN	O
-में	PSP	O
-,	SYM	O
-आँधी	PRP	O
-में	PSP	O
-,	SYM	O
-तूफान	NN	O
-में	PSP	O
-बराबर	JJ	O
-डटा	VM	O
-खड़ा	XC	O
-रहेगा	NNP	ENAMEX_LOCATION_B
-Sentiment: -1
-
-चिमटे	NN	O
-ने	PSP	O
-सभी	QF	O
-को	PSP	O
-मोहित	JJ	O
-कर	VM	O
-लिया	VAUX	O
-,	SYM	O
-अब	PRP	O
-पैसे	NN	O
-किसके	WQ	O
-पास	NST	O
-धरे	VM	O
-हैं	VAUX	O
-?	SYM	O
-फिर	RB	O
-मेले	NN	O
-से	PSP	O
-दूर	NST	O
-निकल	VM	O
-आये	VAUX	O
-हैं	VAUX	O
-,	SYM	O
-नौ	QC	O
-कब	NN	O
-के	PSP	O
-बज	VM	O
-ग्ये	VAUX	O
-,	SYM	O
-धूप	NN	O
-तेज	JJ	O
-हो	VM	O
-रही	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-घर	NN	O
-पहुँचने	PSP	O
-की	PSP	O
-जल्दी	RB	O
-हो	VM	O
-रही	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-बाप	NN	O
-से	PSP	O
-जिद	NN	O
-भी	RP	O
-करें	VM	O
-,	SYM	O
-तो	CC	O
-चिमटा	NN	O
-नहीं	NEG	O
-मिल	VM	O
-सकता	VAUX	O
-Sentiment: -1
-
-हामिद	NN	O
-है	VM	O
-बड़ा	XC	O
-चालाक	NN	O
-Sentiment: 0
-
-इसीलिए	CC	O
-बदमाश	NN	O
-ने	PSP	O
-अपने	PRP	O
-पैसे	NN	O
-बचा	VM	O
-रखे	VAUX	O
-थे	VAUX	O
-Sentiment: -1
-
-अब	PRP	O
-बालकों	NN	O
-के	PSP	O
-दो	QC	O
-दल	NN	O
-हो	VM	O
-गये	VAUX	O
-हैं	VAUX	O
-Sentiment: -1
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
-,	SYM	O
-मह्मूद	NN	O
-,	SYM	O
-सम्मी	NN	O
-और	CC	O
-नूरे	NN	O
-एक	QC	O
-तरफ	NST	O
-हैं	VM	O
-,	SYM	O
-हामिद	NN	O
-अकेला	JJ	O
-दूसरी	QO	O
-तरफ	NST	O
-Sentiment: 0
-
-शास्त्रार्थ	NN	O
+ऐसा	PRP	O
+मालूम	JJ	O
 हो	VM	O
 रहा	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-सम्मी	NN	O
-तो	RP	O
-विधर्मी	NN	O
-हो	VM	O
-गया	VAUX	O
-!	SYM	O
-दूसरे	PRP	O
-पक्ष	NN	O
-से	PSP	O
-जा	VM	O
-मिला	VM	O
-,	SYM	O
-लेकिन	CC	O
-मोहसिन	NNP	ENAMEX_LOCATION_B
-,	SYM	O
-महमूद	NN	O
-और	CC	O
-नूरे	NN	O
-भी	RP	O
-हामिद	NN	O
-से	PSP	O
-एक	QC	O
--	SYM	O
-एक	QC	O
-,	SYM	O
-दो	QC	O
--	SYM	O
-दो	QC	O
-साल	NN	O
-बड़े	JJ	O
-होने	VM	O
-पर	PSP	O
-भी	RP	O
-हामिद	NN	O
-के	PSP	O
-आघातों	NN	O
-से	PSP	O
-आतंकित	JJ	O
-हो	VM	O
-उठे	VAUX	O
-हैं	VAUX	O
-Sentiment: 0
-
-उसके	PRP	O
-पास	NST	O
-न्याय	NN	O
-का	PSP	O
-बल	NN	O
-है	VM	O
-और	CC	O
-नीति	NN	O
-की	PSP	O
-शक्ति	NN	O
-Sentiment: 0
-
-एक	QC	O
-ओर	NST	O
-मिट्टी	NN	O
-है	VM	O
-,	SYM	O
-दूसरी	QO	O
-ओर	NST	O
-लोहा	NN	O
-,	SYM	O
-जो	PRP	O
-इस	DEM	O
-वक्त	NN	O
-अपने	PRP	O
-को	PSP	O
-फौलाद	NN	O
-कह	VM	O
-रहा	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-वह	PRP	O
-अजेय	JJ	O
-है	VM	O
-,	SYM	O
-घातक	JJ	O
-है	VM	O
-Sentiment: 0
-
-अगर	CC	O
-कोई	PRP	O
-शेर	NN	O
-आ	VM	O
-जाय	VAUX	O
-तो	CC	O
-मियाँ	NN	O
-भिश्ती	NN	O
-के	PSP	O
-छक्के	NN	O
-छूट	VM	O
-जायँ	VAUX	O
-,	SYM	O
-मियाँ	PRP	O
-सिपाही	NN	O
-मिट्टी	NN	O
-की	PSP	O
-बंदूक	NN	O
-छोड़कर	NNP	ENAMEX_LOCATION_B
-भागें	NN	O
-,	SYM	O
-वकील	NN	O
-साहब	NN	O
-की	PSP	O
-नानी	NN	O
-मर	VM	O
-जाय	VAUX	O
-,	SYM	O
-चोगे	NN	O
-में	PSP	O
-मुँह	NN	O
-छिपाकर	VM	O
-जमीन	NN	O
-पर	PSP	O
-लेट	VM	O
-जायँ	VAUX	O
-Sentiment: 0
-
-मगर	CC	O
-यह	DEM	O
-चिमटा	NN	O
-,	SYM	O
-यह	PRP	O
-बहादुर	JJ	O
-,	SYM	O
-यह	PRP	O
-रूस्तमे	NN	O
--	SYM	O
-हिंद	PRP	O
-लपककर	VM	O
-शेर	NN	ENAMEX_LIVTHINGS_B
-की	PSP	O
-गरदन	NN	O
-पर	PSP	O
-सवार	JJ	O
-हो	VM	O
-जायगा	VAUX	O
-और	CC	O
-उसकी	PRP	O
-आँखें	NN	O
-निकाल	VM	O
-लेगा	VAUX	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_PERSON_B
-ने	PSP	O
-एड़ी	NN	O
--	SYM	O
-चोटी	PRP	O
-का	PSP	O
-जोर	NN	O
-लगाकर	VM	O
-कहा	VM	O
--	SYM	O
-अच्छा	INJ	O
-,	SYM	O
-पानी	NN	O
-तो	RP	O
-नहीं	NEG	O
-भर	VM	O
-सकता	VAUX	O
-?	SYM	O
-
-हामिद	PRP	O
-ने	PSP	O
-चिमटे	NN	O
-को	PSP	O
-सीधा	JJ	O
-खड़ा	XC	O
-करके	NNP	ENAMEX_LOCATION_B
-कहा	VM	O
--	SYM	O
-भिश्ती	NN	O
-को	PSP	O
-एक	QC	O
-डाँट	NN	O
-बतायेगा	VM	O
-,	SYM	O
-तो	CC	O
-दौड़ा	NN	O
-हुआ	VM	O
-पानी	NN	O
-लाकर	VM	O
-उसके	PRP	O
-द्वाडर	NN	O
-पर	PSP	O
-छिड़कने	VM	O
-लगेगा	VAUX	O
-Sentiment: -1
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
-परास्त	JJ	O
-हो	VM	O
-गया	VAUX	O
-,	SYM	O
-पर	PSP	O
-महमूद	NN	O
-ने	PSP	O
-कुमुक	JJ	O
-पहुँचाई	NN	O
--	SYM	O
-अगर	CC	O
-बच्चा	NN	O
-पकड़	NN	O
-जायँ	PSP	O
-तो	RP	O
-अदालत	NN	O
-में	PSP	O
-बँधे	NN	O
--	SYM	O
-बँधे	PRP	O
-फिरेंगे	VAUX	O
-Sentiment: 0
-
-तब	PRP	O
-तो	RP	O
-वकील	NN	O
-साहब	NN	O
-के	PSP	O
-पैरों	NN	O
-पड़ेंगे	VM	O
-Sentiment: -1
-
-हामिद	NN	O
-इस	DEM	O
-प्रबल	JJ	O
-तर्क	NN	O
-का	PSP	O
-जवाब	NN	O
-न	NEG	O
-दे	VM	O
-सका	VAUX	O
-Sentiment: 0
-
-उसने	PRP	O
-पूछा	VM	O
--	SYM	O
-हमें	PRP	O
-पकड़ने	NNP	O
-कौन	WQ	O
-आयेगा	VM	O
-?	SYM	O
-
-नूरे	PRP	O
-ने	PSP	O
-अकड़कर	XC	O
-कहा	VM	O
--	SYM	O
-यह	DEM	O
-सिपाही	NN	O
-बंदूकवाला	VM	O
-Sentiment: 0
-
-हामिद	NN	O
-ने	PSP	O
-मुँह	NN	O
-चिढ़ाकर	VM	O
-कहा	VM	O
--	SYM	O
-यह	PRP	O
-बेचारे	JJ	O
-हम	PRP	O
-बहादुर	JJ	O
-रूस्तमे	NN	O
--	SYM	O
-हिंद	PRP	O
-को	PSP	O
-पकड़ेंगे	VM	O
-!	SYM	O
-अच्छा	JJ	O
-लाओ	VM	O
-,	SYM	O
-अभी	PRP	O
-जरा	QF	O
-कुश्ती	NN	O
-हो	VM	O
-जाय	VAUX	O
-Sentiment: 0
-
-इसकी	PRP	O
-सूरत	NN	O
-देखकर	VM	O
-दूर	NST	O
-से	PSP	O
-भागेंगे	VM	O
-Sentiment: -1
-
-पकड़ेंगे	VM	O
-क्या	WQ	O
-बेचारे	JJ	O
-!	SYM	O
-
-मोहसिन	PRP	O
-को	PSP	O
-एक	QC	O
-नयी	JJ	O
-चोट	NN	O
-सूझ	VM	O
-गयी	VAUX	O
--	SYM	O
-तुम्हारे	PRP	O
-चिमटे	NN	O
-का	PSP	O
-मुँह	NN	O
-रोज	NN	O
-आग	NN	O
-में	PSP	O
-जलेगा	VM	O
-Sentiment: 0
-
-उसने	PRP	O
-समझा	VM	O
 था	VAUX	O
 कि	CC	O
-हामिद	NN	O
-लाजवाब	NN	O
-हो	VM	O
-जायगा	VAUX	O
-,	SYM	O
-लेकिन	CC	O
-यह	DEM	O
-बात	NN	O
-न	NEG	O
-हुई	VM	O
-Sentiment: 0
-
-हामिद	NN	O
-ने	PSP	O
-तुरंत	RB	O
-जवाब	NN	O
-दिया	VM	O
--	SYM	O
-आग	NN	O
-में	PSP	O
-बहादुर	JJ	O
-ही	RP	O
-कूदते	VM	O
-हैं	VAUX	O
-जनाब	NN	O
-,	SYM	O
-तुम्हारे	PRP	O
-यह	DEM	O
-वकील	NN	O
-,	SYM	O
-सिपाही	NN	O
-और	CC	O
-भिश्ती	JJ	O
-लौंडियों	NN	O
-की	PSP	O
-तरह	NN	O
-घर	NN	O
-में	PSP	O
-घुस	VM	O
-जायेंगे	VAUX	O
-Sentiment: 0
-
-आग	NN	O
-में	PSP	O
-कूदना	VM	O
-वह	PRP	O
-काम	NN	O
-है	VM	O
-,	SYM	O
-जो	PRP	O
-यह	PRP	O
-रूस्तमे	NN	O
--	SYM	O
-हिन्द	PRP	O
-ही	RP	O
-कर	VM	O
-सकता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-महमूद	NN	O
-ने	PSP	O
-एक	QC	O
-जोर	NN	O
-लगाया	VM	O
--	SYM	O
-वकील	NN	O
-साहब	RP	O
-कुरसी	NN	O
--	SYM	O
-मेज	PRP	O
-पर	PSP	O
-बैठेंगे	VM	O
-,	SYM	O
-तुम्हारा	PRP	O
-चिमटा	NN	O
-तो	RP	O
-बावरचीखाने	NN	O
-में	PSP	O
-जमीन	NN	O
-पर	PSP	O
-पड़ा	XC	O
-रहेगा	NNP	ENAMEX_LOCATION_B
-Sentiment: 0
-
-इस	DEM	O
-तर्क	NN	O
-ने	PSP	O
-सम्मी	NN	O
-और	CC	O
-नूरे	NN	O
-को	PSP	O
-भी	RP	O
-सजीव	JJ	O
-कर	VM	O
-दिया	VAUX	O
-!	SYM	O
-कितने	WQ	O
-ठिकाने	VM	O
-की	PSP	O
-बात	NN	O
-कही	VM	O
-है	VAUX	O
-पट्ठे	NN	O
-ने	PSP	O
-!	SYM	O
-चिमटा	NN	O
-बावरचीखाने	NN	O
-में	PSP	O
-पड़ा	XC	O
-रहने	VM	O
-के	PSP	O
-सिवा	PSP:?	O
-और	CC	O
-क्या	WQ	O
-कर	VM	O
-सकता	VAUX	O
-है	VAUX	O
-?	SYM	O
-
-हामिद	PRP	O
-को	PSP	O
-कोई	PRP	O
-फड़कता	NN	O
-हुआ	VM	O
-जवाब	NN	O
-न	NEG	O
-सूझा	VM	O
-,	SYM	O
-तो	CC	O
-उसने	PRP	O
-धाँधली	NN	O
-शुरू	NN	O
-की	PSP	O
--	SYM	O
-मेरा	PRP	O
-चिमटा	NN	O
-बावरचीखाने	NN	O
-में	PSP	O
-नही	NEG	O
-रहेगा	VM	O
-Sentiment: -1
-
-वकील	NN	O
-साहब	RP	O
-कुर्सी	NN	O
-पर	PSP	O
-बैठेंगे	VM	O
-,	SYM	O
-तो	RP	O
-जाकर	VM	O
-उन्हें	PRP	O
-जमीन	NN	O
-पर	PSP	O
-पटक	VM	O
-देगा	VAUX	O
-और	CC	O
-उनका	PRP	O
-कानून	NN	O
-उनके	PRP	O
-पेट	NN	O
-में	PSP	O
-डाल	VM	O
-देगा	VAUX	O
-Sentiment: -1
-
-बात	NN	O
-कुछ	QF	O
-बनी	VM	O
-नहीं	NEG	O
-Sentiment: -1
-
-खासी	RDP	O
-गाली	NN	O
--	SYM	O
-गलौज	PRP	O
-थी	VM	O
-;	SYM	O
-लेकिन	CC	O
-कानून	NN	O
-को	PSP	O
-पेट	NN	O
-में	PSP	O
-डालने	VM	O
-वाली	PSP	O
-बात	NN	O
-छा	VM	O
-गयी	VAUX	O
-Sentiment: 1
-
-ऐसी	PRP	O
-छा	VM	O
-गयी	VAUX	O
-कि	CC	O
-तीनों	QC	O
-सूरमा	NN	O
-मुँह	PSP	O
-ताकते	VM	O
-रह	VAUX	O
-गये	VAUX	O
-मानो	RP:?	O
-कोई	PRP	O
-धेलचा	NN	O
-कनकौआ	NN	O
-किसी	PRP	O
-गंडेवाले	JJ	O
-कनकौए	NN	O
-को	PSP	O
-काट	VM	O
-गया	VAUX	O
-हो	VAUX	O
-Sentiment: 1
-
-कानून	NN	O
-मुँह	PSP	O
-से	PSP	O
-बाहर	NST	O
-निकलने	VM	O
-वाली	PSP	O
-चीज	NN	O
-है	VM	O
-Sentiment: 1
-
-उसको	PRP	O
-पेट	NN	O
-के	PSP	O
-अंदर	NST	O
-डाल	VM	O
-दिया	VAUX	O
-जाना	VAUX	O
-बेतुकी	SYM	O
--	SYM	O
-सी	PRP	O
-बात	NN	O
-होने	VM	O
-पर	PSP	O
-भी	RP	O
-कुछ	QF	O
-नयापन	NN	O
-रखती	VM	O
-है	VAUX	O
-Sentiment: -1
-
-हामिद	NN	O
-ने	PSP	O
-मैदान	NN	O
-मार	VM	O
-लिया	VAUX	O
-Sentiment: -1
-
-उसका	PRP	O
-चिमटा	NN	O
-रूस्तमे	PSP	O
--	SYM	O
-हिन्द	PRP	O
-है	VM	O
-Sentiment: 0
-
-अब	PRP	O
-इसमें	PRP	O
-मोहसिन	NNP	ENAMEX_LOCATION_B
-,	SYM	O
-महमूद	JJ	O
-नूरे	NN	O
-,	SYM	O
-सम्मी	NN	O
-किसी	PRP	O
-को	PSP	O
-भी	RP	O
-आपत्ति	NN	O
-नहीं	NEG	O
-हो	VM	O
-सकती	VAUX	O
-Sentiment: 0
-
-विजेता	NN	O
-को	PSP	O
-हारनेवालों	NN	O
-से	PSP	O
-जो	PRP	O
-सत्कार	NN	O
-मिलना	VM	O
-स्वाभविक	JJ	O
-है	VM	O
-,	SYM	O
-वह	PRP	O
-हामिद	NN	O
-को	PSP	O
-भी	RP	O
-मिला	VM	O
-Sentiment: 0
-
-औरों	NN	O
-ने	PSP	O
-तीन	QC	O
--	SYM	O
-तीन	QC	O
-,	SYM	O
-चार	QC	O
--	SYM	O
-चार	QC	O
-आने	XC	O
-पैसे	NN	O
-खर्च	NN	O
-किए	VM	O
-,	SYM	O
-पर	PSP	O
-कोई	PRP	O
-काम	NN	O
-की	PSP	O
-चीज	NN	O
-न	NEG	O
-ले	VM	O
-सके	VAUX	O
-Sentiment: 0
-
-हामिद	NN	O
-ने	PSP	O
-तीन	QC	O
-पैसे	NN	O
-में	PSP	O
-रंग	NN	O
-जमा	VM	O
-लिया	VAUX	O
-Sentiment: 0
-
-सच	NN	O
-ही	RP	O
-तो	RP	O
-है	VM	O
-,	SYM	O
-खिलौनों	NN	O
-का	PSP	O
-क्या	WQ	O
-भरोसा	NN	O
-?	SYM	O
-टूट	XC	O
--	SYM	O
-फूट	VM	O
-जायँगे	VAUX	O
-Sentiment: 0
-
-हामिद	NN	O
-का	PSP	O
-चिमटा	NN	O
-तो	RP	O
-बना	VM	O
-रहेगा	VAUX	O
-बरसों	NN	O
-?	SYM	O
-
-संधि	PRP	O
-की	PSP	O
-शर्तें	NN	O
-तय	JJ	O
-होने	VM	O
-लगीं	VAUX	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_PERSON_B
-ने	PSP	O
-कहा	VM	O
--	SYM	O
-जरा	QF	O
-अपना	PRP	O
-चिमटा	VM	O
-दो	VAUX	O
-,	SYM	O
-हम	PRP	O
-भी	RP	O
-देखें	VM	O
-Sentiment: 0
-
 तुम	PRP	O
-हमारा	PRP	O
-भिश्ती	NN	O
-लेकर	VM	O
-देखो	VAUX	O
-Sentiment: 0
-
-महमूद	NN	O
-और	CC	O
-नूरे	NN	O
-ने	PSP	O
-भी	RP	O
-अपने	PRP	O
--	SYM	O
-अपने	PRP	O
-खिलौने	NN	O
-पेश	JJ	O
-किये	VM	O
-Sentiment: -1
-
-हामिद	NN	O
-को	PSP	O
-इन	DEM	O
-शर्तों	NN	O
-को	PSP	O
-मानने	VM	O
-में	PSP	O
-कोई	PRP	O
-आपत्ति	NN	O
-न	NEG	O
-थी	VM	O
-Sentiment: 0
-
-चिमटा	NN	O
-बारी	NN	O
--	SYM	O
-बारी	NN	O
-से	PSP	O
-सबके	PRP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-में	PSP	O
-गया	VAUX	O
-,	SYM	O
-और	CC	O
-उनके	PRP	O
-खिलौने	NN	O
-बारी	NN	O
--	SYM	O
-बारी	NN	O
-से	PSP	O
-हामिद	NN	O
-के	PSP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-में	PSP	O
-आये	VM	O
-Sentiment: -1
-
-कितने	WQ	O
-खूबसूरत	JJ	O
-खिलौने	VM	O
-हैं	VAUX	O
-Sentiment: 0
-
-हामिद	NN	O
-ने	PSP	O
-हारने	VM	O
-वालों	PSP	O
-के	PSP	O
-आँसू	NN	O
-पोंछे	PSP	O
--	SYM	O
-मैं	PRP	O
-तुम्हे	PRP	O
-चिढ़ा	XC	O
-रहा	VAUX	O
-था	VAUX	O
-,	SYM	O
-सच	NN	O
-!	SYM	O
-यह	DEM	O
-चिमटा	NN	O
-भला	RP	O
-,	SYM	O
-इन	DEM	O
-खिलौनों	NN	O
-की	PSP	O
-क्या	WQ	O
-बराबरी	JJ	O
-करेगा	VM	O
-,	SYM	O
-मालूम	JJ	O
-होता	VM	O
-है	VAUX	O
-,	SYM	O
-अब	PRP	O
-बोले	VM	O
-,	SYM	O
-अब	PRP	O
-बोले	VM	O
-Sentiment: 0
-
-लेकिन	CC	O
-मोहसिन	NNP	ENAMEX_LOCATION_B
-की	PSP	O
-पार्टी	NN	O
-को	PSP	O
-इस	DEM	O
-दिलासे	NN	O
-से	PSP	O
-संतोष	NN	O
-नहीं	NEG	O
-होता	VM	O
-Sentiment: 0
-
-चिमटे	NN	O
-का	PSP	O
-सिक्का	NN	O
-खूब	JJ	O
-बैठ	VM	O
-गया	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-चिपका	VM	O
-हुआ	VAUX	O
-टिकट	NN	O
-अब	PRP	O
-पानी	NN	O
-से	PSP	O
-नहीं	NEG	O
-छूट	VM	O
-रहा	VAUX	O
-है	VAUX	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
--	SYM	O
-लेकिन	CC	O
-इन	DEM	O
-खिलौनों	NN	O
-के	PSP	O
-लिए	PSP	O
-कोई	PRP	O
-हमें	PRP	O
-दुआ	NN	O
-तो	RP	O
-न	NEG	O
-देगा	VM	O
-?	SYM	O
-
-महमूद	PRP	O
--	SYM	O
-दुआ	NN	O
-को	PSP	O
-लिये	VM	O
-फिरते	VAUX	O
-हो	VAUX	O
-Sentiment: 0
-
-उल्टे	RDP	O
-मार	NN	O
-न	NEG	O
-पड़े	NN	O
-Sentiment: -1
-
-अम्माँ	NN	O
-जरूर	RB	O
-कहेंगी	VM	O
-कि	CC	O
-मेले	NN	O
-में	PSP	O
-यही	DEM	O
-मिट्टी	NN	O
-के	PSP	O
-खिलौने	NN	O
-मिले	VM	O
-?	SYM	O
-
-हामिद	PRP	O
-को	PSP	O
-स्वीकार	NN	O
-करना	VM	O
-पड़ा	XC	O
-कि	CC	O
-खिलौनों	NN	O
-को	PSP	O
-देखकर	VM	O
 किसी	PRP	O
-की	PSP	O
-माँ	NN	O
-इतनी	QF	O
-खुश	JJ	O
-न	NEG	O
-होंगी	VM	O
-,	SYM	O
-जितनी	QF	O
-दादी	NN	O
-चिमटे	NN	O
-को	PSP	O
-देखकर	VM	O
-होंगी	VAUX	O
-Sentiment: 1
-
-तीन	QC	O
-पैसों	NN	O
-ही	RP	O
-में	PSP	O
-तो	RP	O
-उसे	PRP	O
-सब	QF	O
-कुछ	QF	O
-करना	VM	O
-था	VAUX	O
-ओर	NST	O
-उन	DEM	O
-पैसों	NN	O
-के	PSP	O
-इस	DEM	O
-उपयोग	NN	O
-पर	PSP	O
-पछतावे	NN	O
-की	PSP	O
-बिल्कुल	RB	O
-जरूरत	NN	O
-न	NEG	O
-थी	VM	O
-Sentiment: 1
-
-फिर	RB	O
-अब	PRP	O
-तो	RP	O
-चिमटा	VM	O
-रूस्तमें	VAUX	O
--	SYM	O
-हिन्द	PRP	O
-है	VM	O
-ओर	NST	O
-सभी	QF	O
-खिलौनों	NN	O
-का	PSP	O
-बादशाह	NN	O
-Sentiment: 0
-
-रास्ते	NN	O
-में	PSP	O
-महमूद	NN	O
-को	PSP	O
-भूख	NN	O
-लगी	VM	O
-Sentiment: 0
-
-उसके	PRP	O
-बाप	NN	O
-ने	PSP	O
-केले	NN	O
-खाने	VM	O
-को	PSP	O
-दिये	VM	O
-Sentiment: 0
-
-महमूद	NN	O
-ने	PSP	O
-केवल	RP	O
-हामिद	NN	O
-को	PSP	O
-साझी	JJ	O
-बनाया	VM	O
-Sentiment: 0
-
-उसके	PRP	O
-अन्य	JJ	O
-मित्र	NN	O
-मुँह	PSP	O
-ताकते	VM	O
-रह	VAUX	O
-गये	VAUX	O
-Sentiment: 0
-
-यह	PRP	O
-उस	DEM	O
-चिमटे	NN	O
-का	PSP	O
-प्रसाद	NN	O
-था	VM	O
-Sentiment: -1
-
-3
-ग्यारह	NN	O
-बजे	RP:?	O
-गाँव	NN	O
-में	PSP	O
-हलचल	JJ	O
-मच	VM	O
-गयी	VAUX	O
-Sentiment: 0
-
-मेलेवाले	NN	O
-आ	VM	O
-गये	VAUX	O
-Sentiment: 0
-
-मोहसिन	NNP	ENAMEX_LOCATION_B
-की	PSP	O
-छोटी	JJ	O
-बहन	NN	O
-ने	PSP	O
-दौड़कर	XC	O
-भिश्ती	NN	O
-उसके	PRP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
 से	PSP	O
-छीन	VM	O
-लिया	VAUX	O
-और	CC	O
-मारे	NN	O
-खुशी	NN	O
-के	PSP	O
-जा	VM	O
-उछली	VAUX	O
-,	SYM	O
-तो	CC	O
-मियाँ	NN	O
-भिश्ती	JJ	O
-नीचे	NST	O
-आ	VM	O
-रहे	VAUX	O
-और	CC	O
-सुरलोक	JJ	O
-सिधारे	VM	O
-Sentiment: 0
-
-इस	DEM	O
-पर	PSP	O
-भाई	NN	O
--	SYM	O
-बहन	NN	O
-में	PSP	O
-मार	VM	O
--	SYM	O
-पीट	VM	O
-हुई	VAUX	O
-Sentiment: 0
-
-दानों	NN	O
-खुब	VM	O
-रोये	XC	O
-Sentiment: 0
-
-उनकी	PRP	O
-अम्माँ	NN	O
-यह	DEM	O
-शोर	NN	O
-सुनकर	VM	O
-बिगड़ीं	VM	O
-और	CC	O
-दोनों	NN	O
-को	PSP	O
-ऊपर	NST	O
-से	PSP	O
-दो	QC	O
--	SYM	O
-दो	RDP	O
-चाँटे	NN	O
-और	CC	O
-लगाये	VM	O
-Sentiment: 0
-
-मियाँ	NN	O
-नूरे	NN	O
-के	PSP	O
-वकील	NN	O
-का	PSP	O
-अंत	NN	O
-उनके	PRP	O
-प्रतिष्ठानुकूल	NN	O
-इससे	PRP	O
-ज्यादा	QF	O
-गौरवमय	NN	O
-हुआ	VM	O
-Sentiment: -1
-
-वकील	NN	O
-जमीन	NN	O
-पर	PSP	O
-या	CC	O
-ताक	NN	O
-पर	PSP	O
-तो	RP	O
-नहीं	NEG	O
-बैठ	VM	O
-सकता	VAUX	O
-Sentiment: -1
-
-उसकी	PRP	O
-मर्यादा	NN	O
-का	PSP	O
-विचार	NN	O
-तो	RP	O
-करना	VM	O
-ही	RP	O
-होगा	VM	O
-Sentiment: -1
-
-दीवार	NN	O
-में	PSP	O
-खूँटियाँ	NN	O
-गाड़ी	NNP	ENAMEX_LOCATION_B
-गयी	VAUX	O
-Sentiment: -1
-
-उन	DEM	O
-पर	PSP	O
-लकड़ी	NN	O
-का	PSP	O
-एक	QC	O
-पटरा	NN	O
-रखा	VM	O
-गया	VAUX	O
-Sentiment: -1
-
-पटरे	NN	O
-पर	PSP	O
-कागज	NN	O
-का	PSP	O
-कालीन	NN	O
-बिछाया	VM	O
-गया	VAUX	O
-Sentiment: -1
-
-वकील	NN	O
-साहब	RP	O
-राजा	XC	O
-भोज	NN	O
-की	PSP	O
-भाँति	NN	O
-सिंहासन	NN	O
-पर	PSP	O
-विराजे	XC	O
-Sentiment: -1
-
-नूरे	NN	O
-ने	PSP	O
-उन्हें	PRP	O
-पंखा	NN	O
-झलना	VM	O
-शुरू	NN	O
-किया	VM	O
-Sentiment: -1
-
-अदालतों	NN	O
-में	PSP	O
-खस	NN	O
-की	PSP	O
-टट्टियाँ	NN	O
-और	CC	O
-बिजली	NN	O
-के	PSP	O
-पंखे	NN	O
-रहते	VM	O
-हैं	VAUX	O
-Sentiment: -1
-
-क्या	WQ	O
-यहाँ	VM	O
-मामूली	JJ	O
-पंखा	NN	O
-भी	RP	O
-न	NEG	O
-हो	VM	O
-!	SYM	O
-कानून	NN	O
-की	PSP	O
-गर्मी	NN	O
-दिमाग	NN	O
-पर	PSP	O
-चढ़	NN	O
-जायगी	VM	O
-कि	CC	O
-नहीं	NEG	O
-?	SYM	O
-बाँस	PRP	O
-का	PSP	O
-पंखा	NN	O
-आया	VM	O
-और	CC	O
-नूरे	NN	O
-हवा	NN	O
-करने	VM	O
-लगे	VAUX	O
-Sentiment: -1
-
-मालूम	JJ	O
-नहीं	NEG	O
-,	SYM	O
-पंखे	NN	O
-की	PSP	O
-हवा	NN	O
-से	PSP	O
-या	CC	O
-पंखे	NN	O
-की	PSP	O
-चोट	NN	O
-से	PSP	O
-वकील	NN	O
-साहब	RP	O
-स्वर्गलोक	NN	O
-से	PSP	O
-मृत्युलोक	NN	O
-में	PSP	O
-आ	VM	O
-रहे	VAUX	O
-और	CC	O
-उनका	PRP	O
-माटी	NN	O
-का	PSP	O
-चोला	NN	O
-माटी	NN	O
-में	PSP	O
-मिल	VM	O
-गया	VAUX	O
-!	SYM	O
-फिर	RB	O
-बड़े	JJ	O
-जोर	NN	O
--	SYM	O
-शोर	NN	O
-से	PSP	O
-मातम	NN	O
-हुआ	VM	O
-और	CC	O
-वकील	NN	O
-साहब	NN	O
-की	PSP	O
-अस्थि	XC	O
-घूरे	NN	O
-पर	PSP	O
-डाल	VM	O
-दी	VAUX	O
-गयी	VAUX	O
-Sentiment: -1
-
-अब	PRP	O
-रहा	VM	O
-महमूद	NN	O
-का	PSP	O
-सिपाही	NN	O
-Sentiment: -1
-
-उसे	PRP	O
-चटपट	JJ	O
-गाँव	NN	O
-का	PSP	O
-पहरा	NN	O
-देने	VM	O
-का	PSP	O
-चार्ज	NN	O
-मिल	VM	O
-गया	VAUX	O
-,	SYM	O
-लेकिन	CC	O
-पुलिस	NN	O
-का	PSP	O
-सिपाही	NN	O
-कोई	PRP	O
-साधारण	JJ	O
-व्यक्ति	NN	O
-तो	RP	O
-नहीं	NEG	O
-,	SYM	O
-जो	PRP	O
-अपने	PRP	O
-पैरों	NN	O
-चलें	VM	O
-Sentiment: -1
-
-वह	PRP	O
-पालकी	NN	O
-पर	PSP	O
-चलेगा	VM	O
-Sentiment: -1
-
-एक	QC	O
-टोकरी	NN	O
-आयी	VM	O
-,	SYM	O
-उसमें	PRP	O
-कुछ	QF	O
-लाल	JJ	O
-रंग	NN	O
-के	PSP	O
-फटे	RDP	O
--	SYM	O
-पुराने	JJ	O
-चिथड़े	NNP	O
-बिछाये	VM	O
-गये	VAUX	O
-,	SYM	O
-जिसमें	PRP	O
-सिपाही	NN	O
-साहब	RP	O
-आराम	NN	O
-से	PSP	O
-लेटे	VM	O
-Sentiment: -1
-
-नूरे	NN	O
-ने	PSP	O
-यह	DEM	O
-टोकरी	NN	O
-उठायी	VM	O
-और	CC	O
-अपने	PRP	O
-द्वार	NN	O
-का	PSP	O
-चक्कर	NN	O
-लगाने	VM	O
-लगे	VAUX	O
-Sentiment: -1
-
-उनके	PRP	O
-दोनों	NN	O
-छोटे	JJ	O
-भाई	NN	O
-सिपाही	NN	O
-की	PSP	O
-तरह	NN	O
-'	SYM	O
-छोनेवाले	NN	O
-,	SYM	O
-जागते	VM	O
-लहो	VAUX	O
-'	SYM	O
-पुकारते	VM	O
-चलते	VM	O
-हैं	VAUX	O
-Sentiment: -1
-
-मगर	CC	O
-रात	NN	O
-तो	CC	O
-अँधेरी	NN	O
-ही	RP	O
-होनी	VM	O
-चाहिये	VAUX	O
-Sentiment: -1
-
-महमूद	NN	O
-को	PSP	O
-ठोकर	NN	O
-लग	VM	O
-जाती	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-टोकरी	NN	O
-उसके	PRP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-से	PSP	O
-छूटकर	VM	O
-गिर	XC	O
-पड़ती	NNP	ENAMEX_LOCATION_B
-है	VM	O
-और	CC	O
-मियाँ	NN	O
-सिपाही	NN	O
-अपनी	PRP	O
-बन्दूक	NN	O
-लिये	PSP	O
-जमीन	NN	O
-पर	PSP	O
-आ	VM	O
-जाते	VAUX	O
-हैं	VAUX	O
-और	CC	O
-उनकी	PRP	O
-एक	QC	O
-टाँग	NN	O
-में	PSP	O
-विकार	NN	O
-आ	VM	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-महमूद	NN	O
-को	PSP	O
-आज	NN	O
-ज्ञात	JJ	O
-हुआ	VM	O
-कि	CC	O
-वह	PRP	O
-अच्छा	JJ	O
-डाक्टर	NN	O
-है	VM	O
-Sentiment: -1
-
-उसको	PRP	O
-ऐसा	DEM	O
-मरहम	NN	O
-मिला	VM	O
-गया	VAUX	O
-है	VAUX	O
-जिससे	PRP	O
-वह	PRP	O
-टूटी	XC	O
-टाँग	NNP	ENAMEX_LOCATION_B
-को	PSP	O
-आनन	NN	O
--	SYM	O
-फानन	PRP	O
-जोड़	NNP	ENAMEX_LOCATION_B
-सकता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-केवल	RB	O
-गूलर	NN	O
-का	PSP	O
-दूध	NN	O
-चाहिए	VM	O
-Sentiment: 0
-
-गूलर	NN	O
-का	PSP	O
-दूध	NN	O
-आता	VM	O
-है	VAUX	O
-Sentiment: -1
-
-टाँग	NN	O
-जवाब	NN	O
-दे	VM	O
-देती	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-शल्य	NN	O
--	SYM	O
-क्रिया	NN	O
-असफल	JJ	O
-हुई	VM	O
-,	SYM	O
-तब	PRP	O
-उसकी	PRP	O
-दूसरी	QO	O
-टाँग	NN	O
-भी	RP	O
-तोड़	NNP	ENAMEX_LOCATION_B
-दी	VM	O
-जाती	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-अब	PRP	O
-कम	QF	O
--	SYM	O
-से	PSP	O
--	SYM	O
-कम	QF	O
-एक	QC	O
-जगह	NN	O
-आराम	NN	O
-से	PSP	O
-बैठ	VM	O
-तो	RP	O
-सकता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-एक	QC	O
-टाँग	NN	O
-से	PSP	O
-तो	RP	O
-न	NEG	O
-चल	VM	O
-सकता	VAUX	O
-था	VAUX	O
-,	SYM	O
-न	NEG	O
-बैठ	VM	O
-सकता	VAUX	O
-था	VAUX	O
-Sentiment: -1
-
-अब	PRP	O
-वह	PRP	O
-सिपाही	NN	O
-संन्यासी	NN	O
-हो	VM	O
-गया	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-अपनी	PRP	O
-जगह	NN	O
-पर	PSP	O
-बैठा	VM	O
--	SYM	O
-बैठा	VM	O
-पहरा	VM	O
-देता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-कभी	RDP	O
--	SYM	O
-कभी	RDP	O
-देवता	NN	O
-भी	RP	O
-बन	VM	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-उसके	PRP	O
-सिर	NN	O
-का	PSP	O
-झालरदार	JJ	O
-साफा	NN	O
-खुरच	VM	O
-दिया	VAUX	O
-गया	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-अब	PRP	O
-उसका	PRP	O
-जितना	QF	O
-रूपांतर	NN	O
-चाहो	VM	O
-,	SYM	O
+बातें	NN	O
 कर	VM	O
-सकते	VAUX	O
+रही	VAUX	O
 हो	VAUX	O
 Sentiment: -1
 
-कभी	RDP	O
--	SYM	O
-कभी	PRP	O
-तो	RP	O
-उससे	PRP	O
-बाट	NN	O
-का	PSP	O
-काम	NN	O
-भी	RP	O
-लिया	VM	O
-जाता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-अब	PRP	O
-मियाँ	NN	O
-हामिद	NN	O
-का	PSP	O
-हाल	NN	O
-सुनिए	VM	O
-Sentiment: 0
-
-अमीना	CC	O
-उसकी	PRP	O
-आवाज	NN	O
-सुनते	VM	O
-ही	RP	O
-दौड़ी	NN	O
-और	CC	O
-उसे	PRP	O
-गोद	NN	O
-में	PSP	O
-उठाकर	VM	O
-प्यार	NN	O
-करने	VM	O
-लगी	VAUX	O
-Sentiment: -1
-
-सहसा	RB	O
-उसके	PRP	O
-हाथ	NN	ENAMEX_LIVTHINGS_B
-में	PSP	O
-चिमटा	NN	O
-देखकर	VM	O
-वह	PRP	O
-चौंकी	NN	O
-Sentiment: -1
-
 '	SYM	O
-यह	DEM	O
-चिमटा	NN	O
-कहाँ	PSP	O
-था	VM	O
-?	SYM	O
+
+	PRP	O
+'	SYM	O
+वहम	NN	O
+की	PSP	O
+दवा	NN	O
+तो	RP	O
+लुकमान	NN	O
+के	PSP	O
+पास	NST	O
+भी	RP	O
+नहीं	NEG	O
+Sentiment: -1
+
 '	SYM	O
 
 	PRP	O
 '	SYM	O
 मैंने	PRP	O
-मोल	VM	O
-लिया	VAUX	O
+साफ	JJ	O
+सुना	VM	O
+Sentiment: 0
+
+कोई	PRP	O
+-	SYM	O
+न	NEG	O
+-	SYM	O
+कोई	PRP	O
+था	VM	O
+जरूर	RB	O
+Sentiment: -1
+
+तुमने	PRP	O
+उसे	PRP	O
+कहीं	PRP	O
+छिपा	VM	O
+रखा	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+इन्हीं	DEM	O
+बातों	NN	O
+पर	PSP	O
+तुमसे	PRP	O
+मेरा	PRP	O
+जी	NN	O
+जलता	VM	O
+है	VAUX	O
+Sentiment: -1
+
+सारा	QF	O
+घर	NN	O
+तो	RP	O
+पड़ा	XC	O
+है	VAUX	O
+,	SYM	O
+देख	VM	O
+क्यों	WQ	O
+नहीं	NEG	O
+लेते	VM	O
 Sentiment: 0
 
 '	SYM	O
-कै	QC	O
-पैसे	NN	O
+
+	PRP	O
+'	SYM	O
+देखूँगा	PRP	O
+तो	RP	O
+मैं	PRP	O
+जरूर	RB	O
+ही	RP	O
+,	SYM	O
+लेकिन	CC	O
+तुमसे	PRP	O
+सीधे	JJ	O
+-	SYM	O
+सीधे	JJ	O
+पूछता	VM	O
+हूँ	VAUX	O
+,	SYM	O
+बतला	VM	O
+दो	VAUX	O
+,	SYM	O
+कौन	WQ	O
+था	VM	O
+?	SYM	O
+'	SYM	O
+
+हसीना	PRP	O
+ने	PSP	O
+कुंजियों	NN	O
+का	PSP	O
+गुच्छा	NN	O
+फेंकते	VM	O
+हुए	VAUX	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+और	CC	O
+कोई	PRP	O
+था	VM	O
+तो	CC	O
+घर	NN	O
+ही	RP	O
 में	PSP	O
+न	NEG	O
+होगा	VM	O
+Sentiment: -1
+
+लो	XC	O
+,	SYM	O
+सब	QF	O
+जगह	NN	O
+देख	VM	O
+आओ	VAUX	O
+Sentiment: -1
+
+सुई	RDP	O
+तो	RP	O
+है	VM	O
+नहीं	NEG	O
+कि	CC	O
+मैंने	PRP	O
+कहीं	PRP	O
+छिपा	VM	O
+दी	VAUX	O
+हो	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+वह	PRP	O
+शैतान	NN	O
+इन	DEM	O
+चकमों	NN	O
+में	PSP	O
+न	NEG	O
+आया	VM	O
+Sentiment: -1
+
+शायद	RB	O
+पहले	NST	O
+भी	RP	O
+ऐसा	PRP	O
+ही	RP	O
+चरका	NN	O
+खा	VM	O
+चुका	VAUX	O
+था	VAUX	O
+Sentiment: -1
+
+कुंजियों	NN	O
+का	PSP	O
+गुच्छा	NN	O
+उठाकर	VM	O
+सबसे	INTF	O
+पहले	NST	O
+मेरी	PRP	O
+कोठरी	NN	O
+के	PSP	O
+द्वार	NN	O
+पर	PSP	O
+आया	VM	O
+और	CC	O
+उसके	PRP	O
+ताले	NN	O
+को	PSP	O
+खोलने	VM	O
+की	PSP	O
+कोशिश	NN	O
+करने	VM	O
+लगा	VAUX	O
+!	SYM	O
+गुच्छे	NN	O
+में
+उस	PSP	O
+ताले	NN	O
+की	PSP	O
+कुंजी	NN	O
+न	NEG	O
+थी	VM	O
+Sentiment: -1
+
+बोला	XC	O
+,	SYM	O
+इस	DEM	O
+कोठरी	NN	O
+की	PSP	O
+कुंजी	NN	O
+कहाँ	PSP	O
+है	VM	O
+?	SYM	O
+हसीना	NNP	ENAMEX_PERSON_B
+ने	PSP	O
+बनावटी	JJ	O
+ताज्जुब	NN	O
+से	PSP	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+अरे	XC	O
+,	SYM	O
+तो	CC	O
+क्या	WQ	O
+उसमें	PRP	O
+कोई	PRP	O
+छिपा	VM	O
+बैठा	VAUX	O
+है	VAUX	O
+?	SYM	O
+वह	PRP	O
+तो	RP	O
+लकड़ियों	NN	O
+से	PSP	O
+भरी	JJ	O
+पड़ी	NN	O
+है	VM	O
+Sentiment: 0
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+तुम	PRP	O
+कुंजी	NN	O
+दे	VM	O
+दो	VAUX	O
+न	NEG	O
+Sentiment: 0
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+तुम	PRP	O
+भी	RP	O
+कभी	PRP	O
+-	SYM	O
+कभी	RDP	O
+पागलों	NN	O
+के	PSP	O
+-	SYM	O
+से	PSP	O
+काम	NN	O
+करने	VM	O
+लगते	VAUX	O
+हो	VAUX	O
+Sentiment: -1
+
+अँधेरे	NN	O
+में	PSP	O
+कोई	PRP	O
+साँप	NN	O
+-	SYM	O
+बिच्छू	PRP	O
+निकल	VM	O
+आये	VAUX	O
+तो	CC	O
+Sentiment: -1
+
+ना	VM	O
+भैया	VAUX	O
+,	SYM	O
+मैं	PRP	O
+उसकी	PRP	O
+कुंजी	NN	O
+न	NEG	O
+दूँगी	VM	O
+Sentiment: -1
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+बला	NN	O
+से	PSP	O
+साँप	NN	O
+निकल	VM	O
+आयेगा	VAUX	O
+Sentiment: -1
+
+अच्छा	INJ	O
+ही	RP	O
+हो	VM	O
+,	SYM	O
+निकल	VM	O
+आये	VAUX	O
+Sentiment: -1
+
+इस	DEM	O
+बेहयाई	NN	O
+की	PSP	O
+जिन्दगी	NN	O
+से	PSP	O
+तो	RP	O
+मौत	NN	O
+ही	RP	O
+अच्छी	JJ	O
+!	SYM	O
+'	SYM	O
+
+हसीना	PRP	O
+ने	PSP	O
+इधर	XC	O
+-	SYM	O
+उधर	PRP	O
+तलाश	NN	O
+करके	VM	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+न	NEG	O
+जाने	VM	O
+उसकी	PRP	O
+कुंजी	NN	O
+कहाँ	PSP	O
+रख	VM	O
+दी	VAUX	O
+Sentiment: -1
+
+खयाल	NN	O
+नहीं	NEG	O
+आता	VM	O
+Sentiment: -1
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+इस	DEM	O
+कोठरी	NN	O
+में	PSP	O
+तो	RP	O
+मैंने	PRP	O
+और	CC	O
+कभी	PRP	O
+ताला	NN	O
+नहीं	NEG	O
+देखा	VM	O
+Sentiment: 0
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+मैं	PRP	O
+तो	RP	O
+रोज	NN	O
+लगाती	VM	O
+हूँ	VAUX	O
+Sentiment: 0
+
+शायद	RB	O
+कभी	PRP	O
+लगाना	VM	O
+भूल	VAUX	O
+गई	VAUX	O
+हूँ	SYM	O
+,	SYM	O
+तो	RP	O
+नहीं	NEG	O
+कह	VM	O
+सकती	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+तो	CC	O
+तुम	PRP	O
+कुंजी	NN	O
+न	NEG	O
+दोगी	VM	O
 ?	SYM	O
 '	SYM	O
 
 	PRP	O
 '	SYM	O
-तीन	QC	O
-पैसे	NN	O
-दिये	VM	O
-Sentiment: 0
+कहती	VM	O
+तो	RP	O
+हूँ	NN	O
+इस	DEM	O
+वक्त	NN	O
+नहीं	NEG	O
+मिल	VM	O
+रही	VAUX	O
+है	VAUX	O
+Sentiment: -1
 
 '	SYM	O
 
-अमीना	PRP	O
+	PRP	O
+'	SYM	O
+कहे	VM	O
+देता	VAUX	O
+हूँ	SYM	O
+,	SYM	O
+कच्चा	JJ	O
+ही	RP	O
+खा	VM	O
+जाऊँगा	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+अब	PRP	O
+तक	RP	O
+तो	RP	O
+मैं	PRP	O
+किसी	PRP	O
+तरह	NN	O
+जब्त	JJ	O
+किये	VM	O
+खड़ा	VM	O
+रहा	VAUX	O
+Sentiment: -1
+
+बार	RP	O
+-	SYM	O
+बार	RP	O
+अपने	PRP	O
+ऊपर	NST	O
+गुस्सा	NN	O
+आ	VM	O
+रहा	VAUX	O
+था	VAUX	O
+कि	RP	O
+यहाँ	NN	O
+क्यों	WQ	O
+आया	VM	O
+Sentiment: -1
+
+न	NEG	O
+-	SYM	O
+जाने	VM	O
+यह	DEM	O
+शैतान	NN	O
+कैसे	WQ	O
+पेश	JJ	O
+आये	VM	O
+Sentiment: -1
+
+कहीं	PRP	O
+तैश	NN	O
+में	PSP	O
+आकर	VM	O
+मार	NN	O
+ही	RP	O
+न	NEG	O
+डाले	VM	O
+Sentiment: -1
+
+मेरे	PRP	O
+हाथों	NN	O
+में	PSP	O
+तो	RP	O
+कोई	PRP	O
+छुरी	NN	O
+भी	RP	O
+नहीं	NEG	O
+Sentiment: -1
+
+या	CC	O
+खुदा	NN	O
+!	SYM	O
+अब	PRP	O
+तू	PRP	O
+ही	RP	O
+मालिक	NN	O
+है	VM	O
+Sentiment: -1
+
+दम	NN	O
+रोके	VM	O
+हुए	VAUX	O
+खड़ा	VM	O
+था	VAUX	O
+कि	CC	O
+एक	QC	O
+पल	NN	O
+का	PSP	O
+भी	RP	O
+मौका	NN	O
+मिले	VM	O
+,	SYM	O
+तो	RP	O
+निकल	VM	O
+भागूँ	VAUX	O
+;	SYM	O
+लेकिन	CC	O
+जब	PRP	O
+उस	DEM	O
+मरदूद	NN	O
 ने	PSP	O
-छाती	NN	O
-पीट	VM	O
-ली	VAUX	O
+किवाड़ों	NN	O
+को	PSP	O
+जोर	NN	O
+से	PSP	O
+धमधमाना	NN	O
+शुरू	NN	O
+किया	VM	O
+,	SYM	O
+तब	PRP	O
+तो	RP	O
+रूह	NN	O
+ही	RP	O
+फना	VM	O
+हो	VAUX	O
+गई	VAUX	O
+Sentiment: -1
+
+इधर	XC	O
+-	SYM	O
+उधर	PRP	O
+निगाह	NN	O
+डाली	VM	O
+कि	CC	O
+किसी	PRP	O
+कोने	NN	O
+में	PSP	O
+छिपने	VM	O
+की	PSP	O
+जगह	NN	O
+है	VM	O
+,	SYM	O
+या	CC	O
+नहीं	NEG	O
+Sentiment: -1
+
+किवाड़	NNP	ENAMEX_LOCATION_B
+के	PSP	O
+दराजों	NN	O
+से	PSP	O
+कुछ	QF	O
+रोशनी	NN	O
+आ	VM	O
+रही	VAUX	O
+थी	VAUX	O
+!	SYM	O
+ऊपर	NST	O
+जो	PRP	O
+निगाह	NN	O
+उठाई	VM	O
+,	SYM	O
+तो	CC	O
+एक	QC	O
+मचान	NN	O
+-	SYM	O
+सा	RP	O
+दिखाई	VM	O
+दिया	VAUX	O
+Sentiment: -1
+
+डूबते	VM	O
+को	PSP	O
+तिनके	NN	O
+का	PSP	O
+सहारा	NN	O
+मिल	VM	O
+गया	VAUX	O
+Sentiment: -1
+
+उचककर	VM	O
+चाहता	VAUX	O
+था	VAUX	O
+कि	CC	O
+ऊपर	NST	O
+चढ़	NN	O
+जाऊँ	PSP	O
+कि	CC	O
+मचान	NN	O
+पर	PSP	O
+एक	QC	O
+आदमी	NN	O
+को	PSP	O
+बैठे	VM	O
+देखकर	VM	O
+उस	DEM	O
+हालत	NN	O
+में	PSP	O
+मेरे	PRP	O
+मुँह	NN	O
+से	PSP	O
+चीख	NN	O
+निकल	VM	O
+गई	VAUX	O
 Sentiment: -1
 
 यह	PRP	O
-कैसा	WQ	O
-बेसमझ	NN	O
-लड़का	NNP	ENAMEX_LOCATION_B
-है	VM	O
-कि	CC	O
-दोपहर	NN	O
-हुआ	VM	O
+हजरत	JJ	O
+अचकन	NN	O
+पहने	VM	O
 ,	SYM	O
-कुछ	QF	O
-खाया	VM	O
-न	NEG	O
-पिया	VM	O
-Sentiment: 0
-
-लाया	VM	O
-क्या	WQ	O
+घड़ी	NNP	ENAMEX_LOCATION_B
+लगाये	VM	O
 ,	SYM	O
-चिमटा	NN	O
-!	SYM	O
-'	SYM	O
-सारे	QF	O
-मेले	NN	O
-में	PSP	O
-तुझे	PRP	O
-और	CC	O
-कोई	PRP	O
-चीज	NN	O
-न	NEG	O
-मिली	VM	O
-,	SYM	O
-जो	PRP	O
-यह	DEM	O
-लोहे	NN	O
-का	PSP	O
-चिमटा	NN	O
-उठा	VM	O
-लाया	VAUX	O
-Sentiment: 0
-
-हामिद	NN	O
-ने	PSP	O
-अपराधी	JJ	O
-भाव	NN	O
-से	PSP	O
-कहा	VM	O
--	SYM	O
-तुम्हारी	PRP	O
-उँगलियाँ	NN	O
-तवे	NN	O
-से	PSP	O
-जल	VM	O
-जाती	VAUX	O
-थीं	VAUX	O
-,	SYM	O
-इसलिए	CC	O
-मैने	PRP	O
-इसे	PRP	O
-लिया	VM	O
-Sentiment: 0
-
-बुढ़िया	NNP	ENAMEX_LOCATION_B
-का	PSP	O
-क्रोध	NN	O
-तुरन्त	RB	O
-स्नेह	NN	O
-में	PSP	O
-बदल	VM	O
-गया	VAUX	O
-,	SYM	O
-और	CC	O
-स्नेह	NN	O
-भी	RP	O
-वह	PRP	O
-नहीं	NEG	O
-,	SYM	O
-जो	PRP	O
-प्रगल्भ	NN	O
-होता	VM	O
-है	VAUX	O
-और	CC	O
-अपनी	PRP	O
-सारी	QF	O
-कसक	NN	O
-शब्दों	NN	O
-में	PSP	O
-बिखेर	VM	O
-देता	VAUX	O
-है	VAUX	O
-Sentiment: -1
-
-यह	DEM	O
-मूक	NN	O
-स्नेह	NN	O
-था	VM	O
-,	SYM	O
-खूब	JJ	O
-ठोस	NN	O
-,	SYM	O
-रस	NNP	ENAMEX_LOCATION_B
-और	CC	O
-स्वाद	NN	O
-से	PSP	O
-भरा	VM	O
-हुआ	VAUX	O
-Sentiment: -1
-
-बच्चे	NN	O
-में	PSP	O
-कितना	QF	O
-त्याग	NN	O
-,	SYM	O
-कितना	QF	O
-‍सद्‌भाव	NN	O
-और	CC	O
-कितना	QF	O
-विवेक	NN	O
-है	VM	O
-!	SYM	O
-दूसरों	NN	O
-को	PSP	O
-खिलौने	VM	O
-लेते	VAUX	O
-और	CC	O
-मिठाई	NN	O
-खाते	JJ	O
-देखकर	VM	O
-इसका	PRP	O
-मन	NN	O
-कितना	QF	O
-ललचाया	VM	O
-होगा	VAUX	O
-?	SYM	O
-इतना	QF	O
-जब्त	NN	O
-इससे	PRP	O
-हुआ	VM	O
-कैसे	WQ	O
-?	SYM	O
-वहाँ	PRP	O
-भी	RP	O
-इसे	PRP	O
-अपनी	PRP	O
-बुढ़िया	NN	O
-दादी	NN	O
-की	PSP	O
-याद	NN	O
-बनी	VM	O
-रही	VAUX	O
-Sentiment: -1
-
-अमीना	NN	O
-का	PSP	O
-मन	NN	O
-गद्‌गद्‌	PSP	O
-हो	VM	O
-गया	VAUX	O
-Sentiment: -1
-
-और	CC	O
-अब	PRP	O
 एक	QC	O
-बड़ी	XC	O
-विचित्र	XC	O
-बात	NN	O
-हुई	VM	O
+खूबसूरत	JJ	O
+साफा	NN	O
+बाँध	PSP	O
+,	SYM	O
+उकडूँ	PRP	O
+बैठे	VM	O
+हुए	VAUX	O
+थे	VAUX	O
 Sentiment: -1
 
-हामिद	NN	O
-के	PSP	O
-इस	DEM	O
-चिमटे	NN	O
-से	PSP	O
-भी	RP	O
-विचित्र	JJ	O
-Sentiment: -1
-
-बच्चे	NN	O
-हामिद	NN	O
+अब	PRP	O
+मुझे	PRP	O
+मालूम	JJ	O
+हुआ	VM	O
+कि	CC	O
+मेरे	PRP	O
+लिए	PSP	O
+दरवाजा	NN	O
+खोलने	VM	O
+में	PSP	O
+हसीना	NN	O
 ने	PSP	O
-बूढ़े	JJ	O
-हामिद	NN	O
+इतनी	QF	O
+देर	NN	O
+क्यों	WQ	O
+की	VM	O
+थी	VAUX	O
+Sentiment: 0
+
+अभी	PRP	O
+इनको	PRP	O
+देख	VM	O
+ही	RP	O
+रहा	VAUX	O
+था
+कि	SYM	O
+दरवाजे	NN	O
+पर	PSP	O
+मूसल	NN	O
+की	PSP	O
+चोटें	NN	O
+पड़ने	NNP	O
+लगीं	VAUX	O
+Sentiment: 0
+
+मामूली	JJ	O
+किवाड़	XC	O
+तो	RP	O
+थे	VM	O
+ही	RP	O
+,	SYM	O
+तीन	QC	O
+-	SYM	O
+चार	QC	O
+चोटों	NN	O
+में	PSP	O
+दोनों	JJ	O
+किवाड़े	NN	O
+नीचे	NST	O
+आ	VM	O
+रहे	VAUX	O
+और	CC	O
+वह	PRP	O
+मरदूद	NN	O
+लालटेन	NN	O
+लिए	PSP	O
+कमरे	NN	O
+में	PSP	O
+घुसा	XC	O
+Sentiment: -1
+
+उस	DEM	O
+वक्त	NN	O
+मेरी	PRP	O
+क्या	WQ	O
+हालत	NN	O
+थी	VM	O
+,	SYM	O
+इसका	PRP	O
+अंदाज	NN	O
+आप	PRP	O
+खुद	PRP	O
+कर	VM	O
+सकते	VAUX	O
+हैं	VAUX	O
+Sentiment: -1
+
+उसने	PRP	O
+मुझे	PRP	O
+देखते	VM	O
+ही	RP	O
+लालटेन	NN	O
+रख	VM	O
+दी	VAUX	O
+और	CC	O
+मेरी	PRP	O
+गर्दन	NN	O
+पकड़कर	VM	O
+बोला	XC	O
+,	SYM	O
+'	SYM	O
+अच्छा	INJ	O
+,	SYM	O
+आप	PRP	O
+यहाँ	NN	O
+तशरीफ	NN	O
+रखते	VM	O
+हैं	VAUX	O
+Sentiment: 0
+
+आइए	VM	O
+,	SYM	O
+आपकी	PRP	O
+कुछ	QF	O
+खातिर	NN	O
+करूँ	PSP	O
+Sentiment: -1
+
+ऐसे	DEM	O
+मेहमान	NN	O
+रोज	NN	O
+कहाँ	PSP	O
+मिलते	VM	O
+हैं	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+यह	PRP	O
+कहते	VM	O
+हुए	VAUX	O
+उसने	PRP	O
+मेरा	PRP	O
+एक	QC	O
+हाथ	NN	ENAMEX_LIVTHINGS_B
+पकड़कर	VM	O
+इतने	QF	O
+जोर	NN	O
+से	PSP	O
+बाहर	NST	O
+की	PSP	O
+तरफ	NST	O
+ढकेला	VM	O
+कि	CC	O
+मैं	PRP	O
+आँगन	NN	O
+में	PSP	O
+औंधा	VM	O
+जा	VAUX	O
+गिरा	VAUX	O
+Sentiment: 0
+
+उस	DEM	O
+शैतान	NN	O
+की	PSP	O
+आँखों	NN	O
+से	PSP	O
+अंगारे	NN	O
+निकल	VM	O
+रहे	VAUX	O
+थे	VAUX	O
+Sentiment: -1
+
+मालूम	JJ	O
+होता	VM	O
+था	VAUX	O
+,	SYM	O
+उसके	PRP	O
+होंठ	NN	O
+मेरा	PRP	O
+खून	NN	ENAMEX_LIVTHINGS_B
+चूसने	VM	O
+के	PSP	O
+लिए
+बढ़े	NN	O
+आ	VM	O
+रहे	VAUX	O
+हैं	VAUX	O
+Sentiment: -1
+
+मैं	PRP	O
+अभी	PRP	O
+जमीन	NN	O
+से	PSP	O
+उठने	VM	O
+भी	RP	O
+न	NEG	O
+पाया	VM	O
+था	VAUX	O
+कि	CC	O
+वह	PRP	O
+कसाई	NN	O
+एक	QC	O
+बड़ा	XC	O
+-	SYM	O
+सा	RP	O
+तेज	JJ	O
+छुरा	NN	O
+लिए	PSP	O
+मेरी	PRP	O
+गरदन	NN	O
+पर	PSP	O
+आ	VM	O
+पहुँचा	VAUX	O
+;	SYM	O
+मगर	CC	O
+जनाब	NN	O
+,	SYM	O
+हूँ	PRP	O
+पुलिस	NN	O
 का	PSP	O
-पार्ट	NN	O
-खेला	VM	O
+आदमी	NN	O
+Sentiment: 0
+
+उस	DEM	O
+वक्त	NN	O
+मुझे	PRP	O
+एक	QC	O
+चाल	NN	O
+सूझ	VM	O
+गई	VAUX	O
+Sentiment: -1
+
+उसने	PRP	O
+मेरी	PRP	O
+जान	NN	O
+बचा	VM	O
+ली	VAUX	O
+,	SYM	O
+वरना	CC	O
+आज	NN	O
+आपके	PRP	O
+साथ	NST	O
+तांगे	NN	O
+पर	PSP	O
+न	NEG	O
+बैठा	VM	O
+होता	VAUX	O
+Sentiment: -1
+
+मैंने	PRP	O
+हाथ	NN	ENAMEX_LIVTHINGS_B
+जोड़कर	XC	O
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+हुजूर	NNP	ENAMEX_LOCATION_B
+,	SYM	O
+मैं	PRP	O
+बिलकुल	RB	O
+बेकसूर	JJ	O
+हूँ	NN	O
+Sentiment: -1
+
+मैं	PRP	O
+तो	RP	O
+मीर	JJ	O
+साहब	NN	O
+के	PSP	O
+साथ	NST	O
+आया	VM	O
 था	VAUX	O
 Sentiment: -1
 
-बुढ़िया	XC	O
-अमीना	NNP	ENAMEX_LOCATION_B
-बालिका	NN	O
-अमीना	NN	O
-बन	VM	O
-गयी	VAUX	O
+उसने	PRP	O
+गरजकर	VM	O
+पूछा	VM	O
+,	SYM	O
+क़ौन	XC	O
+मीर	NNP	ENAMEX_LOCATION_B
+साहब	RP	O
+?	SYM	O
+'	SYM	O
+
+मैंने	PRP	O
+जी	RP	O
+कड़ा	XC	O
+करके	NNP	ENAMEX_LOCATION_B
+कहा	VM	O
+,	SYM	O
+'	SYM	O
+वही	XC	O
+,	SYM	O
+जो	PRP	O
+मचान	NN	O
+पर	PSP	O
+बैठे	VM	O
+हुए	VAUX	O
+हैं	VAUX	O
 Sentiment: -1
+
+मैं	PRP	O
+तो	RP	O
+हुजूर	NNP	ENAMEX_LOCATION_B
+का	PSP	O
+गुलाम	NN	O
+ठहरा	VM	O
+,	SYM	O
+जहाँ	PRP	O
+हुक्म	VM	O
+पाऊँगा	VAUX	O
+,	SYM	O
+
+उनके	PRP	O
+साथ	NST	O
+जाऊँगा	VM	O
+Sentiment: -1
+
+मेरी	PRP	O
+इसमें	PRP	O
+क्या	WQ	O
+खता	NN	O
+है	VM	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+अच्छा	INJ	O
+,	SYM	O
+तो	CC	O
+कोई	PRP	O
+मीर	JJ	O
+साहब	RP	O
+मचान	NN	O
+पर	PSP	O
+भी	RP	O
+तशरीफ	NN	O
+रखते	VM	O
+हैं	VAUX	O
+?	SYM	O
+'	SYM	O
+
+उसने	PRP	O
+मेरा	PRP	O
+हाथ	NN	ENAMEX_LIVTHINGS_B
+पकड़	NN	O
+लिया	VM	O
+और	CC	O
+कोठरी	NN	O
+में	PSP	O
+जाकर	VM	O
+मचान	NN	O
+पर	PSP	O
+देखा	VM	O
+Sentiment: 0
 
 वह	PRP	O
-रोने	VM	O
-लगी	VAUX	O
-Sentiment: -1
-
-दामन	NN	O
-फैलाकर	VM	O
-हामिद	NN	O
-को	PSP	O
-दुआएं	NN	O
-देती	VM	O
-जाती	VAUX	O
-थी	VAUX	O
-और	CC	O
-आँसू	NN	O
-की	PSP	O
-बड़ी	XC	O
+हजरत	JJ	O
+सिमटे	NN	O
 -	SYM	O
-बड़ी	JJ	O
-बूँदें	NN	O
-गिराती	VM	O
-जाती	VAUX	O
+सिमटाये	PRP	O
+,	SYM	O
+भीगी	JJ	O
+बिल्ली	NN	O
+बने	VM	O
+बैठे	VAUX	O
+थे	VAUX	O
+Sentiment: -1
+
+चेहरा	NN	O
+ऐसा	PRP	O
+पीला	JJ	O
+पड़	VM	O
+गया	VAUX	O
+था	VAUX	O
+,	SYM	O
+गोया	CC	O
+बदन	NN	O
+में	PSP	O
+जान	NN	O
+ही	RP	O
+नहीं	NEG	O
+Sentiment: -1
+
+उसने	PRP	O
+उनका	PRP	O
+हाथ	NN	ENAMEX_LIVTHINGS_B
+पकड़कर	VM	O
+एक	QC	O
+झटका	NN	O
+दिया	VM	O
+,	SYM	O
+तो	CC	O
+आप	PRP	O
+धाम	NN	O
+-	SYM	O
+से	PSP	O
+नीचे	NST	O
+आ	VM	O
+रहे	VAUX	O
+Sentiment: 0
+
+उनका	PRP	O
+ठाठ	NN	O
+देखकर	VM	O
+अब	PRP	O
+इसमें	PRP	O
+कोई	PRP	O
+शुबहा	NN	O
+न	NEG	O
+रहा	VM	O
+कि	CC	O
+वह	PRP	O
+मेरे	PRP	O
+मालिक
+हैं	NN	O
+Sentiment: -1
+
+उनकी	PRP	O
+सूरत	NN	O
+देखकर	VM	O
+उस	DEM	O
+वक्त	NN	O
+तरस	NN	O
+के	PSP	O
+साथ	NST	O
+हँसी	VM	O
+आती	VAUX	O
+थी	VAUX	O
+Sentiment: 0
+
+'	SYM	O
+तू	PRP	O
+कौन	WQ	O
+है	VM	O
+बे	VAUX	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+जी	INJ	O
+,	SYM	O
+मैं	XC	ENAMEX_PERSON_B
+.	SYM	ENAMEX_PERSON_I
+.	SYM	ENAMEX_PERSON_I
+.	SYM	ENAMEX_PERSON_I
+मेरा	PRP	O
+मकान	NN	ENAMEX_LIVTHINGS_B
+,	SYM	O
+यह	DEM	O
+आदमी	NN	O
+झूठा	JJ	O
+है	VM	O
+,	SYM	O
+यह	PRP	O
+मेरा	PRP	O
+नौकर	NN	O
+नहीं	NEG	O
+है	VM	O
+Sentiment: 0
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+तू	PRP	O
+यहाँ	NN	O
+क्या	WQ	O
+करने	VM	O
+आया	VAUX	O
+था	VAUX	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+मुझे	PRP	O
+यही	DEM	O
+बदमाश	NN	O
+(मेरी	PSP	O
+तरफ	NST	O
+देखकर)	VM	O
+धोखा	NN	O
+देकर	VM	O
+लाया	VAUX	O
+था	VAUX	O
+Sentiment: -1
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+यह	PRP	O
+क्यों	WQ	O
+नहीं	NEG	O
+कहता	VM	O
+कि	CC	O
+मजे	NN	O
+उड़ाने	VM	O
+आया	VAUX	O
+था	VAUX	O
+Sentiment: -1
+
+दूसरों	NN	O
+पर	PSP	O
+इल्जाम	NN	O
+रखकर	VM	O
+अपनी	PRP	O
+जान	NN	O
+बचाना	VM	O
+चाहता	VAUX	O
+है	VAUX	O
+,	SYM	O
+सुअर	NN	O
+?	SYM	O
+ले	VM	O
+,	SYM	O
+तू	PRP	O
+भी	RP	O
+क्या	WQ	O
+समझेगा	VM	O
+कि	CC	O
+किसके	WQ	O
+पाले	NN	O
+पड़ा	XC	O
+था	NNP	O
+Sentiment: -1
+
+'	SYM	O
+
+यह	PRP	O
+कहकर	VM	O
+उसने	PRP	O
+उसी	DEM	O
+तेज	JJ	O
+छुरे	NN	O
+से	PSP	O
+उन	DEM	O
+साहब	NN	O
+की	PSP	O
+नाक	NN	O
+काट	VM	O
+ली	VAUX	O
+Sentiment: -1
+
+मैं	PRP	O
+मौका	NN	O
+पाकर	VM	O
+बेतहाशा	JJ	O
+भागा	VM	O
+,	SYM	O
+लेकिन	CC	O
+हाय	XC	O
+-	SYM	O
+हाय	NN	O
+की	PSP	O
+आवाज	NN	O
+मेरे	PRP	O
+कानों	NN	O
+में	PSP	O
+आ	VM	O
+रही	VAUX	O
 थी	VAUX	O
 Sentiment: -1
 
-हामिद	NN	O
-इसका	PRP	O
-रहस्य	NN	O
+इसके	PRP	O
+बाद	NST	O
+उन	DEM	O
+दोनों	NN	O
+में	PSP	O
+कैसी	WQ	O
+छनी	VM	O
+,	SYM	O
+हसीना	NNP	ENAMEX_LOCATION_B
+के	PSP	O
+सिर	NN	O
+पर	PSP	O
+क्या
+आफत	NN	O
+आई	VM	O
+,	SYM	O
+इसकी	PRP	O
+मुझे	PRP	O
+कुछ	QF	O
+खबर	NN	O
+नहीं	NEG	O
+Sentiment: -1
+
+मैं	PRP	O
+तब	PRP	O
+से	PSP	O
+बीसों	QC	O
+बार	RP	O
+सदर	JJ	O
+आ	VM	O
+चुका	VAUX	O
+हूँ	SYM	O
+,	SYM	O
+पर	PSP	O
+उधर	PRP	O
+भूलकर	VM	O
+भी	RP	O
+नहीं	NEG	O
+गया	VAUX	O
+Sentiment: 0
+
+यह	DEM	O
+पत्थर	NN	O
+फेंकनेवाले	VM	O
+हजरत	XC	O
+वही	XC	O
+हैं	VAUX	O
+,	SYM	O
+जिनकी	PRP	O
+नाक	NN	O
+कटी	VM	O
+थी	VAUX	O
+Sentiment: 0
+
+आज	NN	O
+न	NEG	O
+-	SYM	O
+जाने	VM	O
+कहाँ	VAUX	O
+से	PSP	O
+दिखाई	VM	O
+पड़	VM	O
+गये	VAUX	O
+और	CC	O
+मेरी	PRP	O
+शामत	NN	O
+आई	VM	O
+कि	CC	O
+उन्हें	PRP	O
+सलाम	NN	O
+कर	VM	O
+बैठा	VAUX	O
+Sentiment: -1
+
+आपने	PRP	O
+उनकी	PRP	O
+नाक	NN	O
+की	PSP	O
+तरफ	NST	O
+शायद	RB	O
+खयाल	NN	O
+नहीं	NEG	O
+किया	VM	O
+Sentiment: -1
+
+'	SYM	O
+
+मुझे	PRP	O
+अब	PRP	O
+खयाल	NN	O
+आया	VM	O
+कि	CC	O
+उस	DEM	O
+आदमी	NN	O
+की	PSP	O
+नाक	NN	O
+कुछ	QF	O
+चिपटी	VM	O
+थी	VAUX	O
+Sentiment: -1
+
+बोला	XC	O
+,	SYM	O
+'	SYM	O
+हाँ	PRP	O
+,	SYM	O
+नाक	NN	ENAMEX_LIVTHINGS_B
+कुछ	QF	O
+चिपटी	NN	O
+तो	RP	O
+थी	VM	O
+Sentiment: -1
+
+मगर	CC	O
+आपने	PRP	O
+उस	DEM	O
+गरीब	NN	O
+को	PSP	O
+बुरा	JJ	O
+चरका	NN	O
+दिया	VM	O
+Sentiment: -1
+
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+और	CC	O
+करता	VM	O
+ही	RP	O
 क्या	WQ	O
-समझता	VM	O
-!	SYM	O
+?	SYM	O
+'	SYM	O
+
+	PRP	O
+'	SYM	O
+जरूर	RB	O
+दबा	VM	O
+लेते	VAUX	O
+;	SYM	O
+मगर	CC	O
+चोर	NN	O
+का	PSP	O
+दिल	NN	O
+आधा	JJ	O
+होता	VM	O
+है	VAUX	O
+Sentiment: -1
+
+उस	DEM	O
+वक्त	NN	O
+अपनी	PRP	O
+-	SYM	O
+अपनी	PRP	O
+पड़ी	NN	O
+थी	VM	O
+कि	CC	O
+मुकाबला	NN	O
+करने	VM	O
+की	PSP	O
+सूझती	VM	O
+Sentiment: -1
+
+कहीं	PRP	O
+उस	DEM	O
+रमझल्ले	NN	O
+में	PSP	O
+धर	VM	O
+लिया	VAUX	O
+जाता	VAUX	O
+,	SYM	O
+तो	CC	O
+आबरू	NN	O
+अलग	JJ	O
+जाती	VM	O
+और	CC	O
+नौकरी	NN	O
+से	PSP	O
+अलग	JJ	O
+हाथ	NN	ENAMEX_LIVTHINGS_B
+धोता	VM	O
+Sentiment: 0
+
+मगर	CC	O
+अब	PRP	O
+इस	DEM	O
+आदमी	NN	O
+से	PSP	O
+होशियार	JJ	O
+रहना	VM	O
+पड़ेगा	XC	O
+Sentiment: -1
+
+'	SYM	O
+
+इतने	PRP	O
+में	PSP	O
+चौक	NN	O
+आ	VM	O
+गया	VAUX	O
+और	CC	O
+हम	PRP	O
+दोनों	NN	O
+ने	PSP	O
+अपनी	PRP	O
+-	SYM	O
+अपनी	PRP	O
+राह	NN	O
+ली	VM	O
+Sentiment: -1
+
+	NN	O
 Sentiment: -1
 

@@ -30,12 +30,6 @@ class Core():
         self.sentiment = []
 
         if process == True:
-            # self.split_sentence()\
-            #     .tokenize()\
-            #     .tag_pos()\
-            #     .tag_ner()\
-            #     .predict_sentiment()
-
             self.tokenize()\
                 .tag_pos()\
                 .tag_ner()\

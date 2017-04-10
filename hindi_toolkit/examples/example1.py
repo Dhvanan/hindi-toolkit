@@ -13,7 +13,7 @@ if __name__ == '__main__':
     htk = HindiToolkit()
 
     # Read the document
-    doc = codecs.open(PATH_TO_DOC + '1.txt', 'r', 'utf-8').read()
+    doc = codecs.open(PATH_TO_DOC + sys.argv[1] + '.txt', 'r', 'utf-8').read()
 
     # Load the document into the extraction pipeline
     htk.load(doc)
