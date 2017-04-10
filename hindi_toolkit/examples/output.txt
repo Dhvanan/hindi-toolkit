@@ -8,6 +8,8 @@
 ईद	NN	O
 आयी	VM	O
 है	VAUX	O
+Sentiment: 0
+
 कितना	QF	O
 मनोहर	JJ	O
 ,	SYM	O
@@ -15,6 +17,8 @@
 सुहावना	NN	O
 प्रभाव	NN	O
 है	VM	O
+Sentiment: 0
+
 वृक्षों	NN	O
 पर	PSP	O
 अजीब	JJ	O
@@ -34,6 +38,8 @@
 अजीब	JJ	O
 लालिमा	NN	O
 है	VM	O
+Sentiment: 0
+
 आज	NN	O
 का	PSP	O
 सूर्य	NN	O
@@ -55,11 +61,15 @@
 दे	VM	O
 रहा	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 गाँव	NN	O
 में	PSP	O
 कितनी	QF	O
 हलचल	JJ	O
 है	VM	O
+Sentiment: -1
+
 ईदगाह	NN	O
 जाने	VM	O
 की	PSP	O
@@ -67,6 +77,8 @@
 हो	VM	O
 रही	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 किसी	PRP	O
 के	PSP	O
 कुरते	NN	O
@@ -87,6 +99,8 @@
 जा	VAUX	O
 रहा	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 किसी	PRP	O
 के	PSP	O
 जूते	NN	O
@@ -107,6 +121,8 @@
 भागा	VM	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 जल्दी	RB	O
 -	SYM	O
 जल्दी	RB	O
@@ -117,6 +133,8 @@
 पानी	NN	O
 दे	VM	O
 दें	VAUX	O
+Sentiment: -1
+
 ईदगाह	NN	O
 से	PSP	O
 लौटते	VM	O
@@ -125,6 +143,8 @@
 दोपहर	NN	O
 हो	VM	O
 जायगी	VAUX	O
+Sentiment: 0
+
 तीन	QC	O
 कोस	NN	O
 का	PSP	O
@@ -145,11 +165,15 @@
 लौटना	VM	O
 असम्भव	JJ	O
 है	VM	O
+Sentiment: 0
+
 लड़के	NNP	O
 सबसे	INTF	O
 ज्यादा	QF	O
 प्रसन्न	JJ	O
 हैं	VM	O
+Sentiment: 0
+
 किसी	PRP	O
 ने	PSP	O
 एक	QC	O
@@ -178,6 +202,8 @@
 की	PSP	O
 चीज	NN	O
 है	VM	O
+Sentiment: 0
+
 रोजे	NN	O
 बड़े	NNP	O
 -	SYM	O
@@ -185,11 +211,15 @@
 के	PSP	O
 लिए	PSP	O
 होंगे	VM	O
+Sentiment: 0
+
 इनके	PRP	O
 लिए	PSP	O
 तो	RP	O
 ईद	NN	O
 है	VM	O
+Sentiment: 0
+
 रोज	NN	O
 ईद	NN	O
 का	PSP	O
@@ -201,6 +231,8 @@
 वह	PRP	O
 आ	VM	O
 गयी	VAUX	O
+Sentiment: 0
+
 अब	PRP	O
 जल्दी	RB	O
 पड़ी	NN	O
@@ -211,6 +243,8 @@
 क्यों	WQ	O
 नहीं	NEG	O
 चलते	VM	O
+Sentiment: 0
+
 इन्हें	PRP	O
 गृहस्थी	NN	O
 की	PSP	O
@@ -239,6 +273,8 @@
 तो	CC	O
 सेवेयाँ	NN	O
 खायेंगे	VM	O
+Sentiment: 0
+
 वह	PRP	O
 क्या	WQ	O
 जानें	VM	O
@@ -254,6 +290,8 @@
 जा	VM	O
 रहे	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 उन्हें	PRP	O
 क्या	WQ	O
 खबर	NN	O
@@ -270,6 +308,8 @@
 मुहर्रम	JJ	O
 हो	VM	O
 जाय	VAUX	O
+Sentiment: 0
+
 उनकी	PRP	O
 अपनी	PRP	O
 जेबों	NN	O
@@ -281,6 +321,8 @@
 भरा	VM	O
 हुआ	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 बार	RP	O
 -	SYM	O
 बार	RP	O
@@ -298,6 +340,8 @@
 रख	VM	O
 लेते	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 महमूद	NN	O
 गिनता	VM	O
 है	VAUX	O
@@ -316,6 +360,8 @@
 बारह	QC	O
 पैसे	NN	O
 हैं	VM	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 के	PSP	O
 पास	NST	O
@@ -332,6 +378,8 @@
 पंद्रह	QC	O
 पैसे	NN	O
 हैं	VM	O
+Sentiment: 0
+
 इन्हीं	DEM	O
 अनगिनती	JJ	O
 पैसों	NN	O
@@ -352,12 +400,16 @@
 क्या	WQ	O
 -	SYM	O
 क्या	WQ	O
+Sentiment: 0
+
 और	CC	O
 सबसे	INTF	O
 ज्यादा	QF	O
 प्रसन्न	JJ	O
 है	VM	O
 हामिद	NN	O
+Sentiment: 0
+
 वह	PRP	O
 चार	QC	O
 -	SYM	O
@@ -395,12 +447,16 @@
 दिन	NN	O
 मर	VM	O
 गयी	VAUX	O
+Sentiment: 0
+
 किसी	PRP	O
 को	PSP	O
 पता	JJ	O
 क्या	WQ	O
 बीमारी	NN	O
 है	VM	O
+Sentiment: 0
+
 कहती	VM	O
 तो	CC	O
 कौन	WQ	O
@@ -432,6 +488,8 @@
 विदा	NN	O
 हो	VM	O
 गयी	VAUX	O
+Sentiment: 0
+
 अब	PRP	O
 हामिद	NN	O
 अपनी	PRP	O
@@ -448,18 +506,24 @@
 ही	RP	O
 प्रसन्न	JJ	O
 है	VM	O
+Sentiment: 0
+
 उसके	PRP	O
 अब्बाजान	JJ	O
 रूपये	NN	O
 कमाने	VM	O
 गए	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 बहुत	QF	O
 -	SYM	O
 सी	PRP	O
 थैलियाँ	NN	O
 लेकर	VM	O
 आयेंगे	VAUX	O
+Sentiment: 0
+
 अम्मीजान	NNP	ENAMEX_LOCATION_B
 अल्लाह	RDP	O
 मियाँ	NN	O
@@ -481,6 +545,8 @@
 हामिद	NN	O
 प्रसन्न	JJ	O
 है	VM	O
+Sentiment: 0
+
 आशा	NN	O
 तो	RP	O
 बड़ी	JJ	O
@@ -502,6 +568,8 @@
 बना	VM	O
 लेती	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 हामिद	NN	O
 के	PSP	O
 पाँव	NN	O
@@ -531,6 +599,8 @@
 वह	PRP	O
 प्रसन्न	JJ	O
 है	VM	O
+Sentiment: 0
+
 जब	PRP	O
 उसके	PRP	O
 अब्बाजान	JJ	O
@@ -548,6 +618,8 @@
 अरमान	NN	O
 निकाल	VM	O
 लेगा	VAUX	O
+Sentiment: 0
+
 तब	PRP	O
 देखेगा	VM	O
 ,	SYM	O
@@ -561,6 +633,8 @@
 उतने	QF	O
 पैसे	NN	O
 निकालेंगे	VM	O
+Sentiment: 0
+
 अभागिन	JJ	O
 अमीना	NN	O
 अपनी	PRP	O
@@ -570,6 +644,8 @@
 रो	VAUX	O
 रही	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 आज	NN	O
 ईद	NN	O
 का	PSP	O
@@ -605,6 +681,8 @@
 जा	VAUX	O
 रही	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 किसने	WQ	O
 बुलाया	VM	O
 था	VAUX	O
@@ -640,6 +718,8 @@
 ,	SYM	O
 बाहर	NST	O
 आशा	NN	O
+Sentiment: 0
+
 विपत्ति	NN	O
 अपना	PRP	O
 सारा	QF	O
@@ -659,6 +739,8 @@
 विध्वंस	NN	O
 कर	VM	O
 देगी	VAUX	O
+Sentiment: 0
+
 हामिद	NN	O
 भीतर	NST	O
 जाकर	VM	O
@@ -676,15 +758,21 @@
 सबसे	INTF	O
 पहले	NST	O
 आऊँगा	VM	O
+Sentiment: 0
+
 बिल्कुल	RB	O
 न	NEG	O
 डरना	VM	O
+Sentiment: 1
+
 अमीना	NN	O
 का	PSP	O
 दिल	NN	O
 कचोट	VM	O
 रहा	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 गाँव	NN	O
 के	PSP	O
 बच्चे	NN	O
@@ -697,6 +785,8 @@
 जा	VM	O
 रहे	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 हामिद	NN	O
 का	PSP	O
 बाप	NN	O
@@ -735,6 +825,8 @@
 न	NEG	O
 जाने	VM	O
 देगी	VAUX	O
+Sentiment: 0
+
 नन्ही	NN	O
 -	SYM	O
 सी	PRP	O
@@ -750,11 +842,15 @@
 छाले	VM	O
 पड़	XC	O
 जायेंगे	NNP	ENAMEX_LOCATION_B
+Sentiment: 1
+
 जूते	NN	O
 भी	RP	O
 तो	RP	O
 नहीं	NEG	O
 हैं	VM	O
+Sentiment: 0
+
 वह	PRP	O
 थोड़ी	JJ	O
 -	SYM	O
@@ -767,8 +863,8 @@
 ले	VM	O
 लेती	VAUX	O
 ,	SYM	O
-लेकिन	XC	O
-यहाँ	NNP	ENAMEX_PERSON_B
+लेकिन	CC	O
+यहाँ	NN	O
 सेवैयाँ	PSP	O
 कौन	WQ	O
 पकायेगा	VM	O
@@ -786,6 +882,8 @@
 चटपट	NN	O
 बना	VM	O
 लेती	VAUX	O
+Sentiment: 1
+
 यहाँ	NN	O
 तो	RP	O
 घंटों	NN	O
@@ -793,12 +891,16 @@
 जमा	JJ	O
 करते	VM	O
 लगेंगे	VAUX	O
+Sentiment: 1
+
 माँगे	NN	O
 का	PSP	O
 ही	RP	O
 तो	RP	O
 भरोसा	NN	O
 ठहरा	VM	O
+Sentiment: 0
+
 उस	DEM	O
 दिन	NN	O
 फहीमन	NN	O
@@ -806,11 +908,15 @@
 कपड़े	NN	O
 सिले	VM	O
 थे	VAUX	O
+Sentiment: 1
+
 आठ	QC	O
 आने	XC	O
 पैसे	NN	O
 मिले	VM	O
 थे	VAUX	O
+Sentiment: 1
+
 उस	DEM	O
 अठन्नी	NN	O
 को	PSP	O
@@ -852,6 +958,8 @@
 तो	RP	O
 चाहिए	VM	O
 ही	RP	O
+Sentiment: 0
+
 अब	PRP	O
 तो	RP	O
 कुल	QF	O
@@ -861,6 +969,8 @@
 बच	VM	O
 रहे	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 तीन	QC	O
 पैसे	NN	O
 हामिद	NN	O
@@ -873,6 +983,8 @@
 के	PSP	O
 बटवे	NN	O
 में	PSP	O
+Sentiment: 0
+
 यही	PRP	O
 तो	RP	O
 बिसात	NN	O
@@ -887,6 +999,8 @@
 बेड़ा	JJ	O
 पार	NN	O
 लगावे	VM	O
+Sentiment: 1
+
 धोबन	NN	O
 और	CC	O
 नाइन	NNP	ENAMEX_LOCATION_B
@@ -897,6 +1011,8 @@
 सभी	QF	O
 तो	RP	O
 आयेंगी	VM	O
+Sentiment: 1
+
 सभी	QF	O
 को	PSP	O
 सेवैयाँ	NN	O
@@ -908,6 +1024,8 @@
 आँखों	NN	O
 नहीं	NEG	O
 लगता	VM	O
+Sentiment: 1
+
 किस	WQ	O
 -	SYM	O
 किस	WQ	O
@@ -925,6 +1043,8 @@
 का	PSP	O
 त्यौहार	NN	O
 है	VM	O
+Sentiment: 1
+
 ज़िंदगी	NN	O
 ख़ैरियत	NN	O
 से	PSP	O
@@ -938,6 +1058,8 @@
 के	PSP	O
 साथ	NST	O
 है	VM	O
+Sentiment: -1
+
 बच्चे	NN	O
 को	PSP	O
 खुदा	NN	O
@@ -949,10 +1071,14 @@
 भी	RP	O
 कट	VM	O
 जायँगे	VAUX	O
+Sentiment: 1
+
 गाँव	NN	O
 से	PSP	O
 मेला	NN	O
 चला	VM	O
+Sentiment: -1
+
 और	CC	O
 बच्चों	NN	O
 के	PSP	O
@@ -962,6 +1088,8 @@
 जा	VM	O
 रहा	VAUX	O
 था	VAUX	O
+Sentiment: 0
+
 कभी	PRP	O
 सबके	PRP	O
 सब	QF	O
@@ -969,6 +1097,8 @@
 आगे	NST	O
 निकल	VM	O
 जाते	VAUX	O
+Sentiment: -1
+
 फिर	RB	O
 किसी	PRP	O
 पेड़	XC	O
@@ -981,6 +1111,8 @@
 का	PSP	O
 इंतज़ार	NN	O
 करते	VM	O
+Sentiment: -1
+
 यह	DEM	O
 लोग	NN	O
 क्यों	WQ	O
@@ -1002,6 +1134,8 @@
 लग	VM	O
 गए	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 वह	PRP	O
 कभी	PRP	O
 थक	VM	O
@@ -1013,6 +1147,8 @@
 दामन	NN	O
 आ	VM	O
 गया	VAUX	O
+Sentiment: -1
+
 सड़क	NNP	ENAMEX_LOCATION_B
 के	PSP	O
 दोनों	NN	O
@@ -1021,11 +1157,15 @@
 के	PSP	O
 बगीचे	NN	O
 हैं	VM	O
+Sentiment: -1
+
 पक्की	JJ	O
 चारदीवारी	NN	O
 बनी	VM	O
 हुई	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 पेड़ो	NN	O
 में	PSP	O
 आम	JJ	O
@@ -1034,6 +1174,8 @@
 लगी	VM	O
 हुई	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 कभी	RDP	O
 -	SYM	O
 कभी	PRP	O
@@ -1046,6 +1188,8 @@
 निशान	NN	O
 लगाता	VM	O
 है	VAUX	O
+Sentiment: -1
+
 माली	NN	O
 अंदर	NST	O
 से	PSP	O
@@ -1054,6 +1198,8 @@
 हुआ	VAUX	O
 निकलता	VM	O
 है	VAUX	O
+Sentiment: -1
+
 लड़के	NNP	ENAMEX_LOCATION_B
 वहाँ	PSP	O
 से	PSP	O
@@ -1061,22 +1207,30 @@
 फर्लांग	NN	O
 पर	PSP	O
 हैं	VM	O
-खूब	JJ	O
+Sentiment: -1
+
+खूब	QF	O
 हँस	NN	O
 रहे	VM	O
 हैं	VAUX	O
+Sentiment: -1
+
 माली	NN	O
 को	PSP	O
 कैसा	WQ	O
 उल्लू	NN	O
 बनाया	VM	O
 है	VAUX	O
+Sentiment: -1
+
 बड़ी	XC	O
 -	SYM	O
 बड़ी	XC	O
 इमारतें	NN	O
 आने	VM	O
 लगीं	VAUX	O
+Sentiment: -1
+
 यह	DEM	O
 अदालत	NN	O
 है	VM	O
@@ -1085,11 +1239,13 @@
 कालेज	NN	O
 है	VM	O
 ,	SYM	O
-यह	DEM	O
+यह	PRP	O
 क्लब	NN	O
 -	SYM	O
 घर	NN	O
 है	VM	O
+Sentiment: 0
+
 इतने	QF	O
 बड़े	JJ	O
 कालेज	NN	O
@@ -1119,6 +1275,8 @@
 बड़ी	XC	O
 मूँछे	NNP	O
 हैं	VAUX	O
+Sentiment: 0
+
 इतने	QF	O
 बड़े	JJ	O
 हो	VM	O
@@ -1129,6 +1287,8 @@
 पढ़ने	NNP	O
 जाते	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 न	NEG	O
 जाने	VM	O
 कब	WQ	O
@@ -1157,6 +1317,8 @@
 तीन	QC	O
 कौड़ी	NN	O
 के	PSP	O
+Sentiment: 0
+
 रोज	NN	O
 मार	VM	O
 खाते	VAUX	O
@@ -1167,6 +1329,8 @@
 जी	NN	O
 चुराने	VM	O
 वाले	VAUX	O
+Sentiment: 0
+
 इस	DEM	O
 जगह	NN	O
 भी	RP	O
@@ -1177,6 +1341,8 @@
 होंगे	VM	O
 ओर	PSP	O
 क्या	WQ	O
+Sentiment: -1
+
 क्लब	NN	O
 -	SYM	O
 घर	NN	O
@@ -1184,6 +1350,8 @@
 जादू	NN	O
 होता	VM	O
 है	VAUX	O
+Sentiment: 0
+
 सुना	VM	O
 है	VAUX	O
 ,	SYM	O
@@ -1193,6 +1361,8 @@
 खोपड़ियाँ	NN	O
 दौड़ती	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 और	CC	O
 बड़े	NNP	ENAMEX_LOCATION_B
 -	SYM	ENAMEX_LOCATION_I
@@ -1208,6 +1378,8 @@
 नहीं	NEG	O
 जाने	VM	O
 देते	VAUX	O
+Sentiment: 0
+
 और	CC	O
 वहाँ	NN	O
 शाम	NN	O
@@ -1216,6 +1388,8 @@
 लोग	NN	O
 खेलते	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 बड़े	NNP	ENAMEX_LOCATION_B
 -	SYM	ENAMEX_LOCATION_I
 बड़े	NNP	ENAMEX_LOCATION_I
@@ -1226,6 +1400,8 @@
 मूँछो	PRP	O
 दाढ़ी	NNP	ENAMEX_LOCATION_B
 वाले	PSP	O
+Sentiment: 0
+
 और	CC	O
 मेमें	NN	O
 भी	RP	O
@@ -1253,10 +1429,14 @@
 ही	RP	O
 न	NEG	O
 सकें	VAUX	O
+Sentiment: 0
+
 घुमाते	VM	O
 ही	RP	O
 लुढ़क	VM	O
 जायँ	VAUX	O
+Sentiment: 0
+
 महमूद	NN	O
 ने	PSP	O
 कहा	VM	O
@@ -1271,6 +1451,8 @@
 ,	SYM	O
 अल्ला	XC	O
 कसम	NNP	ENAMEX_LOCATION_B
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 बोला	VM	O
 -	SYM	O
@@ -1281,6 +1463,8 @@
 पीस	VM	O
 डालती	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 ज़रा	NN	O
 -	SYM	O
 सा	RP	O
@@ -1299,6 +1483,8 @@
 रोज	NN	O
 निकालती	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 पाँच	NN	O
 घड़े	NNP	O
 तो	RP	O
@@ -1307,6 +1493,8 @@
 पी	VM	O
 जाती	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 किसी	PRP	O
 मेम	NN	O
 को	PSP	O
@@ -1322,6 +1510,8 @@
 अँधेरा	NN	O
 आ	VM	O
 जाय	VAUX	O
+Sentiment: 0
+
 महमूद	NNP	ENAMEX_LOCATION_B
 -	SYM	O
 लेकिन	CC	O
@@ -1335,6 +1525,8 @@
 तो	RP	O
 नहीं	NEG	O
 सकतीं	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 -	SYM	O
 हाँ	PRP	O
@@ -1375,18 +1567,26 @@
 सका	VAUX	O
 ,	SYM	O
 सच	NN	O
+Sentiment: 0
+
 आगे	NST	O
 चले	VM	O
+Sentiment: -1
+
 हलवाइयों	NN	O
 की	PSP	O
 दुकानें	NN	O
 शुरू	NN	O
 हुईं	VM	O
+Sentiment: 0
+
 आज	NN	O
 खूब	JJ	O
 सजी	VM	O
 हुई	VAUX	O
 थीं	VAUX	O
+Sentiment: 0
+
 इतनी	QF	O
 मिठाइयाँ	NN	O
 कौन	WQ	O
@@ -1403,6 +1603,8 @@
 पर	PSP	O
 मनों	NN	O
 होंगी	VM	O
+Sentiment: 0
+
 सुना	VM	O
 है	VAUX	O
 ,	SYM	O
@@ -1414,6 +1616,8 @@
 ले	VM	O
 जाते	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 अब्बा	NN	O
 कहते	VM	O
 थे	VAUX	O
@@ -1450,6 +1654,8 @@
 ऐसे	PRP	O
 ही	RP	O
 रूपये	NN	O
+Sentiment: 0
+
 हामिद	NN	O
 को	PSP	O
 यकीन	NN	O
@@ -1483,6 +1689,8 @@
 चाहैं	NN	O
 चले	VM	O
 जायँ	VAUX	O
+Sentiment: -1
+
 लोहे	NN	O
 के	PSP	O
 दरवाजे	NN	O
@@ -1507,6 +1715,8 @@
 पास	NST	O
 रहते	VM	O
 हैं	VAUX	O
+Sentiment: 1
+
 जिससे	PRP	O
 खुश	JJ	O
 हो	VM	O
@@ -1517,6 +1727,8 @@
 जवाहरात	NN	O
 दे	VM	O
 दिये	VAUX	O
+Sentiment: 1
+
 अभी	PRP	O
 यहीं	PRP	O
 बैठे	VM	O
@@ -1528,6 +1740,8 @@
 कलकत्ता	NN	O
 पहुँच	PSP	O
 जायँ	NN	O
+Sentiment: 1
+
 हामिद	NN	O
 ने	PSP	O
 फिर	RB	O
@@ -1576,6 +1790,8 @@
 में	PSP	O
 घुस	VM	O
 जाय	VAUX	O
+Sentiment: 0
+
 हामिद	XC	O
 -	SYM	O
 लोग	NN	O
@@ -1598,6 +1814,8 @@
 खुश	JJ	O
 कर	VM	O
 लूँ	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 -	SYM	O
 अब	PRP	O
@@ -1618,6 +1836,8 @@
 से	PSP	O
 जिन्नात	NN	O
 हैं	VM	O
+Sentiment: 0
+
 कोई	PRP	O
 चीज	NN	O
 चोरी	NN	O
@@ -1634,6 +1854,8 @@
 नाम	NN	O
 बता	VM	O
 देंगे	VAUX	O
+Sentiment: 0
+
 जुमराती	NN	O
 का	PSP	O
 बछवा	NN	O
@@ -1642,6 +1864,8 @@
 खो	VM	O
 गया	VAUX	O
 था	VAUX	O
+Sentiment: 0
+
 तीन	QC	O
 दिन	NN	O
 हैरान	VM	O
@@ -1657,6 +1881,8 @@
 के	PSP	O
 पास	NST	O
 गये	VM	O
+Sentiment: 0
+
 चौधरी	NNP	ENAMEX_PERSON_B
 ने	PSP	O
 तुरन्त	RB	O
@@ -1669,6 +1895,8 @@
 और	CC	O
 वहीं	PRP	O
 मिला	VM	O
+Sentiment: 0
+
 जिन्नात	NN	O
 आकर	VM	O
 उन्हें	PRP	O
@@ -1679,6 +1907,8 @@
 दे	VM	O
 जाते	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 अब	PRP	O
 उसकी	PRP	O
 समझ	NN	O
@@ -1699,18 +1929,26 @@
 इतना	QF	O
 सम्मान	NN	O
 है	VM	O
+Sentiment: 0
+
 आगे	NST	O
 चले	VM	O
+Sentiment: -1
+
 यह	DEM	O
 पुलिस	NN	O
 लाइन	NN	O
 है	VM	O
+Sentiment: 0
+
 यहीं	PRP	O
 सब	QF	O
 कानिसटिबिल	JJ	O
 कवायद	NN	O
 करते	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 रैटन	NN	O
 !	SYM	O
 फाय	NN	O
@@ -1730,6 +1968,8 @@
 चोरियाँ	VM	O
 हो	VAUX	O
 जायँ	SYM	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_PERSON_B
 ने	PSP	O
 प्रतिवाद	NN	O
@@ -1753,6 +1993,8 @@
 चोरी	NN	O
 करते	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 शहर	NN	O
 के	PSP	O
 जितने	QF	O
@@ -1766,6 +2008,8 @@
 मिले	VM	O
 रहते	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 रात	NN	O
 को	PSP	O
 ये	DEM	O
@@ -1794,6 +2038,8 @@
 '	SYM	O
 पुकारते	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 तभी	PRP	O
 इन	DEM	O
 लोगों	NN	O
@@ -1803,6 +2049,8 @@
 रूपये	NN	O
 आते	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 मेरे	PRP	O
 मामू	NN	O
 एक	QC	O
@@ -1810,6 +2058,8 @@
 में	PSP	O
 कानिसटिबिल	JJ	O
 हैं	VM	O
+Sentiment: 0
+
 बीस	QC	O
 रूपया	NN	O
 महीना	VM	O
@@ -1822,6 +2072,8 @@
 घर	NN	O
 भेजते	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 अल्ला	XC	O
 कसम	NNP	ENAMEX_LOCATION_B
 !	SYM	O
@@ -1850,6 +2102,8 @@
 अल्लाह	NN	O
 देता	VM	O
 है	VAUX	O
+Sentiment: 0
+
 फिर	RB	O
 आप	PRP	O
 ही	RP	O
@@ -1865,6 +2119,8 @@
 लाखों	QC	O
 मार	NN	O
 लायें	VM	O
+Sentiment: 0
+
 हम	PRP	O
 तो	RP	O
 इतना	QF	O
@@ -1882,6 +2138,8 @@
 न	NEG	O
 चली	VM	O
 जाय	VAUX	O
+Sentiment: -1
+
 हामिद	NN	O
 ने	PSP	O
 पूछा	VM	O
@@ -1932,6 +2190,8 @@
 खूब	JJ	O
 देता	VM	O
 है	VAUX	O
+Sentiment: 0
+
 हराम	NN	O
 का	PSP	O
 माल	NN	O
@@ -1939,6 +2199,8 @@
 में	PSP	O
 जाता	VM	O
 है	VAUX	O
+Sentiment: 0
+
 थोड़े	NN	O
 ही	RP	O
 दिन	NN	O
@@ -1951,17 +2213,23 @@
 आग	NN	O
 लग	VM	O
 गयी	VAUX	O
+Sentiment: 0
+
 सारी	QF	O
 लेई	NN	O
 -	SYM	O
 पूँजी	PRP	O
 जल	VM	O
 गयी	VAUX	O
+Sentiment: 0
+
 एक	QC	O
 बरतन	NN	O
 तक	RP	O
 न	NEG	O
 बचा	VM	O
+Sentiment: 0
+
 कई	QF	O
 दिन	NN	O
 पेड़	XC	O
@@ -1990,6 +2258,8 @@
 -	SYM	O
 भांडे	PRP	O
 आये	VM	O
+Sentiment: 0
+
 हामिद	XC	O
 -	SYM	O
 एक	QC	O
@@ -2010,6 +2280,8 @@
 कहाँ	PRP	O
 एक	QC	O
 सौ	QC	O
+Sentiment: 0
+
 पचास	QC	O
 एक	QC	O
 थैली	NN	O
@@ -2017,6 +2289,8 @@
 भर	RP	O
 होता	VM	O
 है	VAUX	O
+Sentiment: 0
+
 सौ	QC	O
 तो	RP	O
 दो	QC	O
@@ -2032,6 +2306,8 @@
 घनी	JJ	O
 होने	VM	O
 लगी	VAUX	O
+Sentiment: 0
+
 ईदगाह	NN	O
 जानेवालों	NN	O
 की	PSP	O
@@ -2039,6 +2315,8 @@
 नजर	NN	O
 आने	VM	O
 लगी	VAUX	O
+Sentiment: -1
+
 एक	QC	O
 से	PSP	O
 एक	QC	O
@@ -2046,6 +2324,8 @@
 वस्त्र	NN	O
 पहने	VM	O
 हुए	VAUX	O
+Sentiment: -1
+
 कोई	PRP	O
 इक्के	NN	O
 -	SYM	O
@@ -2067,6 +2347,8 @@
 दिलों	NN	O
 में	PSP	O
 उमंग	NN	O
+Sentiment: -1
+
 ग्रामीणों	NN	O
 का	PSP	O
 यह	DEM	O
@@ -2088,6 +2370,8 @@
 जा	VAUX	O
 रहा	VAUX	O
 था	VAUX	O
+Sentiment: -1
+
 बच्चों	NN	O
 के	PSP	O
 लिए	PSP	O
@@ -2097,6 +2381,8 @@
 चीजें	NN	O
 अनोखी	JJ	O
 थीं	VM	O
+Sentiment: -1
+
 जिस	DEM	O
 चीज	NN	O
 की	PSP	O
@@ -2121,6 +2407,8 @@
 भी	RP	O
 न	NEG	O
 चेतते	VM	O
+Sentiment: -1
+
 हामिद	NN	O
 तो	RP	O
 मोटर	NN	O
@@ -2130,10 +2418,14 @@
 -	SYM	O
 जाते	RDP	O
 बचा	VM	O
+Sentiment: -1
+
 सहसा	RB	O
 ईदगाह	NN	O
 नजर	NN	O
 आयी	VM	O
+Sentiment: -1
+
 ऊपर	NST	O
 इमली	NN	O
 के	PSP	O
@@ -2142,6 +2434,8 @@
 की	PSP	O
 छाया	VM	O
 है	VAUX	O
+Sentiment: -1
+
 नीचे	NST	O
 पक्का	NN	O
 फर्श	NN	O
@@ -2153,6 +2447,8 @@
 बिछा	VM	O
 हुआ	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 और	CC	O
 रोजेदारों	NN	O
 की	PSP	O
@@ -2180,6 +2476,8 @@
 भी	RP	O
 नहीं	NEG	O
 है	VM	O
+Sentiment: -1
+
 नये	JJ	O
 आने	VM	O
 वाले	PSP	O
@@ -2192,10 +2490,14 @@
 हो	VM	O
 जाते	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 आगे	NST	O
 जगह	NN	O
 नहीं	NEG	O
 है	VM	O
+Sentiment: -1
+
 यहाँ	NN	O
 कोई	PRP	O
 धन	NN	O
@@ -2203,6 +2505,8 @@
 पद	NN	O
 नहीं	NEG	O
 देखता	VM	O
+Sentiment: -1
+
 इस्लाम	NN	O
 की	PSP	O
 निगाह	NN	O
@@ -2210,6 +2514,8 @@
 सब	QF	O
 बराबर	JJ	O
 हैं	VM	O
+Sentiment: -1
+
 इन	DEM	O
 ग्रामीणों	NN	O
 ने	PSP	O
@@ -2223,6 +2529,8 @@
 खड़े	JJ	O
 हो	VM	O
 गये	VAUX	O
+Sentiment: -1
+
 कितना	QF	O
 सुन्दर	JJ	O
 संचालन	NN	O
@@ -2266,6 +2574,8 @@
 बैठ	VM	O
 जाते	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 कई	QF	O
 बार	RP	O
 यही	DEM	O
@@ -2293,6 +2603,8 @@
 क्रम	NN	O
 चलता	VM	O
 रहा	VAUX	O
+Sentiment: -1
+
 कितना	QF	O
 अपूर्व	JJ	O
 दृश्य	NN	O
@@ -2332,12 +2644,16 @@
 पिरोये	VM	O
 हुए	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 2
 नमाज	NN	O
 खत्म	JJ	O
 हो	VM	O
 गयी	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 लोग	NN	O
 आपस	PRP	O
 में	PSP	O
@@ -2345,6 +2661,8 @@
 मिल	VM	O
 रहे	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 तब	PRP	O
 मिठाई	NN	O
 और	CC	O
@@ -2355,6 +2673,8 @@
 धावा	NN	O
 होता	VM	O
 है	VAUX	O
+Sentiment: -1
+
 ग्रामीणों	NN	O
 का	PSP	O
 यह	DEM	O
@@ -2368,6 +2688,8 @@
 उत्साही	JJ	O
 नहीं	NEG	O
 है	VM	O
+Sentiment: -1
+
 यह	PRP	O
 देखो	VM	O
 ,	SYM	O
@@ -2378,6 +2700,8 @@
 देकर	VM	O
 चढ़	NN	O
 जाओ	VM	O
+Sentiment: -1
+
 कभी	PRP	O
 आसमान	NN	ENAMEX_LOCATION_B
 पर	PSP	O
@@ -2391,6 +2715,8 @@
 पर	PSP	O
 गिरते	VM	O
 हुए	VAUX	O
+Sentiment: -1
+
 यह	DEM	O
 चर्खी	NN	O
 है	VM	O
@@ -2408,6 +2734,8 @@
 लटके	VM	O
 हुए	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 एक	QC	O
 पैसा	NN	O
 देकर	VM	O
@@ -2419,6 +2747,8 @@
 का	PSP	O
 मजा	NN	O
 लो	VM	O
+Sentiment: -1
+
 महमूद	NN	O
 और	CC	O
 मोहसिन	NNP	ENAMEX_LOCATION_B
@@ -2433,10 +2763,14 @@
 पर	PSP	O
 बैठते	VM	O
 हैं	VAUX	O
+Sentiment: -1
+
 हामिद	NN	O
 दूर	NST	O
 खड़ा	VM	O
 है	VAUX	O
+Sentiment: -1
+
 तीन	QC	O
 ही	RP	O
 पैसे	NN	O
@@ -2444,6 +2778,8 @@
 उसके	PRP	O
 पास	NST	O
 हैं	VM	O
+Sentiment: 0
+
 अपने	PRP	O
 कोष	NN	O
 का	PSP	O
@@ -2459,14 +2795,20 @@
 नहीं	NEG	O
 दे	VM	O
 सकता	VAUX	O
+Sentiment: -1
+
 सब	QF	O
 चर्खियों	NN	O
 से	PSP	O
 उतरते	VM	O
 हैं	VAUX	O
+Sentiment: -1
+
 अब	PRP	O
 खिलौने	VM	O
 लेंगे	VAUX	O
+Sentiment: -1
+
 इधर	XC	O
 दूकानों	NN	O
 की	PSP	O
@@ -2474,6 +2816,8 @@
 लगी	VM	O
 हुई	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 तरह	NN	O
 -	SYM	O
 तरह	NN	O
@@ -2494,17 +2838,23 @@
 धोबिन	NN	O
 और	CC	O
 साधु	NN	O
+Sentiment: -1
+
 वाह	INJ	O
 !	SYM	O
 कितने	WQ	O
 सुन्दर	JJ	O
 खिलौने	VM	O
 हैं	VAUX	O
+Sentiment: -1
+
 अब	PRP	O
 बोला	VM	O
 ही	RP	O
 चाहते	VM	O
 हैं	VAUX	O
+Sentiment: -1
+
 महमूद	JJ	O
 सिपाही	NN	O
 लेता	VM	O
@@ -2533,11 +2883,15 @@
 आ	VM	O
 रहा	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 को	PSP	O
 भिश्ती	JJ	O
 पसंद	NN	O
 आया	VM	O
+Sentiment: -1
+
 कमर	NN	O
 झुकी	VM	O
 हुई	VAUX	O
@@ -2548,6 +2902,8 @@
 रखे	VM	O
 हुए	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 मशक	NN	O
 का	PSP	O
 मुँह	NN	O
@@ -2557,6 +2913,8 @@
 पकड़े	NNP	ENAMEX_LOCATION_B
 हुए	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 कितना	QF	O
 प्रसन्न	JJ	O
 है	VM	O
@@ -2567,6 +2925,8 @@
 गा	VM	O
 रहा	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 बस	XC	O
 ,	SYM	O
 मशक	NN	O
@@ -2576,12 +2936,16 @@
 ही	RP	O
 चाहता	VM	O
 है	VAUX	O
+Sentiment: -1
+
 नूरे	NN	O
 को	PSP	O
 वकील	NN	O
 से	PSP	O
 प्रेम	NN	O
 है	VM	O
+Sentiment: -1
+
 कैसी	WQ	O
 विद्वमता	NN	O
 है	VM	O
@@ -2615,6 +2979,8 @@
 पोथा	NN	O
 लिये	VM	O
 हुए	VAUX	O
+Sentiment: -1
+
 मालूम	JJ	O
 होता	VM	O
 है	VAUX	O
@@ -2631,6 +2997,8 @@
 आ	VM	O
 रहे	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 यह	PRP	O
 सब	QF	O
 दो	QC	O
@@ -2640,6 +3008,8 @@
 के	PSP	O
 खिलौने	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 हामिद	NN	O
 के	PSP	O
 पास	NST	O
@@ -2667,6 +3037,8 @@
 चूर	PRP	O
 हो	VM	O
 जाय	VAUX	O
+Sentiment: -1
+
 जरा	QF	O
 पानी	NN	O
 पड़े	NN	O
@@ -2675,6 +3047,8 @@
 रंग	NN	O
 घुल	VM	O
 जाय	VAUX	O
+Sentiment: 0
+
 ऐसे	DEM	O
 खिलौने	NN	O
 लेकर	VM	O
@@ -2700,6 +3074,8 @@
 साँझ	SYM	O
 -	SYM	O
 सबेरे	JJ	O
+Sentiment: 0
+
 महमूद	NNP	ENAMEX_LOCATION_B
 -	SYM	O
 और	CC	O
@@ -2720,6 +3096,8 @@
 फैर	VM	O
 कर	VAUX	O
 देगा	VAUX	O
+Sentiment: -1
+
 नूरे	NN	O
 -	SYM	O
 और	CC	O
@@ -2728,6 +3106,8 @@
 खूब	JJ	O
 मुकदमा	NN	O
 लड़ेगा	VM	O
+Sentiment: -1
+
 सम्मी	NN	O
 -	SYM	O
 और	CC	O
@@ -2736,6 +3116,8 @@
 रोज	NN	O
 कपड़े	JJ	O
 धोयेगी	VM	O
+Sentiment: 0
+
 हामिद	XC	O
 खिलौनों	NN	O
 की	PSP	O
@@ -2778,6 +3160,8 @@
 में	PSP	O
 ले	VM	O
 सकता	VAUX	O
+Sentiment: 0
+
 उसके	PRP	O
 हाथ	NN	ENAMEX_LIVTHINGS_B
 अनायास	NN	ENAMEX_LIVTHINGS_I
@@ -2799,17 +3183,23 @@
 नया	JJ	O
 शौक	NN	O
 है	VM	O
+Sentiment: 0
+
 हामिद	NN	O
 ललचाता	VM	O
 रह	VAUX	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 खिलौने	NN	O
 के	PSP	O
 बाद	NST	O
 मिठाइयाँ	VM	O
 आती	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 किसी	PRP	O
 ने	PSP	O
 रेवड़ियाँ	NN	O
@@ -2823,22 +3213,30 @@
 ने	PSP	O
 सोहन	XC	O
 हलवा	NN	O
+Sentiment: -1
+
 मजे	NN	O
 से	PSP	O
 खा	VM	O
 रहे	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 हामिद	XC	O
 बिरादरी	NNP	ENAMEX_LOCATION_B
 से	PSP	O
 पृथक	JJ	O
 है	VM	O
+Sentiment: 0
+
 अभागे	JJ	O
 के	PSP	O
 पास	NST	O
 तीन	QC	O
 पैसे	NN	O
 हैं	VM	O
+Sentiment: 0
+
 क्यों	WQ	O
 नहीं	NEG	O
 कुछ	QF	O
@@ -2852,6 +3250,8 @@
 ओर	NST	O
 देखता	VM	O
 है	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 कहता	VM	O
 है	VAUX	O
@@ -2892,6 +3292,8 @@
 पास	NST	O
 जाता	VM	O
 है	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 दोने	NN	O
 से	PSP	O
@@ -2903,34 +3305,44 @@
 ओर	NST	O
 बढ़ाता	NNP	ENAMEX_LOCATION_B
 है	VM	O
+Sentiment: -1
+
 हामिद	XC	O
 हाथ	NN	ENAMEX_LIVTHINGS_B
 फैलाता	VM	O
 है	VAUX	O
+Sentiment: 0
+
 मोहसिन	XC	O
 रेवड़ी	NNP	ENAMEX_LOCATION_B
-अपने	RDP	O
+अपने	PRP	O
 मुँह	NN	O
 में	PSP	O
 रख	VM	O
 लेता	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 महमूद	NNP	ENAMEX_LOCATION_B
 ,	SYM	O
 नूरे	NN	O
 और	CC	O
 सम्मी	NN	O
-खूब	JJ	O
-तालियाँ	NN	O
+खूब	INTF	O
+तालियाँ	JJ	O
 बजा	VM	O
 -	SYM	O
 बजाकर	PRP	O
 हँसते	NN	O
 हैं	VM	O
+Sentiment: 0
+
 हामिद	NN	O
 खिसिया	VM	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 -	SYM	O
 अच्छा	INJ	O
@@ -2945,10 +3357,14 @@
 ,	SYM	O
 ले	VM	O
 जाव	VAUX	O
+Sentiment: 0
+
 हामिद	XC	O
 -	SYM	O
 रखे	VM	O
 रहो	VAUX	O
+Sentiment: -1
+
 क्या	WQ	O
 मेरे	PRP	O
 पास	NST	O
@@ -2964,6 +3380,8 @@
 पैसे	NN	O
 तो	RP	O
 हैं	VM	O
+Sentiment: 0
+
 तीन	QC	O
 पैसे	NN	O
 में	PSP	O
@@ -2980,9 +3398,13 @@
 ले	VM	O
 जाव	VAUX	O
 हामिद	NN	O
+Sentiment: 0
+
 मोहमिन	JJ	O
 बदमाश	NN	O
 है	VM	O
+Sentiment: -1
+
 हामिद	XC	O
 -	SYM	O
 मिठाई	NN	O
@@ -2990,6 +3412,8 @@
 बड़ी	JJ	O
 नेमत	NN	O
 है	VM	O
+Sentiment: 0
+
 किताब	NN	O
 में	PSP	O
 इसकी	PRP	O
@@ -2997,6 +3421,8 @@
 बुराइयाँ	JJ	O
 लिखी	VM	O
 हैं	VAUX	O
+Sentiment: 1
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 -	SYM	O
 लेकिन	CC	O
@@ -3010,6 +3436,8 @@
 तो	RP	O
 खा	VM	O
 लें	VAUX	O
+Sentiment: 0
+
 अपने	PRP	O
 पैसे	NN	O
 क्यों	WQ	O
@@ -3025,6 +3453,8 @@
 ,	SYM	O
 इसकी	PRP	O
 चालाकी	NN	O
+Sentiment: 0
+
 जब	PRP	O
 हमारे	PRP	O
 सारे	QF	O
@@ -3039,6 +3469,8 @@
 -	SYM	O
 ललचाकर	PRP	O
 खायगा	NN	O
+Sentiment: 0
+
 मिठाइयों	NN	O
 के	PSP	O
 बाद	NST	O
@@ -3056,6 +3488,8 @@
 नकली	JJ	O
 गहनों	NN	O
 की	PSP	O
+Sentiment: -1
+
 लड़कों	NN	O
 के	PSP	O
 लिए	PSP	O
@@ -3064,6 +3498,8 @@
 आकर्षण	NN	O
 न	NEG	O
 था	VM	O
+Sentiment: -1
+
 वे	PRP	O
 सब	QF	O
 आगे	NST	O
@@ -3079,11 +3515,15 @@
 रूक	VM	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 कई	QF	O
 चिमटे	NN	O
 रखे	VM	O
 हुए	VAUX	O
 थे	VAUX	O
+Sentiment: -1
+
 उसे	PRP	O
 खयाल	NN	O
 आया	VM	O
@@ -3094,6 +3534,8 @@
 चिमटा	NN	O
 नहीं	NEG	O
 है	VM	O
+Sentiment: -1
+
 तवे	NN	O
 से	PSP	O
 रोटियाँ	NN	O
@@ -3105,6 +3547,8 @@
 जल	VM	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 अगर	CC	O
 वह	PRP	O
 चिमटा	NN	O
@@ -3126,6 +3570,8 @@
 कभी	PRP	O
 न	NEG	O
 जलेंगी	VM	O
+Sentiment: -1
+
 घर	NN	O
 में	PSP	O
 एक	QC	O
@@ -3134,6 +3580,8 @@
 चीज	NN	O
 हो	VM	O
 जायगी	VAUX	O
+Sentiment: -1
+
 खिलौने	NN	O
 से	PSP	O
 क्या	WQ	O
@@ -3145,6 +3593,8 @@
 खराब	JJ	O
 होते	VM	O
 हैं	VAUX	O
+Sentiment: -1
+
 जरा	QF	O
 देर	NN	O
 ही	RP	O
@@ -3152,6 +3602,8 @@
 खुशी	NN	O
 होती	VM	O
 है	VAUX	O
+Sentiment: 0
+
 फिर	RB	O
 तो	RP	O
 खिलौने	NN	O
@@ -3161,6 +3613,8 @@
 उठाकर	VM	O
 नहीं	NEG	O
 देखता	VM	O
+Sentiment: -1
+
 यह	PRP	O
 तो	RP	O
 घर	NN	O
@@ -3190,12 +3644,16 @@
 और	CC	O
 तोड़	NNP	ENAMEX_LOCATION_B
 डालेंगे	VM	O
+Sentiment: -1
+
 चिमटा	NN	O
 कितने	WQ	O
 काम	NN	O
 की	PSP	O
 चीज	NN	O
 है	VM	O
+Sentiment: 0
+
 रोटियाँ	NN	O
 तवे	NN	O
 से	PSP	O
@@ -3206,6 +3664,8 @@
 में	PSP	O
 सेंक	VM	O
 लो	VAUX	O
+Sentiment: -1
+
 कोई	PRP	O
 आग	NN	O
 माँगने	PSP	O
@@ -3219,6 +3679,8 @@
 उसे	PRP	O
 दे	VM	O
 दो	VAUX	O
+Sentiment: -1
+
 अम्माँ	NN	O
 बेचारी	NN	O
 को	PSP	O
@@ -3241,6 +3703,8 @@
 जला	VM	O
 लेती	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 हामिद	NN	O
 के	PSP	O
 साथी	NN	O
@@ -3248,6 +3712,8 @@
 बढ़	NNP	ENAMEX_LOCATION_B
 गये	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 सबील	NN	O
 पर	PSP	O
 सब	QF	O
@@ -3259,12 +3725,16 @@
 पी	VM	O
 रहे	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 देखो	VM	O
 ,	SYM	O
 सब	PRP	O
 कितने	WQ	O
 लालची	JJ	O
 हैं	VM	O
+Sentiment: 0
+
 इतनी	QF	O
 मिठाइयाँ	NN	O
 लीं	VM	O
@@ -3276,6 +3746,8 @@
 भी	RP	O
 न	NEG	O
 दी	VM	O
+Sentiment: 0
+
 उस	DEM	O
 पर	PSP	O
 कहते	VM	O
@@ -3284,10 +3756,14 @@
 मेरे	PRP	O
 साथ	NST	O
 खेलो	VM	O
+Sentiment: 0
+
 मेरा	PRP	O
 यह	DEM	O
 काम	NN	O
 करो	VM	O
+Sentiment: 0
+
 अब	PRP	O
 अगर	CC	O
 किसी	PRP	O
@@ -3300,6 +3776,8 @@
 ,	SYM	O
 तो	CC	O
 पूछूँगा	NN	O
+Sentiment: -1
+
 खायें	NN	O
 मिठाइयाँ	PSP	O
 ,	SYM	O
@@ -3318,6 +3796,8 @@
 चटोरी	JJ	O
 हो	VM	O
 जायगी	VAUX	O
+Sentiment: 0
+
 तब	PRP	O
 घर	NN	O
 से	PSP	O
@@ -3326,6 +3806,8 @@
 और	CC	O
 मार	NN	O
 खायेंगे	VM	O
+Sentiment: 0
+
 किताब	NN	O
 में	PSP	O
 झूठी	JJ	O
@@ -3334,6 +3816,8 @@
 ही	RP	O
 लिखी	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 मेरी	PRP	O
 जबान	NN	O
 क्यों	WQ	O
@@ -3361,10 +3845,14 @@
 चिमटा	NN	O
 लाया	VM	O
 है	VAUX	O
+Sentiment: 0
+
 कितना	QF	O
 अच्छा	XC	O
 लड़का	NNP	ENAMEX_LOCATION_B
 है	VM	O
+Sentiment: 0
+
 इन	DEM	O
 लोगों	NN	O
 के	PSP	O
@@ -3391,11 +3879,15 @@
 सुनी	VM	O
 जाती	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 मेरे	PRP	O
 पास	NST	O
 पैसे	NN	O
 नहीं	NEG	O
 हैं	VM	O
+Sentiment: 0
+
 तभी	PRP	O
 तो	RP	O
 मोहसिन	NNP	ENAMEX_LOCATION_B
@@ -3405,16 +3897,22 @@
 मिजाज	NN	O
 दिखाते	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 मैं	PRP	O
 भी	RP	O
 इनसे	PRP	O
 मिजाज	NN	O
 दिखाऊँगा	PSP	O
+Sentiment: 0
+
 खेलें	NN	O
 खिलौने	VM	O
 और	CC	O
 खायें	NN	O
 मिठाइयाँ	PSP	O
+Sentiment: 0
+
 मै	PRP	O
 नहीं	NEG	O
 खेलता	VM	O
@@ -3432,21 +3930,27 @@
 ,	SYM	O
 किसी	PRP	O
 से	PSP	O
-कुछ	QF	O
+कुछ	PRP	O
 माँगने	NN	O
 तो	RP	O
 नहीं	NEG	O
 जाता	VAUX	O
+Sentiment: 0
+
 आखिर	RB	O
 अब्बाजान	JJ	O
 कभीं	NN	O
 न	NEG	O
 कभी	PRP	O
 आयेंगे	VM	O
+Sentiment: 0
+
 अम्मा	NNP	ENAMEX_LOCATION_B
 भी	RP	O
 आयेंगी	VM	O
 ही	RP	O
+Sentiment: 0
+
 फिर	RB	O
 इन	DEM	O
 लोगों	NN	O
@@ -3478,6 +3982,8 @@
 किया	VM	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 यह	PRP	O
 नहीं	NEG	O
 कि	CC	O
@@ -3493,21 +3999,27 @@
 चिढ़ाकर	VM	O
 खाने	VM	O
 लगे	VAUX	O
+Sentiment: 0
+
 सबके	PRP	O
 सब	QF	O
-खूब	JJ	O
-हँसेंगे	NN	O
+खूब	INTF	O
+हँसेंगे	JJ	O
 कि	CC	O
 हामिद	NN	O
 ने	PSP	O
 चिमटा	NN	O
 लिया	VM	O
 है	VAUX	O
+Sentiment: 0
+
 हँसें	NN	O
 !	SYM	O
 मेरी	PRP	O
 बला	NN	O
 से	PSP	O
+Sentiment: 0
+
 उसने	PRP	O
 दुकानदार	NN	O
 से	PSP	O
@@ -3584,6 +4096,8 @@
 :	SYM	O
 पैसे	NN	O
 लगेंगे	VM	O
+Sentiment: 0
+
 '	SYM	O
 
 हामिद	PRP	O
@@ -3591,6 +4105,8 @@
 दिल	NN	O
 बैठ	VM	O
 गया	VAUX	O
+Sentiment: -1
+
 '	SYM	O
 ठीक	JJ	O
 -	SYM	O
@@ -3606,6 +4122,8 @@
 नहीं	NEG	O
 चलते	VM	O
 बनो	VAUX	O
+Sentiment: 0
+
 '	SYM	O
 
 हामिद	PRP	O
@@ -3633,16 +4151,22 @@
 घुड़कियाँ	NN	O
 न	NEG	O
 सुने	VM	O
+Sentiment: 0
+
 लेकिन	CC	O
 दुकानदार	NN	O
 ने	PSP	O
 घुड़कियाँ	NN	O
 नहीं	NEG	O
 दी	VM	O
+Sentiment: 0
+
 बुलाकर	VM	O
 चिमटा	NN	O
 दे	VM	O
 दिया	VAUX	O
+Sentiment: 0
+
 हामिद	NN	O
 ने	PSP	O
 उसे	PRP	O
@@ -3664,6 +4188,8 @@
 के	PSP	O
 पास	NST	O
 आया	VM	O
+Sentiment: -1
+
 जरा	QF	O
 सुनें	VM	O
 ,	SYM	O
@@ -3709,6 +4235,8 @@
 पर	PSP	O
 गिरा	VM	O
 दो	VAUX	O
+Sentiment: 0
+
 सारी	QF	O
 पसलियाँ	NN	O
 चूर	PSP	O
@@ -3718,6 +4246,8 @@
 जायँ	VAUX	O
 बच्चू	NN	O
 की	PSP	O
+Sentiment: 0
+
 महमूद	NN	O
 बोला	VM	O
 -	SYM	O
@@ -3744,6 +4274,8 @@
 बंदूक	NN	O
 हो	VM	O
 गयी	VAUX	O
+Sentiment: -1
+
 हाथ	NN	ENAMEX_LIVTHINGS_B
 में	PSP	O
 ले	VM	O
@@ -3754,6 +4286,8 @@
 चिमटा	NN	O
 हो	VM	O
 गया	VAUX	O
+Sentiment: -1
+
 चाहूँ	NN	O
 तो	RP	O
 इससे	PRP	O
@@ -3763,6 +4297,8 @@
 ले	VM	O
 सकता	VAUX	O
 हूँ	SYM	O
+Sentiment: -1
+
 एक	QC	O
 चिमटा	NN	O
 जमा	VM	O
@@ -3778,6 +4314,8 @@
 जान	NN	O
 निकल	VM	O
 जाय	VAUX	O
+Sentiment: -1
+
 तुम्हारे	PRP	O
 खिलौने	PSP:?	O
 कितना	QF	O
@@ -3794,16 +4332,22 @@
 नही	NEG	O
 कर	VM	O
 सकते	VAUX	O
+Sentiment: -1
+
 मेरा	PRP	O
 बहादुर	JJ	O
 शेर	NN	O
 है	VM	O
 चिमटा	NN	O
+Sentiment: 0
+
 सम्मी	NN	O
 ने	PSP	O
 खँजरी	NN	O
 ली	VM	O
 थी	VAUX	O
+Sentiment: -1
+
 प्रभावित	JJ	O
 होकर	VM	O
 बोला	XC	O
@@ -3817,6 +4361,8 @@
 आने	VM	O
 की	PSP	O
 है	VM	O
+Sentiment: -1
+
 हामिद	NN	O
 ने	PSP	O
 खँजरी	NN	O
@@ -3836,6 +4382,8 @@
 पेट	NN	O
 फाड़	NNP	ENAMEX_LOCATION_B
 डाले	VM	O
+Sentiment: -1
+
 बस	XC	O
 ,	SYM	O
 एक	XC	O
@@ -3850,6 +4398,8 @@
 ढब	PRP	O
 बोलने	VM	O
 लगी	VAUX	O
+Sentiment: -1
+
 जरा	QF	O
 -	SYM	O
 सा	RP	O
@@ -3860,6 +4410,8 @@
 खत्म	JJ	O
 हो	VM	O
 जाय	VAUX	O
+Sentiment: -1
+
 मेरा	PRP	O
 बहादुर	JJ	O
 चिमटा	NN	O
@@ -3878,6 +4430,8 @@
 डटा	VM	O
 खड़ा	XC	O
 रहेगा	NNP	ENAMEX_LOCATION_B
+Sentiment: -1
+
 चिमटे	NN	O
 ने	PSP	O
 सभी	QF	O
@@ -3912,6 +4466,8 @@
 हो	VM	O
 रही	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 घर	NN	O
 पहुँचने	PSP	O
 की	PSP	O
@@ -3919,6 +4475,8 @@
 हो	VM	O
 रही	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 बाप	NN	O
 से	PSP	O
 जिद	NN	O
@@ -3930,10 +4488,14 @@
 नहीं	NEG	O
 मिल	VM	O
 सकता	VAUX	O
+Sentiment: -1
+
 हामिद	NN	O
 है	VM	O
 बड़ा	XC	O
 चालाक	NN	O
+Sentiment: 0
+
 इसीलिए	CC	O
 बदमाश	NN	O
 ने	PSP	O
@@ -3942,6 +4504,8 @@
 बचा	VM	O
 रखे	VAUX	O
 थे	VAUX	O
+Sentiment: -1
+
 अब	PRP	O
 बालकों	NN	O
 के	PSP	O
@@ -3950,6 +4514,8 @@
 हो	VM	O
 गये	VAUX	O
 हैं	VAUX	O
+Sentiment: -1
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 ,	SYM	O
 मह्मूद	NN	O
@@ -3965,10 +4531,14 @@
 अकेला	JJ	O
 दूसरी	QO	O
 तरफ	NST	O
+Sentiment: 0
+
 शास्त्रार्थ	NN	O
 हो	VM	O
 रहा	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 सम्मी	NN	O
 तो	RP	O
 विधर्मी	NN	O
@@ -4010,6 +4580,8 @@
 हो	VM	O
 उठे	VAUX	O
 हैं	VAUX	O
+Sentiment: 0
+
 उसके	PRP	O
 पास	NST	O
 न्याय	NN	O
@@ -4020,6 +4592,8 @@
 नीति	NN	O
 की	PSP	O
 शक्ति	NN	O
+Sentiment: 0
+
 एक	QC	O
 ओर	NST	O
 मिट्टी	NN	O
@@ -4038,12 +4612,16 @@
 कह	VM	O
 रहा	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 वह	PRP	O
 अजेय	JJ	O
 है	VM	O
 ,	SYM	O
 घातक	JJ	O
 है	VM	O
+Sentiment: 0
+
 अगर	CC	O
 कोई	PRP	O
 शेर	NN	O
@@ -4080,6 +4658,8 @@
 पर	PSP	O
 लेट	VM	O
 जायँ	VAUX	O
+Sentiment: 0
+
 मगर	CC	O
 यह	DEM	O
 चिमटा	NN	O
@@ -4087,7 +4667,7 @@
 यह	PRP	O
 बहादुर	JJ	O
 ,	SYM	O
-यह	DEM	O
+यह	PRP	O
 रूस्तमे	NN	O
 -	SYM	O
 हिंद	PRP	O
@@ -4104,6 +4684,8 @@
 आँखें	NN	O
 निकाल	VM	O
 लेगा	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_PERSON_B
 ने	PSP	O
 एड़ी	NN	O
@@ -4148,6 +4730,8 @@
 पर	PSP	O
 छिड़कने	VM	O
 लगेगा	VAUX	O
+Sentiment: -1
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 परास्त	JJ	O
 हो	VM	O
@@ -4170,6 +4754,8 @@
 -	SYM	O
 बँधे	PRP	O
 फिरेंगे	VAUX	O
+Sentiment: 0
+
 तब	PRP	O
 तो	RP	O
 वकील	NN	O
@@ -4177,6 +4763,8 @@
 के	PSP	O
 पैरों	NN	O
 पड़ेंगे	VM	O
+Sentiment: -1
+
 हामिद	NN	O
 इस	DEM	O
 प्रबल	JJ	O
@@ -4186,6 +4774,8 @@
 न	NEG	O
 दे	VM	O
 सका	VAUX	O
+Sentiment: 0
+
 उसने	PRP	O
 पूछा	VM	O
 -	SYM	O
@@ -4203,6 +4793,8 @@
 यह	DEM	O
 सिपाही	NN	O
 बंदूकवाला	VM	O
+Sentiment: 0
+
 हामिद	NN	O
 ने	PSP	O
 मुँह	NN	O
@@ -4227,12 +4819,16 @@
 कुश्ती	NN	O
 हो	VM	O
 जाय	VAUX	O
+Sentiment: 0
+
 इसकी	PRP	O
 सूरत	NN	O
 देखकर	VM	O
 दूर	NST	O
 से	PSP	O
 भागेंगे	VM	O
+Sentiment: -1
+
 पकड़ेंगे	VM	O
 क्या	WQ	O
 बेचारे	JJ	O
@@ -4254,6 +4850,8 @@
 आग	NN	O
 में	PSP	O
 जलेगा	VM	O
+Sentiment: 0
+
 उसने	PRP	O
 समझा	VM	O
 था	VAUX	O
@@ -4268,6 +4866,8 @@
 बात	NN	O
 न	NEG	O
 हुई	VM	O
+Sentiment: 0
+
 हामिद	NN	O
 ने	PSP	O
 तुरंत	RB	O
@@ -4296,6 +4896,8 @@
 में	PSP	O
 घुस	VM	O
 जायेंगे	VAUX	O
+Sentiment: 0
+
 आग	NN	O
 में	PSP	O
 कूदना	VM	O
@@ -4304,7 +4906,7 @@
 है	VM	O
 ,	SYM	O
 जो	PRP	O
-यह	DEM	O
+यह	PRP	O
 रूस्तमे	NN	O
 -	SYM	O
 हिन्द	PRP	O
@@ -4312,6 +4914,8 @@
 कर	VM	O
 सकता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 महमूद	NN	O
 ने	PSP	O
 एक	QC	O
@@ -4335,6 +4939,8 @@
 पर	PSP	O
 पड़ा	XC	O
 रहेगा	NNP	ENAMEX_LOCATION_B
+Sentiment: 0
+
 इस	DEM	O
 तर्क	NN	O
 ने	PSP	O
@@ -4391,6 +4997,8 @@
 में	PSP	O
 नही	NEG	O
 रहेगा	VM	O
+Sentiment: -1
+
 वकील	NN	O
 साहब	RP	O
 कुर्सी	NN	O
@@ -4412,10 +5020,14 @@
 में	PSP	O
 डाल	VM	O
 देगा	VAUX	O
+Sentiment: -1
+
 बात	NN	O
 कुछ	QF	O
 बनी	VM	O
 नहीं	NEG	O
+Sentiment: -1
+
 खासी	RDP	O
 गाली	NN	O
 -	SYM	O
@@ -4432,6 +5044,8 @@
 बात	NN	O
 छा	VM	O
 गयी	VAUX	O
+Sentiment: 1
+
 ऐसी	PRP	O
 छा	VM	O
 गयी	VAUX	O
@@ -4453,6 +5067,8 @@
 काट	VM	O
 गया	VAUX	O
 हो	VAUX	O
+Sentiment: 1
+
 कानून	NN	O
 मुँह	PSP	O
 से	PSP	O
@@ -4461,6 +5077,8 @@
 वाली	PSP	O
 चीज	NN	O
 है	VM	O
+Sentiment: 1
+
 उसको	PRP	O
 पेट	NN	O
 के	PSP	O
@@ -4479,17 +5097,23 @@
 नयापन	NN	O
 रखती	VM	O
 है	VAUX	O
+Sentiment: -1
+
 हामिद	NN	O
 ने	PSP	O
 मैदान	NN	O
 मार	VM	O
 लिया	VAUX	O
+Sentiment: -1
+
 उसका	PRP	O
 चिमटा	NN	O
 रूस्तमे	PSP	O
 -	SYM	O
 हिन्द	PRP	O
 है	VM	O
+Sentiment: 0
+
 अब	PRP	O
 इसमें	PRP	O
 मोहसिन	NNP	ENAMEX_LOCATION_B
@@ -4505,6 +5129,8 @@
 नहीं	NEG	O
 हो	VM	O
 सकती	VAUX	O
+Sentiment: 0
+
 विजेता	NN	O
 को	PSP	O
 हारनेवालों	NN	O
@@ -4520,6 +5146,8 @@
 को	PSP	O
 भी	RP	O
 मिला	VM	O
+Sentiment: 0
+
 औरों	NN	O
 ने	PSP	O
 तीन	QC	O
@@ -4542,6 +5170,8 @@
 न	NEG	O
 ले	VM	O
 सके	VAUX	O
+Sentiment: 0
+
 हामिद	NN	O
 ने	PSP	O
 तीन	QC	O
@@ -4550,6 +5180,8 @@
 रंग	NN	O
 जमा	VM	O
 लिया	VAUX	O
+Sentiment: 0
+
 सच	NN	O
 ही	RP	O
 तो	RP	O
@@ -4564,6 +5196,8 @@
 -	SYM	O
 फूट	VM	O
 जायँगे	VAUX	O
+Sentiment: 0
+
 हामिद	NN	O
 का	PSP	O
 चिमटा	NN	O
@@ -4579,6 +5213,8 @@
 तय	JJ	O
 होने	VM	O
 लगीं	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_PERSON_B
 ने	PSP	O
 कहा	VM	O
@@ -4591,11 +5227,15 @@
 हम	PRP	O
 भी	RP	O
 देखें	VM	O
+Sentiment: 0
+
 तुम	PRP	O
 हमारा	PRP	O
 भिश्ती	NN	O
 लेकर	VM	O
 देखो	VAUX	O
+Sentiment: 0
+
 महमूद	NN	O
 और	CC	O
 नूरे	NN	O
@@ -4607,6 +5247,8 @@
 खिलौने	NN	O
 पेश	JJ	O
 किये	VM	O
+Sentiment: -1
+
 हामिद	NN	O
 को	PSP	O
 इन	DEM	O
@@ -4618,6 +5260,8 @@
 आपत्ति	NN	O
 न	NEG	O
 थी	VM	O
+Sentiment: 0
+
 चिमटा	NN	O
 बारी	NN	O
 -	SYM	O
@@ -4640,10 +5284,14 @@
 हाथ	NN	ENAMEX_LIVTHINGS_B
 में	PSP	O
 आये	VM	O
+Sentiment: -1
+
 कितने	WQ	O
 खूबसूरत	JJ	O
 खिलौने	VM	O
 हैं	VAUX	O
+Sentiment: 0
+
 हामिद	NN	O
 ने	PSP	O
 हारने	VM	O
@@ -4680,6 +5328,8 @@
 ,	SYM	O
 अब	PRP	O
 बोले	VM	O
+Sentiment: 0
+
 लेकिन	CC	O
 मोहसिन	NNP	ENAMEX_LOCATION_B
 की	PSP	O
@@ -4691,6 +5341,8 @@
 संतोष	NN	O
 नहीं	NEG	O
 होता	VM	O
+Sentiment: 0
+
 चिमटे	NN	O
 का	PSP	O
 सिक्का	NN	O
@@ -4698,6 +5350,8 @@
 बैठ	VM	O
 गया	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 चिपका	VM	O
 हुआ	VAUX	O
 टिकट	NN	O
@@ -4708,6 +5362,8 @@
 छूट	VM	O
 रहा	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 -	SYM	O
 लेकिन	CC	O
@@ -4730,10 +5386,14 @@
 लिये	VM	O
 फिरते	VAUX	O
 हो	VAUX	O
+Sentiment: 0
+
 उल्टे	RDP	O
 मार	NN	O
 न	NEG	O
 पड़े	NN	O
+Sentiment: -1
+
 अम्माँ	NN	O
 जरूर	RB	O
 कहेंगी	VM	O
@@ -4770,6 +5430,8 @@
 को	PSP	O
 देखकर	VM	O
 होंगी	VAUX	O
+Sentiment: 1
+
 तीन	QC	O
 पैसों	NN	O
 ही	RP	O
@@ -4793,6 +5455,8 @@
 जरूरत	NN	O
 न	NEG	O
 थी	VM	O
+Sentiment: 1
+
 फिर	RB	O
 अब	PRP	O
 तो	RP	O
@@ -4806,12 +5470,16 @@
 खिलौनों	NN	O
 का	PSP	O
 बादशाह	NN	O
+Sentiment: 0
+
 रास्ते	NN	O
 में	PSP	O
 महमूद	NN	O
 को	PSP	O
 भूख	NN	O
 लगी	VM	O
+Sentiment: 0
+
 उसके	PRP	O
 बाप	NN	O
 ने	PSP	O
@@ -4819,6 +5487,8 @@
 खाने	VM	O
 को	PSP	O
 दिये	VM	O
+Sentiment: 0
+
 महमूद	NN	O
 ने	PSP	O
 केवल	RP	O
@@ -4826,6 +5496,8 @@
 को	PSP	O
 साझी	JJ	O
 बनाया	VM	O
+Sentiment: 0
+
 उसके	PRP	O
 अन्य	JJ	O
 मित्र	NN	O
@@ -4833,12 +5505,16 @@
 ताकते	VM	O
 रह	VAUX	O
 गये	VAUX	O
+Sentiment: 0
+
 यह	PRP	O
 उस	DEM	O
 चिमटे	NN	O
 का	PSP	O
 प्रसाद	NN	O
 था	VM	O
+Sentiment: -1
+
 3
 ग्यारह	NN	O
 बजे	RP:?	O
@@ -4847,9 +5523,13 @@
 हलचल	JJ	O
 मच	VM	O
 गयी	VAUX	O
+Sentiment: 0
+
 मेलेवाले	NN	O
 आ	VM	O
 गये	VAUX	O
+Sentiment: 0
+
 मोहसिन	NNP	ENAMEX_LOCATION_B
 की	PSP	O
 छोटी	JJ	O
@@ -4878,6 +5558,8 @@
 और	CC	O
 सुरलोक	JJ	O
 सिधारे	VM	O
+Sentiment: 0
+
 इस	DEM	O
 पर	PSP	O
 भाई	NN	O
@@ -4888,9 +5570,13 @@
 -	SYM	O
 पीट	VM	O
 हुई	VAUX	O
+Sentiment: 0
+
 दानों	NN	O
 खुब	VM	O
 रोये	XC	O
+Sentiment: 0
+
 उनकी	PRP	O
 अम्माँ	NN	O
 यह	DEM	O
@@ -4908,6 +5594,8 @@
 चाँटे	NN	O
 और	CC	O
 लगाये	VM	O
+Sentiment: 0
+
 मियाँ	NN	O
 नूरे	NN	O
 के	PSP	O
@@ -4920,6 +5608,8 @@
 ज्यादा	QF	O
 गौरवमय	NN	O
 हुआ	VM	O
+Sentiment: -1
+
 वकील	NN	O
 जमीन	NN	O
 पर	PSP	O
@@ -4930,6 +5620,8 @@
 नहीं	NEG	O
 बैठ	VM	O
 सकता	VAUX	O
+Sentiment: -1
+
 उसकी	PRP	O
 मर्यादा	NN	O
 का	PSP	O
@@ -4938,11 +5630,15 @@
 करना	VM	O
 ही	RP	O
 होगा	VM	O
+Sentiment: -1
+
 दीवार	NN	O
 में	PSP	O
 खूँटियाँ	NN	O
 गाड़ी	NNP	ENAMEX_LOCATION_B
 गयी	VAUX	O
+Sentiment: -1
+
 उन	DEM	O
 पर	PSP	O
 लकड़ी	NN	O
@@ -4951,6 +5647,8 @@
 पटरा	NN	O
 रखा	VM	O
 गया	VAUX	O
+Sentiment: -1
+
 पटरे	NN	O
 पर	PSP	O
 कागज	NN	O
@@ -4958,6 +5656,8 @@
 कालीन	NN	O
 बिछाया	VM	O
 गया	VAUX	O
+Sentiment: -1
+
 वकील	NN	O
 साहब	RP	O
 राजा	XC	O
@@ -4967,6 +5667,8 @@
 सिंहासन	NN	O
 पर	PSP	O
 विराजे	XC	O
+Sentiment: -1
+
 नूरे	NN	O
 ने	PSP	O
 उन्हें	PRP	O
@@ -4974,6 +5676,8 @@
 झलना	VM	O
 शुरू	NN	O
 किया	VM	O
+Sentiment: -1
+
 अदालतों	NN	O
 में	PSP	O
 खस	NN	O
@@ -4985,6 +5689,8 @@
 पंखे	NN	O
 रहते	VM	O
 हैं	VAUX	O
+Sentiment: -1
+
 क्या	WQ	O
 यहाँ	VM	O
 मामूली	JJ	O
@@ -5012,6 +5718,8 @@
 हवा	NN	O
 करने	VM	O
 लगे	VAUX	O
+Sentiment: -1
+
 मालूम	JJ	O
 नहीं	NEG	O
 ,	SYM	O
@@ -5060,11 +5768,15 @@
 डाल	VM	O
 दी	VAUX	O
 गयी	VAUX	O
+Sentiment: -1
+
 अब	PRP	O
 रहा	VM	O
 महमूद	NN	O
 का	PSP	O
 सिपाही	NN	O
+Sentiment: -1
+
 उसे	PRP	O
 चटपट	JJ	O
 गाँव	NN	O
@@ -5090,10 +5802,14 @@
 अपने	PRP	O
 पैरों	NN	O
 चलें	VM	O
+Sentiment: -1
+
 वह	PRP	O
 पालकी	NN	O
 पर	PSP	O
 चलेगा	VM	O
+Sentiment: -1
+
 एक	QC	O
 टोकरी	NN	O
 आयी	VM	O
@@ -5116,6 +5832,8 @@
 आराम	NN	O
 से	PSP	O
 लेटे	VM	O
+Sentiment: -1
+
 नूरे	NN	O
 ने	PSP	O
 यह	DEM	O
@@ -5128,6 +5846,8 @@
 चक्कर	NN	O
 लगाने	VM	O
 लगे	VAUX	O
+Sentiment: -1
+
 उनके	PRP	O
 दोनों	NN	O
 छोटे	JJ	O
@@ -5144,6 +5864,8 @@
 पुकारते	VM	O
 चलते	VM	O
 हैं	VAUX	O
+Sentiment: -1
+
 मगर	CC	O
 रात	NN	O
 तो	CC	O
@@ -5151,12 +5873,16 @@
 ही	RP	O
 होनी	VM	O
 चाहिये	VAUX	O
+Sentiment: -1
+
 महमूद	NN	O
 को	PSP	O
 ठोकर	NN	O
 लग	VM	O
 जाती	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 टोकरी	NN	O
 उसके	PRP	O
 हाथ	NN	ENAMEX_LIVTHINGS_B
@@ -5185,6 +5911,8 @@
 आ	VM	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 महमूद	NN	O
 को	PSP	O
 आज	NN	O
@@ -5195,6 +5923,8 @@
 अच्छा	JJ	O
 डाक्टर	NN	O
 है	VM	O
+Sentiment: -1
+
 उसको	PRP	O
 ऐसा	DEM	O
 मरहम	NN	O
@@ -5212,21 +5942,29 @@
 जोड़	NNP	ENAMEX_LOCATION_B
 सकता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 केवल	RB	O
 गूलर	NN	O
 का	PSP	O
 दूध	NN	O
 चाहिए	VM	O
+Sentiment: 0
+
 गूलर	NN	O
 का	PSP	O
 दूध	NN	O
 आता	VM	O
 है	VAUX	O
+Sentiment: -1
+
 टाँग	NN	O
 जवाब	NN	O
 दे	VM	O
 देती	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 शल्य	NN	O
 -	SYM	O
 क्रिया	NN	O
@@ -5235,13 +5973,15 @@
 ,	SYM	O
 तब	PRP	O
 उसकी	PRP	O
-दूसरी	JJ	O
+दूसरी	QO	O
 टाँग	NN	O
 भी	RP	O
 तोड़	NNP	ENAMEX_LOCATION_B
 दी	VM	O
 जाती	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 अब	PRP	O
 कम	QF	O
 -	SYM	O
@@ -5256,6 +5996,8 @@
 तो	RP	O
 सकता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 एक	QC	O
 टाँग	NN	O
 से	PSP	O
@@ -5269,6 +6011,8 @@
 बैठ	VM	O
 सकता	VAUX	O
 था	VAUX	O
+Sentiment: -1
+
 अब	PRP	O
 वह	PRP	O
 सिपाही	NN	O
@@ -5276,6 +6020,8 @@
 हो	VM	O
 गया	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 अपनी	PRP	O
 जगह	NN	O
 पर	PSP	O
@@ -5285,6 +6031,8 @@
 पहरा	VM	O
 देता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 कभी	RDP	O
 -	SYM	O
 कभी	RDP	O
@@ -5293,6 +6041,8 @@
 बन	VM	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 उसके	PRP	O
 सिर	NN	O
 का	PSP	O
@@ -5302,6 +6052,8 @@
 दिया	VAUX	O
 गया	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 अब	PRP	O
 उसका	PRP	O
 जितना	QF	O
@@ -5311,6 +6063,8 @@
 कर	VM	O
 सकते	VAUX	O
 हो	VAUX	O
+Sentiment: -1
+
 कभी	RDP	O
 -	SYM	O
 कभी	PRP	O
@@ -5323,12 +6077,16 @@
 लिया	VM	O
 जाता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 अब	PRP	O
 मियाँ	NN	O
 हामिद	NN	O
 का	PSP	O
 हाल	NN	O
 सुनिए	VM	O
+Sentiment: 0
+
 अमीना	CC	O
 उसकी	PRP	O
 आवाज	NN	O
@@ -5343,6 +6101,8 @@
 प्यार	NN	O
 करने	VM	O
 लगी	VAUX	O
+Sentiment: -1
+
 सहसा	RB	O
 उसके	PRP	O
 हाथ	NN	ENAMEX_LIVTHINGS_B
@@ -5351,6 +6111,8 @@
 देखकर	VM	O
 वह	PRP	O
 चौंकी	NN	O
+Sentiment: -1
+
 '	SYM	O
 यह	DEM	O
 चिमटा	NN	O
@@ -5365,6 +6127,8 @@
 मोल	VM	O
 लिया	VAUX	O
 है	VAUX	O
+Sentiment: 0
+
 '	SYM	O
 कै	QC	O
 पैसे	NN	O
@@ -5377,6 +6141,8 @@
 तीन	QC	O
 पैसे	NN	O
 दिये	VM	O
+Sentiment: 0
+
 '	SYM	O
 
 अमीना	PRP	O
@@ -5384,6 +6150,8 @@
 छाती	NN	O
 पीट	VM	O
 ली	VAUX	O
+Sentiment: -1
+
 यह	PRP	O
 कैसा	WQ	O
 बेसमझ	NN	O
@@ -5397,6 +6165,8 @@
 खाया	VM	O
 न	NEG	O
 पिया	VM	O
+Sentiment: 0
+
 लाया	VM	O
 क्या	WQ	O
 ,	SYM	O
@@ -5420,6 +6190,8 @@
 चिमटा	NN	O
 उठा	VM	O
 लाया	VAUX	O
+Sentiment: 0
+
 हामिद	NN	O
 ने	PSP	O
 अपराधी	JJ	O
@@ -5439,6 +6211,8 @@
 मैने	PRP	O
 इसे	PRP	O
 लिया	VM	O
+Sentiment: 0
+
 बुढ़िया	NNP	ENAMEX_LOCATION_B
 का	PSP	O
 क्रोध	NN	O
@@ -5467,6 +6241,8 @@
 बिखेर	VM	O
 देता	VAUX	O
 है	VAUX	O
+Sentiment: -1
+
 यह	DEM	O
 मूक	NN	O
 स्नेह	NN	O
@@ -5481,6 +6257,8 @@
 से	PSP	O
 भरा	VM	O
 हुआ	VAUX	O
+Sentiment: -1
+
 बच्चे	NN	O
 में	PSP	O
 कितना	QF	O
@@ -5523,12 +6301,16 @@
 याद	NN	O
 बनी	VM	O
 रही	VAUX	O
+Sentiment: -1
+
 अमीना	NN	O
 का	PSP	O
 मन	NN	O
 गद्‌गद्‌	PSP	O
 हो	VM	O
 गया	VAUX	O
+Sentiment: -1
+
 और	CC	O
 अब	PRP	O
 एक	QC	O
@@ -5536,6 +6318,8 @@
 विचित्र	XC	O
 बात	NN	O
 हुई	VM	O
+Sentiment: -1
+
 हामिद	NN	O
 के	PSP	O
 इस	DEM	O
@@ -5543,6 +6327,8 @@
 से	PSP	O
 भी	RP	O
 विचित्र	JJ	O
+Sentiment: -1
+
 बच्चे	NN	O
 हामिद	NN	O
 ने	PSP	O
@@ -5552,15 +6338,21 @@
 पार्ट	NN	O
 खेला	VM	O
 था	VAUX	O
+Sentiment: -1
+
 बुढ़िया	XC	O
 अमीना	NNP	ENAMEX_LOCATION_B
 बालिका	NN	O
 अमीना	NN	O
 बन	VM	O
 गयी	VAUX	O
+Sentiment: -1
+
 वह	PRP	O
 रोने	VM	O
 लगी	VAUX	O
+Sentiment: -1
+
 दामन	NN	O
 फैलाकर	VM	O
 हामिद	NN	O
@@ -5579,9 +6371,13 @@
 गिराती	VM	O
 जाती	VAUX	O
 थी	VAUX	O
+Sentiment: -1
+
 हामिद	NN	O
 इसका	PRP	O
 रहस्य	NN	O
 क्या	WQ	O
 समझता	VM	O
 !	SYM	O
+Sentiment: -1
+

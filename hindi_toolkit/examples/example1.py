@@ -20,4 +20,4 @@ if __name__ == '__main__':
 
     htk.write_to_file('output.txt')
 
-    # htk.plot_sentiment_curve()
+    htk.plot_sentiment_curve()

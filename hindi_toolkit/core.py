@@ -6,6 +6,7 @@ from ner.crf_ner import tag_ner
 from ner.crf_ner import load_model as load_ner_model
 from sentiment.nb.nbclassify import read_model as load_sen_nb_model
 from sentiment.nb.nbclassify import predict_sentiment
+from sentiment.graph import plot_sentiment_curve
 
 import codecs
 
@@ -78,7 +79,7 @@ class Core():
                 outfile.write(token[0] + '\t' + token[1] +
                               '\t' + token[2] + '\n')
             try:
-                outfile.write('Sentiment: ' + self.sentiment[i] + '\n\n')
+                outfile.write('Sentiment: ' + str(self.sentiment[i]) + '\n\n')
             except:
                 pass
 
