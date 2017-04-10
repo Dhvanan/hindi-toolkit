@@ -767,8 +767,8 @@
 ले	VM	O
 लेती	VAUX	O
 ,	SYM	O
-लेकिन	CC	O
-यहाँ	NN	O
+लेकिन	XC	O
+यहाँ	NNP	ENAMEX_PERSON_B
 सेवैयाँ	PSP	O
 कौन	WQ	O
 पकायेगा	VM	O
@@ -1085,7 +1085,7 @@
 कालेज	NN	O
 है	VM	O
 ,	SYM	O
-यह	PRP	O
+यह	DEM	O
 क्लब	NN	O
 -	SYM	O
 घर	NN	O
@@ -1116,9 +1116,9 @@
 उनकी	PRP	O
 बड़ी	XC	O
 -	SYM	O
-बड़ी	JJ	O
-मूँछे	NN	O
-हैं	VM	O
+बड़ी	XC	O
+मूँछे	NNP	O
+हैं	VAUX	O
 इतने	QF	O
 बड़े	JJ	O
 हो	VM	O
@@ -2909,7 +2909,7 @@
 है	VAUX	O
 मोहसिन	XC	O
 रेवड़ी	NNP	ENAMEX_LOCATION_B
-अपने	PRP	O
+अपने	RDP	O
 मुँह	NN	O
 में	PSP	O
 रख	VM	O
@@ -3432,7 +3432,7 @@
 ,	SYM	O
 किसी	PRP	O
 से	PSP	O
-कुछ	PRP	O
+कुछ	QF	O
 माँगने	NN	O
 तो	RP	O
 नहीं	NEG	O
@@ -4087,7 +4087,7 @@
 यह	PRP	O
 बहादुर	JJ	O
 ,	SYM	O
-यह	PRP	O
+यह	DEM	O
 रूस्तमे	NN	O
 -	SYM	O
 हिंद	PRP	O
@@ -4304,7 +4304,7 @@
 है	VM	O
 ,	SYM	O
 जो	PRP	O
-यह	PRP	O
+यह	DEM	O
 रूस्तमे	NN	O
 -	SYM	O
 हिन्द	PRP	O
@@ -5204,7 +5204,7 @@
 जिससे	PRP	O
 वह	PRP	O
 टूटी	XC	O
-टाँग	SYM	O
+टाँग	NNP	ENAMEX_LOCATION_B
 को	PSP	O
 आनन	NN	O
 -	SYM	O
