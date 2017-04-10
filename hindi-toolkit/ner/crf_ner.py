@@ -1,6 +1,13 @@
 # coding: utf-8
 
+import json
+import codecs
 import sklearn_crfsuite
+from sklearn.externals import joblib
+
+PATH_TO_MODELS = '../models/'
+PATH_TO_TRAIN = '../data/ner/train.json'
+ENCODING = 'utf-8'
 
 def get_features(sentence, i):
     word = sentence[i]
@@ -50,14 +57,21 @@ def get_features(sentence, i):
 
 
 def get_X_y(sentences):
-    X, y = [], []
+    X = get_X(sentences)
+    y = []
 
     for sentence in sentences:
-        X.append([get_features(sentence, i)
-                  for i in range(len(sentence))])
         y.append([word[len(word) - 1] for word in sentence])
 
     return X, y
+
+
+def get_X(sentences):
+    X = []
+    for sentence in sentences:
+        X.append([get_features(sentence, i)
+                  for i in range(len(sentence))])
+    return X
 
 
 def train_model(train):
@@ -75,3 +89,35 @@ def train_model(train):
 
     return crf
 
+
+def save_model(train):
+    crf = train_model(train)
+    joblib.dump(crf, PATH_TO_MODELS + 'crf_ner.pkl')
+
+
+def load_model():
+    crf = joblib.load(PATH_TO_MODELS + 'crf_ner.pkl')
+    return crf
+
+
+def tag_ner(sentences, crf):
+    X = get_X(sentences)
+
+    y = crf.predict(X)
+
+    for i in range(len(sentences)):
+        for j in range((len(sentences[i]))):
+            sentences[i][j][2] = y[i][j]
+
+
+def load():
+    json_data = json.load(codecs.open(
+        PATH_TO_TRAIN, 'r', 'utf-8'), encoding=ENCODING)
+    return json_data['sentences']
+
+
+if __name__ == '__main__':
+
+    sentences = load()
+
+    save_model(sentences)
