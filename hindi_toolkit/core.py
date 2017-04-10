@@ -4,6 +4,8 @@ from pos.pos_tagger import pos_tag, tokenize
 from pos.pos_tagger import load_model as load_pos_model
 from ner.crf_ner import tag_ner
 from ner.crf_ner import load_model as load_ner_model
+from sentiment.nb.nbclassify import read_model as load_sen_nb_model
+from sentiment.nb.nbclassify import predict_sentiment
 
 import codecs
 
@@ -16,6 +18,9 @@ class Core():
         self.models = {}
         self.models['pos'] = load_pos_model()
         self.models['ner'] = load_ner_model()
+        self.models['sent_nb'] = dict()
+        self.models['sent_nb']['priors'], self.models[
+            'sent_nb']['tprob_dict'] = load_sen_nb_model()
 
     def load(self, doc, process=True):
         self.doc = doc
@@ -33,7 +38,7 @@ class Core():
             self.tokenize()\
                 .tag_pos()\
                 .tag_ner()\
-                # .predict_sentiment()
+                .predict_sentiment()
 
     def split_sentence(self):
         pass
@@ -58,8 +63,9 @@ class Core():
         return self
 
     def predict_sentiment(self):
-        # self.sentiment = predict_sentiment(self.sentences)
-        pass
+        self.sentiment = predict_sentiment(self.sentences, self.models['sent_nb'][
+                                           'priors'], self.models['sent_nb']['tprob_dict'])
+        return self
 
     def plot_sentiment_curve(self):
         plot_sentiment_curve(self.sentiment)
