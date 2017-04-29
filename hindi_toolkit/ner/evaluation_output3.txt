@@ -1,0 +1,110 @@
+Analysis of the NE types in the entire Data
+O 74411
+ENAMEX_LOCATION_B 3503
+ENAMEX_LOCATION_I 1320
+ENAMEX_PERSON_B 648
+ENAMEX_ENTERTAINMENT_B 366
+ENAMEX_ORGANIZATION_I 279
+NUMEX_DISTANCE_I 219
+ENAMEX_ARTIFACT_B 210
+ENAMEX_LIVTHINGS_B 208
+NUMEX_DISTANCE_B 203
+ENAMEX_PERSON_I 203
+ENAMEX_ENTERTAINMENT_I 202
+NUMEX_COUNT_B 166
+TIMEX_MONTH_B 155
+ENAMEX_FACILITIES_I 149
+ENAMEX_ORGANIZATION_B 148
+ENAMEX_MATERIALS_B 136
+TIMEX_PERIOD_I 129
+ENAMEX_ARTIFACT_I 102
+TIMEX_PERIOD_B 100
+ENAMEX_FACILITIES_B 84
+NUMEX_MONEY_I 83
+TIMEX_YEAR_B 79
+ENAMEX_LOCOMOTIVE_I 77
+ENAMEX_LOCOMOTIVE_B 72
+ENAMEX_DISEASE_B 67
+NUMEX_QUANTITY_I 67
+NUMEX_QUANTITY_B 57
+ENAMEX_PLANTS_B 55
+NUMEX_COUNT_I 52
+NUMEX_MONEY_B 51
+ENAMEX_MATERIALS_I 47
+ENAMEX_DISEASE_I 47
+TIMEX_DATE_I 29
+ENAMEX_LIVTHINGS_I 26
+TIMEX_DATE_B 21
+TIMEX_MONTH_I 14
+TIMEX_TIME_B 11
+TIMEX_TIME_I 11
+TIMEX_DAY_B 8
+TIMEX_SDAY_B 8
+TIMEX_SDAY_I 6
+TIMEX_YEAR_I 5
+ENAMEX_PLANTS_I 2
+
+
+Total # sentences : 	4479
+# sentences in train: 	3584
+# sentences in test: 	895
+
+
+-----------
+
+Sample feature extraction
+{'pos_tag': u'CC', '+1:word.is_punct': False, 'word': u'\u0905\u0917\u0930', '+1:pos_tag:': u'PRP', '+1:word': u'\u092f\u0939\u093e\u0902', '+1:pos_tag[:2]': u'PR', 'word[-2:]': u'\u0917\u0930', 'pos_tag[:2]': u'CC', 'word.is_digit': False, 'word[-3:]': u'\u0905\u0917\u0930', '+1:is_digit': False, 'word.is_punct': False, 'first_word': True} O
+
+
+-----------
+
+F1 score :  0.786442650803
+NE label wise analysis
+             precision    recall  f1-score   support
+
+TIMEX_DATE_B      0.000     0.000     0.000         3
+TIMEX_DATE_I      0.000     0.000     0.000         7
+TIMEX_DAY_B      1.000     0.500     0.667         2
+TIMEX_MONTH_B      0.692     1.000     0.818        18
+TIMEX_MONTH_I      0.000     0.000     0.000         4
+TIMEX_PERIOD_B      0.909     0.870     0.889        23
+TIMEX_PERIOD_I      0.931     0.900     0.915        30
+TIMEX_SDAY_B      0.000     0.000     0.000         0
+TIMEX_SDAY_I      0.000     0.000     0.000         0
+TIMEX_TIME_B      1.000     1.000     1.000         2
+TIMEX_TIME_I      1.000     1.000     1.000         2
+TIMEX_YEAR_B      0.818     0.900     0.857        10
+TIMEX_YEAR_I      0.000     0.000     0.000         1
+ENAMEX_ARTIFACT_B      0.692     0.290     0.409        31
+ENAMEX_ARTIFACT_I      0.600     0.500     0.545        12
+ENAMEX_DISEASE_B      0.600     0.300     0.400        10
+ENAMEX_DISEASE_I      0.778     0.500     0.609        14
+ENAMEX_ENTERTAINMENT_B      0.817     0.725     0.768        80
+ENAMEX_ENTERTAINMENT_I      0.737     0.700     0.718        40
+ENAMEX_FACILITIES_B      0.800     0.333     0.471        12
+ENAMEX_FACILITIES_I      0.692     0.360     0.474        25
+ENAMEX_LIVTHINGS_B      0.714     0.441     0.545        34
+ENAMEX_LIVTHINGS_I      0.000     0.000     0.000         5
+ENAMEX_LOCATION_B      0.875     0.911     0.893       777
+ENAMEX_LOCATION_I      0.759     0.794     0.776       282
+ENAMEX_LOCOMOTIVE_B      0.900     0.692     0.783        13
+ENAMEX_LOCOMOTIVE_I      0.929     0.765     0.839        17
+ENAMEX_MATERIALS_B      0.857     0.353     0.500        34
+ENAMEX_MATERIALS_I      1.000     0.125     0.222         8
+ENAMEX_ORGANIZATION_B      0.750     0.667     0.706        27
+ENAMEX_ORGANIZATION_I      0.766     0.766     0.766        47
+ENAMEX_PERSON_B      0.893     0.591     0.711       127
+ENAMEX_PERSON_I      0.591     0.406     0.481        32
+ENAMEX_PLANTS_B      1.000     0.400     0.571        20
+ENAMEX_PLANTS_I      0.000     0.000     0.000         1
+NUMEX_COUNT_B      0.704     0.704     0.704        27
+NUMEX_COUNT_I      0.200     1.000     0.333         2
+NUMEX_DISTANCE_B      0.969     0.939     0.954        33
+NUMEX_DISTANCE_I      0.970     0.941     0.955        34
+NUMEX_MONEY_B      1.000     0.875     0.933         8
+NUMEX_MONEY_I      1.000     0.889     0.941        18
+NUMEX_QUANTITY_B      0.917     0.846     0.880        13
+NUMEX_QUANTITY_I      0.917     0.733     0.815        15
+
+avg / total      0.827     0.771     0.786      1900
+

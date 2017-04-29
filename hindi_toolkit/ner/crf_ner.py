@@ -1,6 +1,7 @@
 # coding: utf-8
 
 import json
+import string
 import codecs
 import sklearn_crfsuite
 from sklearn.externals import joblib
@@ -8,6 +9,40 @@ from sklearn.externals import joblib
 PATH_TO_MODELS = '../models/'
 PATH_TO_TRAIN = '../data/ner/train.json'
 ENCODING = 'utf-8'
+
+vowel_set = set([
+    u'\u093a',
+    u'\u093b',
+    u'\u093c',
+    u'\u093d',
+    u'\u093e',
+    u'\u093f',
+    u'\u0940',
+    u'\u0941',
+    u'\u0942',
+    u'\u0943',
+    u'\u0944',
+    u'\u0945',
+    u'\u0946',
+    u'\u0947',
+    u'\u0948',
+    u'\u0949',
+    u'\u094a',
+    u'\u094b',
+    u'\u094c',
+    u'\u094d',
+    u'\u094e',
+    u'\u094f',
+    u'\u0950',
+    u'\u0951',
+    u'\u0952',
+    u'\u0953',
+    u'\u0954',
+    u'\u0955',
+    u'\u0956',
+    u'\u0957',
+])
+
 
 def get_features(sentence, i):
     word = sentence[i]
@@ -20,7 +55,12 @@ def get_features(sentence, i):
         'word[-2:]': word[0][-2:],
         'word.is_digit': word[0].isdigit(),
         'pos_tag': word[1],
-        'pos_tag[:2]': word[1][:2]
+        'pos_tag[:2]': word[1][:2],
+        # New features
+        'word:is_punct': word[0] in string.punctuation,
+        'word:in_first_half': i <= len(sentence),
+        'word:length': len(word[0]),
+        'word:ends_vowel': word[0][-1] in vowel_set
     }
 
     # if not first word
@@ -30,7 +70,12 @@ def get_features(sentence, i):
             '-1:word': prev_word[0],
             '-1:pos_tag:': prev_word[1],
             '-1:pos_tag[:2]': prev_word[1][:2],
-            '-1:is_digit': prev_word[0].isdigit()
+            '-1:is_digit': prev_word[0].isdigit(),
+            # New features
+            '-1:word.is_punct': prev_word[0] in string.punctuation,
+            '-1:length': len(prev_word[0]),
+            '-1,0:word': [prev_word[0], word[0]],
+            '-1:ends_vowel': prev_word[0][-1] in vowel_set
         })
 
     else:
@@ -45,7 +90,12 @@ def get_features(sentence, i):
             '+1:word': next_word[0],
             '+1:pos_tag:': next_word[1],
             '+1:pos_tag[:2]': next_word[1][:2],
-            '+1:is_digit': next_word[0].isdigit()
+            '+1:is_digit': next_word[0].isdigit(),
+            # New features
+            '+1:word.is_punct': next_word[0] in string.punctuation,
+            '+1:length': len(next_word[0]),
+            'word, +1': [word[0], next_word[0]],
+            '+1:ends_vowel': next_word[0][-1] in vowel_set
         })
 
     else:
